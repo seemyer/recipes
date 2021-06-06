@@ -1,14 +1,18 @@
 ## Ingredients:
 **Levain**
-	32g	Flour
-	32g	Water
-	16g	Sourdough
+```
+32g	Flour
+32g	Water
+16g	Sourdough
+```
 **Final Dough**
-	344g	Flour
-	226g	Water
-	6g	Salt
-	8g	Oil
-	80g	Levain
+```
+344g	Flour
+226g	Water
+6g	Salt
+8g	Oil
+80g	Levain
+```
 
 ## Steps:
 1. **Prepare the levain:** About 12 hours before you mix the dough, combine the levain ingredients and leave to ferment on the counter.
