@@ -1,9 +1,9 @@
-Levain:
-	32g	Flour
-	32g	Water
-	16g	Sourdough
+## Levain:
+: 32g	Flour
+: 32g	Water
+: 16g	Sourdough
 
-Final Dough:
+## Final Dough:
 	344g	Flour
 	226g	Water
 	6g	Salt
