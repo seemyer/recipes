@@ -13,7 +13,7 @@
 344g	Flour
 226g	Water
 6g	Salt
-8g	Oil
+8g	Extra Virgin Olive Oil
 80g	Levain
 ```
 
