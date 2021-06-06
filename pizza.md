@@ -6,7 +6,7 @@
 ```
 32g	Flour
 32g	Water
-16g	Sourdough
+16g	Sourdough Starter
 ```
 **Final Dough**
 ```
