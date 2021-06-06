@@ -1,7 +1,7 @@
 ## Levain:
-: 32g	Flour
-: 32g	Water
-: 16g	Sourdough
+	32g	Flour
+	32g	Water
+	16g	Sourdough
 
 ## Final Dough:
 	344g	Flour
@@ -10,6 +10,7 @@
 	8g	Oil
 	80g	Levain
 
+## Steps:
 Prepare the levain: About 12 hours before you mix the dough, combine the levain ingredients and leave to ferment on the counter.
 
 For same day pizza, begin following steps about 9 hours before you want to eat.
