@@ -1,5 +1,5 @@
 ## Yield:
-2x 10.5" cast iron pan pizzas
+2x	10.5" cast iron pan pizzas
 
 ## Ingredients:
 **Levain**
