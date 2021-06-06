@@ -45,7 +45,7 @@
 	Transfer skillets to oven and bake until top is golden brown and bubbly and bottom is golden brown and crisp when you lift it with a thin spatula, about 8 minutes. Immediately sprinkle with grated Parmesan, if using. Using a thin spatula, loosen pizza and peek underneath. If bottom is not as crisp as desired, place pan over a burner and cook on medium heat, moving the pan around to cook evenly until it is crisp, 1 to 3 minutes. Remove the pizzas and transfer to a cutting board. Cut each pizza into 6 slices and serve immediately.
 
 ## Sources:
-https://www.theperfectloaf.com/sourdough-pizza-al-taglio/
-https://www.pizzamaking.com/forum/index.php?topic=28922.0
-https://www.seriouseats.com/foolproof-pan-pizza-recipe
-https://cooking.nytimes.com/recipes/1022148-low-knead-bread
+https://www.theperfectloaf.com/sourdough-pizza-al-taglio/  
+https://www.pizzamaking.com/forum/index.php?topic=28922.0  
+https://www.seriouseats.com/foolproof-pan-pizza-recipe  
+https://cooking.nytimes.com/recipes/1022148-low-knead-bread  
