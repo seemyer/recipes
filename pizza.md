@@ -11,15 +11,15 @@
 	80g	Levain
 
 ## Steps:
-Prepare the levain: About 12 hours before you mix the dough, combine the levain ingredients and leave to ferment on the counter.
+1. Prepare the levain: About 12 hours before you mix the dough, combine the levain ingredients and leave to ferment on the counter.
 
-For same day pizza, begin following steps about 9 hours before you want to eat.
+2. For same day pizza, begin following steps about 9 hours before you want to eat.
 
-Mix the dough: Combine dry ingredients in a large bowl and mix with your hands until mostly homogenous. Combine the water, lemon juice and sourdough, then add to the bowl. Form one hand into a stiff claw, and stir with it until no dry flour remains and the dough forms a sticky, shaggy ball. Roll the ball around the bowl until most of the dough is part of the same large mass. The mixing process should take no more than 30 to 45 seconds.
+3. Mix the dough: Combine dry ingredients in a large bowl and mix with your hands until mostly homogenous. Combine the water, lemon juice and sourdough, then add to the bowl. Form one hand into a stiff claw, and stir with it until no dry flour remains and the dough forms a sticky, shaggy ball. Roll the ball around the bowl until most of the dough is part of the same large mass. The mixing process should take no more than 30 to 45 seconds.
 
-Scrape your dough-covered hand with your clean hand to get most of the dough into the bowl, then cover with a sheet pan, foil, or plastic wrap. Allow the dough to rest for 30 minutes.
+4. Scrape your dough-covered hand with your clean hand to get most of the dough into the bowl, then cover with a sheet pan, foil, or plastic wrap. Allow the dough to rest for 30 minutes.
 
-Fold the dough: After the dough has rested, the dough should look very wet and sloppy. Dip your hands briefly in a bowl of water, then shake off the excess. Using one hand, scoop your fingers under one side of the dough to the very bottom of the bowl and, working quickly, lift that side, stretch it a few inches, and fold it over to the opposite side. Rotate the bowl and repeat, 4 to 6 times, until you’ve worked all the way around the dough. (The dough will become noticeably tighter and a little more difficult to stretch with each fold.)
+5. Fold the dough: After the dough has rested, the dough should look very wet and sloppy. Dip your hands briefly in a bowl of water, then shake off the excess. Using one hand, scoop your fingers under one side of the dough to the very bottom of the bowl and, working quickly, lift that side, stretch it a few inches, and fold it over to the opposite side. Rotate the bowl and repeat, 4 to 6 times, until you’ve worked all the way around the dough. (The dough will become noticeably tighter and a little more difficult to stretch with each fold.)
 
 Cover the bowl and allow to continue resting. Repeat this folding 3 more times, every 30 minutes. By the last folding step, the dough should be smoother and tighter. Let the dough ferment for 3 hours total (including the folding steps) if ambient temperature is about 72°F.
 
