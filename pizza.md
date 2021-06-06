@@ -20,7 +20,7 @@
 ## Steps:
 1. **Prepare the levain:** About 12 hours before you mix the dough, combine the levain ingredients and leave to ferment on the counter.
 
-2. For same day pizza, begin following next steps about 9 hours before you want to eat.
+2. For same day pizza, begin following next steps about 9 hours before you want to eat (or maybe 10 hours if your ambient temperature is below 72°F).
 
 3. **Mix the dough:** Combine dry ingredients in a large bowl and mix with your hands until mostly homogenous. Combine the water, lemon juice and sourdough, then add to the bowl. Form one hand into a stiff claw, and stir with it until no dry flour remains and the dough forms a sticky, shaggy ball. Roll the ball around the bowl until most of the dough is part of the same large mass. The mixing process should take no more than 30 to 45 seconds.
 
