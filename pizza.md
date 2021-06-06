@@ -1,9 +1,9 @@
 ## Ingredients:
-### Levain
+	### Levain
 	32g	Flour
 	32g	Water
 	16g	Sourdough
-### Final Dough
+	### Final Dough
 	344g	Flour
 	226g	Water
 	6g	Salt
@@ -35,4 +35,4 @@
 
 8. Bake the pizzas: When crust is ready, top each with tomato sauce. Par-bake the crusts for about 8 minutes, or until they are just starting to turn golden. Remove skillets from the oven and add the rest of the toppings. When adding cheese, make sure it covers the crust all the way to the skillet sides.
 
-Transfer skillets to oven and bake until top is golden brown and bubbly and bottom is golden brown and crisp when you lift it with a thin spatula, about 8 minutes. Immediately sprinkle with grated Parmesan, if using. Using a thin spatula, loosen pizza and peek underneath. If bottom is not as crisp as desired, place pan over a burner and cook on medium heat, moving the pan around to cook evenly until it is crisp, 1 to 3 minutes. Remove the pizzas and transfer to a cutting board. Cut each pizza into 6 slices and serve immediately.
+	Transfer skillets to oven and bake until top is golden brown and bubbly and bottom is golden brown and crisp when you lift it with a thin spatula, about 8 minutes. Immediately sprinkle with grated Parmesan, if using. Using a thin spatula, loosen pizza and peek underneath. If bottom is not as crisp as desired, place pan over a burner and cook on medium heat, moving the pan around to cook evenly until it is crisp, 1 to 3 minutes. Remove the pizzas and transfer to a cutting board. Cut each pizza into 6 slices and serve immediately.
