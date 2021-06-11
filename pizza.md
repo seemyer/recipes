@@ -14,6 +14,7 @@
 226g	Water
 6g	Salt
 8g	Extra Virgin Olive Oil
+⅛tsp	Lemon Juice
 80g	Levain
 ```
 
