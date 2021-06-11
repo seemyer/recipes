@@ -23,7 +23,7 @@
 
 2. For same day pizza, begin following next steps about 9 hours before you want to eat (or maybe 10 hours if your ambient temperature is below 72°F).
 
-3. **Mix the dough:** Combine dry ingredients in a large bowl and mix with your hands until mostly homogenous. Combine the water, lemon juice and sourdough, then add to the bowl. Form one hand into a stiff claw, and stir with it until no dry flour remains and the dough forms a sticky, shaggy ball. Roll the ball around the bowl until most of the dough is part of the same large mass. The mixing process should take no more than 30 to 45 seconds.
+3. **Mix the dough:** Combine dry ingredients in a large bowl and mix with your hands until mostly homogenous. Combine the water, lemon juice and sourdough with a whisk, then add the wet ingredients and olive oil to the dry ingredients in the bowl. Form one hand into a stiff claw, and stir with it until no dry flour remains and the dough forms a sticky, shaggy ball. Roll the ball around the bowl until most of the dough is part of the same large mass. The mixing process should take no more than 30 to 45 seconds.
 
 	Scrape your dough-covered hand with your clean hand to get most of the dough into the bowl, then cover with a sheet pan, foil, or plastic wrap. Allow the dough to rest for 30 minutes.
 
