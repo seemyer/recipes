@@ -20,7 +20,7 @@ Kosher salt
 1/4	teaspoon  cayenne pepper, plus more if desired
 1	tablespoon (15ml) tomato paste
 One	22.6 oz can Campbell's Cream of Mushroom soup
-One	28 oz can crushed tomatoes (reduce until 22 oz)
+One	28 oz can crushed tomatoes
 1/2	ounce (15g) dark chocolate
 1/2	teaspoon (3ml)  Asian fish sauce
 1 dried	bay leaf
@@ -36,7 +36,7 @@ One	28 oz can crushed tomatoes (reduce until 22 oz)
 
 4. Seal cooker, bring to high pressure, and cook for 20 minutes. Quick-release cooker and stir chili well, scraping bottom to make sure nothing is sticking.
 
-5. Discard bay leaf. Stir in drained beans. Season with salt and plenty of black pepper. Taste chili and add more chili powder or cayenne pepper to taste, if desired. Let simmer, stirring occasionally, for 5 minutes. If chili is too thick, stir in some reserved bean-cooking liquid to thin to desired consistency. If chili is too thin, simmer until thickened to desired consistency.
+5. Discard bay leaf. Stir in drained beans. Season with salt and plenty of black pepper. Taste chili and add more chili powder or cayenne pepper to taste, if desired. Let simmer, stirring occasionally, for 15 minutes. If chili is too thick, stir in some reserved bean-cooking liquid to thin to desired consistency. If chili is too thin, simmer until thickened to desired consistency.
 
 6. Serve with the toppings of your choice.
 
