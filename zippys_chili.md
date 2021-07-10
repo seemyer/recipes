@@ -7,24 +7,24 @@ Clone attempt v1.0
 
 ## ingredients  
 ```
-1	tablespoon (15ml)	    vegetable oil, plus more if needed
-2	pounds (1.1kg)	        ground beef, at least 15% fat
+1	tablespoon (15ml) vegetable oil, plus more if needed
+2	pounds (1.1kg)  ground beef, at least 15% fat
 1	medium (8-ounce; 225g)	yellow onion, diced
-1	                        green bell pepper, diced
-                          Kosher salt
-3	medium	                cloves garlic, minced
-3	tablespoons	            chili powder, plus more if desired
-1/2	teaspoon	            onion powder
-1/2	teaspoon	            garlic powder
-1/2	teaspoon	            ground cumin, plus more as needed
-1/4	teaspoon	            cayenne pepper, plus more if desired
-1	tablespoon (15ml)	      tomato paste
-One	22.6 oz can	          Campbell's Cream of Mushroom soup
-One	28 oz can	            crushed tomatoes (reduce until 22 oz)
-1/2	ounce (15g)	          dark chocolate
-1/2	teaspoon (3ml)	      Asian fish sauce
-1	                        dried	bay leaf
-3	cups	                  cooked and drained red kidney beans or 2 15.5-ounce (439g) cans red kidney beans, drained (see note)
+1 green bell pepper, diced
+Kosher salt
+3	medium  cloves garlic, minced
+3	tablespoons chili powder, plus more if desired
+1/2	teaspoon  onion powder
+1/2	teaspoon  garlic powder
+1/2	teaspoon  ground cumin, plus more as needed
+1/4	teaspoon  cayenne pepper, plus more if desired
+1	tablespoon (15ml) tomato paste
+One	22.6 oz can Campbell's Cream of Mushroom soup
+One	28 oz can crushed tomatoes (reduce until 22 oz)
+1/2	ounce (15g) dark chocolate
+1/2	teaspoon (3ml)  Asian fish sauce
+1 dried	bay leaf
+3	cups  cooked and drained red kidney beans or 2 15.5-ounce (439g) cans red kidney beans, drained (see note)
 ```
 
 ## steps  
