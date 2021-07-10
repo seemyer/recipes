@@ -1,9 +1,7 @@
-# TITLE  
-Optional subheader
+# Old Fashioned  
 
 ## info  
-* About XXX minutes  
-* XXX servings  
+* 1 servings  
 
 ## ingredients  
 ```
