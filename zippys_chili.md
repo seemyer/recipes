@@ -1,5 +1,5 @@
 # Zippy's Chili  
-Clone attempt v1.0
+Clone attempt v1.1
 
 ## info  
 * About 60 minutes  
@@ -11,7 +11,7 @@ Clone attempt v1.0
 2	pounds (1.1kg)  ground beef, at least 15% fat
 1	medium (8-ounce; 225g)	yellow onion, diced
 1 green bell pepper, diced
-Kosher salt
+2 teaspoon  Kosher salt
 3	medium  cloves garlic, minced
 3	tablespoons chili powder, plus more if desired
 1/2	teaspoon  onion powder
@@ -21,10 +21,11 @@ Kosher salt
 1	tablespoon (15ml) tomato paste
 One	22.6 oz can Campbell's Cream of Mushroom soup
 One	28 oz can crushed tomatoes
+4 ounces  water
 1/2	ounce (15g) dark chocolate
 1/2	teaspoon (3ml)  Asian fish sauce
 1 dried	bay leaf
-3	cups  cooked and drained red kidney beans or 2 15.5-ounce (439g) cans red kidney beans, drained (see note)
+4	cups  cooked and drained red kidney beans or 3 15.5-ounce (439g) cans red kidney beans, drained (see note)
 ```
 
 ## steps  
@@ -32,7 +33,7 @@ One	28 oz can crushed tomatoes
 
 2. Add onion and cook, stirring and scraping up any browned bits from bottom of cooker, until lightly golden, about 5 minutes. Season with salt. Stir in garlic, chili powder, onion powder, garlic powder, cumin, and cayenne pepper, and cook, stirring, until fragrant, about 1 minute. (Add more oil at any time if cooker seems too dry.) Add tomato paste and cook, stirring, until slightly darkened, about 1 minute.
 
-3. Return browned beef to cooker along with any accumulated juices. Add uncooked beef, cream of mushroom and tomato soups, and stir well to combine. Season lightly with salt. Stir in chocolate and fish sauce. Add bay leaf. Bring to a simmer, stirring well and scraping bottom all over. Using a wooden spoon or potato masher, break up any chunks of ground beef. Scrape bottom all over once more before sealing the cooker.
+3. Return browned beef to cooker along with any accumulated juices. Add uncooked beef, cream of mushroom soup, crushed tomatoes, and water. Stir well to combine. Season to taste with salt. Stir in chocolate and fish sauce. Add bay leaf. Bring to a simmer, stirring well and scraping bottom all over. Using a wooden spoon or potato masher, break up any chunks of ground beef. Scrape bottom all over once more before sealing the cooker.
 
 4. Seal cooker, bring to high pressure, and cook for 20 minutes. Quick-release cooker and stir chili well, scraping bottom to make sure nothing is sticking.
 
