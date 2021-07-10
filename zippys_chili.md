@@ -44,6 +44,5 @@ One	28 oz can	crushed tomatoes (reduce until 22 oz)
 * To cook dried red kidney beans, before making the chili, add 1/2 pound (227g) dried red kidney beans to pressure cooker and cover with at least 3 inches of cold water. Season water to taste with salt, add 1 peeled onion, 2 medium cloves garlic, 1 dried bay leaf, and a sprig or two of fresh thyme or rosemary (if desired). Bring to high pressure, cook for 25 minutes, then quick-release the cooker to depressurize. You should have just slightly more than 3 cups cooked beans. Transfer cooked beans to a heatproof container, leaving them in their cooking liquid until ready to use. Clean pressure cooker before making chili.
 
 ## sources   
-https://www.seriouseats.com/pressure-cooker-ground-beef-and-bean-chili
-
+https://www.seriouseats.com/pressure-cooker-ground-beef-and-bean-chili  
 https://www.reddit.com/r/Hawaii/comments/hdtgda/recipe_request_anyone_have_a_good_zippys_chili/fvn6fej/
