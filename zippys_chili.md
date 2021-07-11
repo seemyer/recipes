@@ -10,8 +10,8 @@ Clone attempt v1.1
 1	tablespoon (15ml) vegetable oil, plus more if needed
 2	pounds (1.1kg)  ground beef, at least 15% fat
 1	medium (8-ounce; 225g)	yellow onion, diced
-1 green bell pepper, diced
-2 teaspoon  Kosher salt
+1   green bell pepper, diced
+2   teaspoon  Kosher salt
 3	medium  cloves garlic, minced
 3	tablespoons chili powder, plus more if desired
 1/2	teaspoon  onion powder
