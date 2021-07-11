@@ -25,7 +25,7 @@ One	28 oz can crushed tomatoes
 1/2	ounce (15g) dark chocolate
 1/2	teaspoon (3ml)  Asian fish sauce
 1 dried	bay leaf
-4	cups  cooked and drained red kidney beans or 3 15.5-ounce (439g) cans red kidney beans, drained (see note)
+3  15.5-ounce (439g) cans  red kidney beans, drained (or 4 cups cooked dry red kidney beans, see note)
 ```
 
 ## steps  
