@@ -3,7 +3,7 @@ Clone attempt v1.1
 
 ## info  
 * About 60 minutes  
-* XXX servings  
+* 12+ servings  
 
 ## ingredients  
 ```
