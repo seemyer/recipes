@@ -1,4 +1,4 @@
-# CORNICHON BRINE  
+# CORNICHONS  
 Optional subheader
 
 ## info  
