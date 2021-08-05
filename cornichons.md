@@ -12,8 +12,8 @@ Optional subheader
 500ml white wine vinegar
 500ml water
 30g pearl onions or shallots
-1 clove garlic, quartered lengthwise
 1 sprig tarragon
+1 clove garlic, quartered lengthwise
 1tbsp  peppercorns
 0.5tsp  mustard seeds
 0.5tsp allspice berries
