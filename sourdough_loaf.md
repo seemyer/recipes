@@ -1,5 +1,6 @@
 # Weekday Sourdough Loaf  
 ![loaf](https://static01.nyt.com/images/2021/05/05/dining/03Kenjirex2/merlin_186913383_1f91b6ab-1ccd-4d4b-b892-defc19633901-articleLarge.jpg)
+![loaf](https://cdn.copymethat.com/media/low_knead_bread_20210513173415505519koorjo.jpg)
 
 ## info  
 * About 9 hours (including cooling)  
