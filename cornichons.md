@@ -1,5 +1,5 @@
 # CORNICHONS  
-Optional subheader
+![cornichons](https://cdn3.volusion.com/djemv.oqnyw/v/vspfiles/photos/w8820-2.png)
 
 ## info  
 * About 20 minutes  
@@ -11,7 +11,7 @@ Optional subheader
 18g kosher salt
 500ml white wine vinegar
 500ml water
-30g pearl onions or shallots
+80g pearl onions or shallots
 1 sprig tarragon
 1 clove garlic, quartered lengthwise
 1tbsp  peppercorns
@@ -33,7 +33,7 @@ Optional subheader
 9. Cool jars and store in a cool, dark place for 3 weeks before opening. 
 
 ## notes  
-* 
+* 2021 batch: Used TJ's White Modena Vinegar in 500:375 ratio (vinegar:water).  
 
 ## sources   
 https://www.epicurious.com/recipes/food/views/moniques-cornichons-15399  
