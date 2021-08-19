@@ -1,6 +1,6 @@
 # Devil's Food Cake  
 Go-to for D's birthday cakes or cupcakes.
-![cake](https://www.seriouseats.com/thmb/Vv6T0xbomJfO_yucti9G-5fJJgY=/320x0/filters/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__01__20180131-devils-food-cake-vicky-wasik-22-a4b4dd3ad00747df9a4b2e5b1d5fd112.jpg)
+![cake](https://www.seriouseats.com/thmb/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__01__20180131-devils-food-cake-vicky-wasik-22-a4b4dd3ad00747df9a4b2e5b1d5fd112.jpg)
 
 ## info  
 * About 30 minutes active (3 hours total)  
