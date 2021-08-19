@@ -37,6 +37,7 @@ TO FINISH:
 ## notes  
 * 
 FOR 24 CUPCAKES:  
+```
 224	grams	unsalted butter (2 sticks)  
 224	grams	brewed black coffee, or black tea such as Assam  
 56	grams	Dutch-process cocoa powder, such as Cacao Barry Extra Brute  
@@ -48,9 +49,11 @@ FOR 24 CUPCAKES:
 2	large egg yolks, straight from the fridge  
 168	grams	all-purpose flour  
 2	teaspoons	baking soda  
+```
 
 FROSTING:  
 https://www.seriouseats.com/swiss-meringue-buttercream-frosting-recipe  
+```
 56   grams egg whites, from 2 large eggs  
 102   grams granulated sugar  
 1/4   teaspoon (1g) Diamond Crystal kosher salt  
@@ -58,6 +61,6 @@ https://www.seriouseats.com/swiss-meringue-buttercream-frosting-recipe
 186   grams unsalted butter (13 tablespoons), softened to about 65°F (18°C)  
 1/2   teaspoon   vanilla extract  
 1/8   teaspoon   almond extract  
-
+```
 ## sources  
 https://www.seriouseats.com/bravetarts-devils-food-cake  
