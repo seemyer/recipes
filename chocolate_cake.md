@@ -51,6 +51,13 @@ FOR 24 CUPCAKES:
 
 FROSTING:  
 https://www.seriouseats.com/swiss-meringue-buttercream-frosting-recipe  
+56   grams egg whites, from 2 large eggs  
+102   grams granulated sugar  
+1/4   teaspoon (1g) Diamond Crystal kosher salt  
+1/8   teaspoon   cream of tartar  
+186   grams unsalted butter (13 tablespoons), softened to about 65°F (18°C)  
+1/2   teaspoon   vanilla extract  
+1/8   teaspoon   almond extract  
 
 ## sources  
 https://www.seriouseats.com/bravetarts-devils-food-cake  
