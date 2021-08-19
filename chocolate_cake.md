@@ -45,7 +45,7 @@ FOR 24 CUPCAKES:
 10	grams	vanilla extract (about 2 teaspoon)  
 3	grams	Diamond Crystal kosher salt  
 4	large eggs, straight from the fridge  
-2	large egg yolks, straight from the fridge	 
+2	large egg yolks, straight from the fridge  
 168	grams	all-purpose flour  
 2	teaspoons	baking soda  
 
