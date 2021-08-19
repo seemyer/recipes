@@ -37,14 +37,14 @@ TO FINISH:
 ## notes  
 * 
 FOR 24 CUPCAKES:  
-224	grams	unsalted butter  
+224	grams	unsalted butter (2 sticks)  
 224	grams	brewed black coffee, or black tea such as Assam  
 56	grams	Dutch-process cocoa powder, such as Cacao Barry Extra Brute  
 112	grams	finely chopped dark chocolate  
 300	grams	light brown sugar  
 10	grams	vanilla extract (about 2 teaspoon)  
 3	grams	Diamond Crystal kosher salt  
-4	large eggs, straight from the fridge	
+4	large eggs, straight from the fridge  
 2	large egg yolks, straight from the fridge	 
 168	grams	all-purpose flour  
 2	teaspoons	baking soda  
