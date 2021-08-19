@@ -7,8 +7,8 @@ Go-to for D's birthday cakes or cupcakes.
 * 16 servings (3 8-in layers or 36 cupcakes)  
 
 ## ingredients  
+FOR THE CAKE:  
 ```
-FOR THE CAKE:
 340	grams	unsalted butter (about 3 sticks; 12oz)
 340	grams	brewed black coffee, or black tea such as Assam (about 1½ cups; 12oz)
 85	grams	Dutch-process cocoa powder, such as Cacao Barry Extra Brute (about 1 cup, spooned; 3oz)
@@ -20,8 +20,10 @@ FOR THE CAKE:
 3	large egg yolks, straight from the fridge (about 1½ ounces; 45g)
 255	grams	all-purpose flour (about 2 cups, spooned; 9oz)
 1	tablespoon (13g)	baking soda 
+```
 
-TO FINISH:
+TO FINISH:  
+```
 1 recipe  Chocolate Swiss Buttercream or other frosting
 ```
 
