@@ -10,7 +10,7 @@
 360	grams	all-purpose flour
 7	grams	salt
 266	grams	water
-⅛	teaspoon	lemon juice
+⅛	teaspoon	lemon juice or vinegar
 72	grams	levain (17:34:34)
 Rice flour or extra bread flour, for dusting
 ```
