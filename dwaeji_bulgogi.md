@@ -26,7 +26,7 @@
 FOR SERVING:
 12  grams    toasted white sesame seeds (2 tbsp)
 Ssamjang (Korean barbecue dipping sauce)
-Lettuce and perilla leaves, steamed rice, thinly sliced garlic, chilies, and scallions, and assorted banchan 
+Lettuce and perilla leaves, steamed rice, thinly sliced garlic, chilies, and assorted banchan 
 ```
 
 ## steps  
