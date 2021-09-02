@@ -1,5 +1,5 @@
 # Dwaeji Bulgogi (돼지불고기)  
-![bulgogi](https://www.maangchi.com/wp-content/uploads/2012/11/doejibulgogi_onaplate.jpg)  
+<img src="https://www.maangchi.com/wp-content/uploads/2012/11/doejibulgogi_onaplate.jpg" alt="bulgogi" width="320"/>  
 
 ## info  
 * About 90 minutes  
