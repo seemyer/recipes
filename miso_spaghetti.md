@@ -10,10 +10,11 @@
 40	mililiters	extra-virgin olive oil
 3	cloves of garlic
 15	grams	white miso paste
+15	grams	goat cheese
 fine sea salt
 170	grams	dried spaghetti, no 12
-8	fresh basil leaves, torn
-4	grams	lightly packed shredded or grated parmesan
+fresh basil leaves, torn
+grated parmesan
 ```
 
 ## steps  
@@ -21,7 +22,7 @@ fine sea salt
 
 2. Coat the tomatoes and garlic with 27g/30ml of the olive oil on a baking sheet. Roast the tomatoes until they start to burst and turn a light golden brown, rotating the pan halfway through during cooking, 25 to 30 minutes.
 
-3. Remove the sheet from the oven and transfer the tomatoes and all the drippings from the pan to a blender. Blend until it turns into a smooth purée. Add the miso paste and pulse in the blender until combined.
+3. Remove the sheet from the oven and transfer the tomatoes and all the drippings from the pan to a blender. Blend until it turns into a smooth purée. Add the miso paste and goat cheese. Pulse in the blender until combined.
 
 4. To cook the spaghetti, add the pasta, 750 ml water, and 1 tsp salt to a large saucepan and bring to a rolling boil. Cook for about 12 minutes, or until tender. Drain the pasta in a strainer and transfer back to saucepan. Save a portion of the pasta cooking water.
 
