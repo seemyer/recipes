@@ -1,5 +1,5 @@
 # Banana Bread  
-![loaf](https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/3/0/CC-Sickelka_flours-famous-banana-bread-recipe-2_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371597759396.jpeg)
+<img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/3/0/CC-Sickelka_flours-famous-banana-bread-recipe-2_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371597759396.jpeg" alt="loaf" width="320"/>
 
 ## info  
 * About 75 minutes  
