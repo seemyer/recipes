@@ -7,8 +7,8 @@
 
 ## ingredients  
 ```
-100%  head  kraut cabbage, trimmed, cored, and shredded, outer leaves reserved (see note)
-2% salt, plus more as needed (see note)
+100%  head  kraut cabbage, trimmed, cored, and shredded, outer leaves reserved
+2% salt, plus more as needed
 0.3%  caraway seeds or juniper berries (optional; see note)
 ```
 
