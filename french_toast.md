@@ -7,7 +7,7 @@
 
 ## ingredients  
 ```
-3	large	eggs
+4	large	eggs
 1	tablespoon	packed brown sugar, plus more for sprinkling
 ¼	teaspoon	table salt
 ½	teaspoon	ground cinnamon
