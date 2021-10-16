@@ -31,7 +31,7 @@
 2. Slice tofu in half horizontally. Then, slice down to get strips, and finally cut in the other direction to get cubes. Combine corn starch and cold water in a small bowl, mix with a fork until homogenous, and set aside.
 3. Bring a medium saucepan of water to a boil over high heat and add tofu. Simmer gently for 1 minute. Remove from heat until ready to stir fry.
 4. Heat oil in wok over high heat until smoking. Add half of ground sichuan peppercorns. Add minced meat and cook, stirring constantly until meat begins to crisp around edges (1-2 minutes).
-5. Lower heat to medium-low. Add garlic, ginger, and pickled red peppers and cook until fragrant, about 15 seconds. Add chili-bean paste and cook until oil becomes red, about 90 seconds. Add fermented black beans, chili powder, wine, soy sauce, and chicken stock and bring to a boil.
+5. Lower heat to medium-low. Add garlic, ginger, and pickled red peppers and cook until fragrant, about 15 seconds. Add chili-bean paste and cook until oil becomes red, about 90 seconds. Add black beans, chili powder, wine, soy sauce, and chicken stock and bring to a boil.
 6. Gently drain water from tofu, being careful not to break up the tofu. Add tofu to wok and simmer for 5 minutes, stirring occasionally.
 7. Loosen up the cornstarch slurry. Pour one-third of corn starch mixture into the sauce and cook for 30 seconds until thickened, stirring gently. Repeat with remaining thirds of slurry.
 8. Transfer immediately to a serving bowl and sprinkle with white pepper, scallions, and remaining toasted ground Sichuan pepper. Serve immediately with white rice.
