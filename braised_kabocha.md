@@ -31,8 +31,8 @@ pinch   kosher salt
 7. Once boiling turn down to low heat to maintain the simmer. Cover with an otoshibuta (drop lid) and cook for 15 minutes, or until there is no resistance when pierced with a knife.
 10. Remove from the heat and let kabocha sit covered until cool, about 30 minutes. Serve at room temperature or reheat before serving.
 
-Optional Garnish
-1. Soak ginger in cold water for 1 minute to remove bitterness and drain well. Serve with simmered kabocha.
+<i>Optional Garnish
+1. Soak ginger in cold water for 1 minute to remove bitterness and drain well. Serve with simmered kabocha.</i>
 
 ## notes  
 * 
