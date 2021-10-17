@@ -3,7 +3,7 @@
 
 ## info  
 * About 75 minutes  
-* 1 loaf (9x4 pullman pan) or 4 mini-loaves (225 grams / loaf)  
+* 1 loaf (9x4 pullman pan) or 4 mini-loaves (220 grams / loaf)  
 
 ## ingredients  
 ```
