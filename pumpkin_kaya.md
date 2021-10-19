@@ -2,16 +2,16 @@
 <img src="https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/smooth_as_kaya_1.jpeg" alt="kaya" width="320"/>
 
 ## info  
-* About 30 minutes  
-* XXX amount?  
+* About 45 minutes  
+* 600 mililiters (20 oz)  
 
 ## ingredients  
 ```
-500	grams	canned pumpkin
-250	mililiters	coconut milk
-80	grams	palm sugar or brown sugar
-¼	teaspoon	salt
-
+1	can	pumpkin puree (425g), or 15 ounces homemade pumpkin puree
+½	can	coconut milk (200ml)
+80	grams	light brown sugar (or 100 grams sweetened condensed milk)
+½	teaspoon	ground cinnamon
+¼	teaspoon	kosher salt
 ```
 
 ## steps  
@@ -20,9 +20,7 @@
 3. Transfer to sterilized jar. Cool completely, then store in the refrigerator.
 
 ## notes  
-* Swap sugar for condensed milk (increase to 100g?)?  
-* Add vanilla to replace pandan?  
-* Coconut cream instead of coconut milk?  
+*   
 
 ## sources   
 https://www.bakewithpaws.com/2017/07/pumpkin-kaya.html  
