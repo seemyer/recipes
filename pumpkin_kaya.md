@@ -15,9 +15,9 @@
 ```
 
 ## steps  
-1. Add pumpkin, coconut milk, and sugar to sauce pan over low heat. Whisk until combined.
-2. Stirring frequently, cook until thickened, about 15 minutes. Kaya is done when a spoon leaves a clean streak in the bottom of the pan.
-3. Transfer to sterilized jar. Cool completely, then store in the refrigerator.
+1. Combine all ingredients in a medium saucepan with a whisk and bring to a simmer over medium heat.
+2. Reduce the heat to low and simmer gently, uncovered. Cook, stirring frequently, until the kaya is thick and spreadable, about 40 minutes. (A spoon will leave a clean trail in the bottom of the pan.)
+3. Allow the pumpkin butter to cool to room temperature. Store in a sealed container in the refrigerator.
 
 ## notes  
 *   
