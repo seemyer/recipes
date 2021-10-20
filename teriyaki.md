@@ -18,7 +18,7 @@
 
 ## steps  
 1. Combine shoyu, mirin, sake, honey, garlic, ginger, and scallions in a medium saucepan.
-2. Bring to boil over high heat, then reduce to a simmer, whisk to combine, and cook until mixture is thick and syrupy. Sauce should be reduced by ⅓ (XX grams), about 45 minutes.
+2. Bring to boil over high heat, then reduce to a simmer, whisk to combine, and cook until mixture is thick and syrupy. Sauce should be reduced by ⅔ (XX grams), about 45 minutes.
 3. Strain through a fine mesh strainer. Let cool to room temperature, then use or store in an airtight container in the refrigerator for up to 2-3 months.
 
 ## notes  
