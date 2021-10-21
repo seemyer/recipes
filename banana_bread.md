@@ -26,7 +26,7 @@
 4. Switch to low speed and slowly drizzle in the oil, taking your time.
 5. Add the bananas, sourdough discard, and vanilla, and continue to mix on low speed just until combined.
 6. Use a rubber spatula to fold in the flour mixture until thoroughly combined. No flour streaks should be visible.
-7. Pour the batter into the prepared pan and bake for 55-60 minutes to an internal temperature of 200°F. The loaf should be golden brown on top and spring back when you press it.
+7. Pour the batter into the prepared pan and bake for 58-60 minutes to an internal temperature of 200°F. The loaf should be golden brown on top and spring back when you press it.
 8. Let cool in the pan on a wire rack for 30 minutes, remove from the pan and let cool completely on the wire rack. Enjoy!
 
 ## notes  
