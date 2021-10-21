@@ -3,7 +3,7 @@
 
 ## info  
 * About 45 minutes  
-* 220 mililiters (7.5 oz)  
+* 350 mililiters (12 oz)  
 
 ## ingredients  
 ```
@@ -18,12 +18,12 @@
 
 ## steps  
 1. Combine shoyu, mirin, sake, honey, garlic, ginger, and scallions in a medium saucepan.
-2. Bring to boil over high heat, then reduce to a simmer, whisk to combine, and cook until mixture is thick and syrupy. Sauce should be reduced by ⅔, about 45 minutes.
+2. Bring to boil over high heat, then reduce to a simmer, whisk to combine, and cook until mixture is thick and syrupy. Sauce should be reduced by ½, about 45 minutes.
 3. Strain through a fine mesh strainer. Let cool to room temperature, then use or store in an airtight container in the refrigerator for up to 2-3 months.
 
 ## notes  
 * Use saucier. 1238 grams?  
-* ⅔ is too much reduction. Change to half.  
+* ⅔ is too much reduction.  
 
 ## sources   
 https://www.justonecookbook.com/yakitori/  
