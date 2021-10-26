@@ -2,7 +2,7 @@
 
 
 ## info  
-* About 3 hours  
+* About 3 hours (2.5 weeks fermenting)  
 * 3200 grams per crock  
 
 ## ingredients  
@@ -22,6 +22,8 @@
 
 ## notes  
 * Caraway will give you a more German-style kraut, while juniper will give you a more Alsatian style. You can also omit the spices.  
+* Aged 17 days (2021).  
+* ~454 grams fresh cabbage per quart of finished kraut.  
 
 ## sources   
 https://www.seriouseats.com/homemade-fermented-sauerkraut-recipe  
