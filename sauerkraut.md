@@ -23,7 +23,7 @@
 ## notes  
 * Caraway will give you a more German-style kraut, while juniper will give you a more Alsatian style. You can also omit the spices.  
 * Aged 17 days (2021).  
-* ~454 grams fresh cabbage per quart of finished kraut.  
+* ~910 grams fresh cabbage per quart of finished kraut.  
 
 ## sources   
 https://www.seriouseats.com/homemade-fermented-sauerkraut-recipe  
