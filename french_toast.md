@@ -13,7 +13,7 @@
 ½	teaspoon	ground cinnamon
 ¼	teaspoon	freshly grated nutmeg
 2	teaspoons	vanilla extract
-1	cup	milk
+300	mililiters	milk
 8	slices	hearty white sandwich bread
 2	tablespoons	unsalted butter for the pan, plus more for serving
 Maple syrup and fruit compote, for serving
