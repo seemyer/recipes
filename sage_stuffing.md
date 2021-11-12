@@ -1,5 +1,6 @@
 # Sage and Sausage Stuffing  
 <img src="https://assets.epicurious.com/photos/5fa16f9b0c1b5e2f46e00049/1:1/w_1920,c_limit/Our-Favorite-Thanksgiving-Stuffing-with-Sausage-and-Cornbread-07092017_V1_final.jpg" alt="stuffing" width="320"/>
+#thanksgiving
 
 ## info  
 * About 150 minutes  
