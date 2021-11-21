@@ -2,7 +2,7 @@
 <img src="https://www.jessicagavin.com/wp-content/uploads/2019/11/roasted-sweet-potatoes-12.jpg" alt="potato" width="320"/>
 
 ## info  
-* About 180 minutes  
+* About 150 minutes  
 * 6-8 servings  
 
 ## ingredients  
