@@ -1,5 +1,5 @@
 # Roasted Sweet Potatoes  
-<img src="https://cdn.copymethat.com/media/roasted-sweet-potatoes-20161121235833788699n1rdrd.jpg" alt="potato" width="320"/>
+<img src="https://www.jessicagavin.com/wp-content/uploads/2019/11/roasted-sweet-potatoes-12.jpg" alt="potato" width="320"/>
 
 ## info  
 * About 180 minutes  
