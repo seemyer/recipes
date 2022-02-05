@@ -9,18 +9,18 @@ A bastardized hybrid of Sicilian and Detroit-style pizzas with a pinch of Domino
 ## ingredients
 **Levain**
 ```
-29g	Flour
-29g	Water
-14g	Sourdough Starter
+31	grams	Flour
+31	grams	Water
+16	grams	Sourdough Starter
 ```
 **Final Dough**
 ```
-360g	Flour
-274g	Water
-6g	Salt
-2g	Malt Powder (optional)
-7g	Extra Virgin Olive Oil
-72g	Levain
+360	grams	Flour
+266	grams	Water
+7	grams	Salt
+2	grams	Malt Powder (optional)
+8	grams	Extra Virgin Olive Oil
+78	grams	Levain
 ```
 **Dough Formula**
 ```
