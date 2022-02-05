@@ -1,52 +1,65 @@
-## Yield:
-2x	10.5" cast iron pan pizzas
+# HiWa Pizza
+<img src="https://seattlemag.com/sites/default/files/field/image/1-3.jpg" alt="pizza" width="320"/>
+A bastardized hybrid of Sicilian and Detroit-style pizzas with a pinch of Domino's pan pizza thrown in for good measure.
 
-## Ingredients:
+## info
+* About 10 hours
+* 2x	10.5" cast iron pan pizzas
+
+## ingredients
 **Levain**
 ```
-32g	Flour
-32g	Water
-16g	Sourdough Starter
+29g	Flour
+29g	Water
+14g	Sourdough Starter
 ```
 **Final Dough**
 ```
-344g	Flour
-226g	Water
+360g	Flour
+274g	Water
 6g	Salt
-8g	Extra Virgin Olive Oil
-⅛tsp	Lemon Juice
-80g	Levain
+2g	Malt Powder (optional)
+7g	Extra Virgin Olive Oil
+72g	Levain
+```
+**Dough Formula**
+```
+100%	Flour
+76%	Water
+1.8%	Salt
+2.0%	Extra Virgin Olive Oil
+0.5%	Malt Powder (optional)
+
+0.14	Dough Loading/Thickness (total dough weight divided by pan area)
 ```
 
-## Steps:
+## steps
 1. **Prepare the levain:** About 12 hours before you mix the dough, combine the levain ingredients and leave to ferment on the counter.
 
-2. For same day pizza, begin following next steps about 9 hours before you want to eat (or maybe 10 hours if your ambient temperature is below 72°F).
+2. For same day pizza, begin following next steps about 10 hours before you want to eat.
 
-3. **Mix the dough:** Combine dry ingredients in a large bowl and mix with your hands until mostly homogenous. Combine the water, lemon juice and sourdough with a whisk, then add the wet ingredients and olive oil to the dry ingredients in the bowl. Form one hand into a stiff claw, and stir with it until no dry flour remains and the dough forms a sticky, shaggy ball. Roll the ball around the bowl until most of the dough is part of the same large mass. The mixing process should take no more than 30 to 45 seconds.
+3. **Mix the dough:** Combine flour, water, salt, malt powder, and levain in mixing bowl and mix with a dough hook on low speed until ingredients are fully mixed (about 2 minutes). Increase mixer to speed 2 and mix for 5 minutes more. Let dough rest uncovered for 10 minutes. Turn mixer to low speed again and slowly drizzle oil into bowl. When oil is fully incorporated, increase to speed 2 and continue mixing until dough pulls cleanly from the bowl (about 15 minutes).
 
-	Scrape your dough-covered hand with your clean hand to get most of the dough into the bowl, then cover with a sheet pan, foil, or plastic wrap. Allow the dough to rest for 30 minutes.
+4. **Bulk Fermentation:** Transfer dough to oiled, medium bowl, cover, and allow to ferment for 2 hours total at 76°F. Every 30 minutes during fermentation, perform a stretch and fold.
 
-4. **Fold the dough:** After the dough has rested, the dough should look very wet and sloppy. Dip your hands briefly in a bowl of water, then shake off the excess. Using one hand, scoop your fingers under one side of the dough to the very bottom of the bowl and, working quickly, lift that side, stretch it a few inches, and fold it over to the opposite side. Rotate the bowl and repeat, 4 to 6 times, until you’ve worked all the way around the dough. (The dough will become noticeably tighter and a little more difficult to stretch with each fold.)
+	Dip your hand briefly in a bowl of water, then shake off the excess. Using one hand, scoop your fingers under one side of the dough to the very bottom of the bowl and, working quickly, lift that side, stretch it a few inches, and fold it over to the opposite side. Rotate the bowl and repeat, 4 to 6 times, until you’ve worked all the way around the dough. (The dough will become noticeably tighter and a little more difficult to stretch with each fold.)
 
-	Cover the bowl and allow to continue resting. Repeat this folding 3 more times, every 30 minutes. By the last folding step, the dough should be smoother and tighter. Let the dough ferment for 3 hours total (including the folding steps) if ambient temperature is about 72°F.
+5. **Shaping:** Pour 1 tablespoon oil in the bottom of each cast iron skillet and spread oil on bottom and sides of the skillets. Divide the dough and place 1 ball of dough in each pan and turn to coat evenly with oil. Cover the skillets with foil or plastic wrap and allow the dough to proof about 6 hours at 76°F.
 
-5. **Prepare the crust:** Four hours before baking, generously flour your work surface. Sprinkle flour around the edges of the dough in the large bowl, then tilt the bowl vertically over your work surface, using your fingertips to ease the dough away from the bowl until it all tips out. Divide the dough in half.
-
-	Working gently but quickly, fold in the edges of the dough one last time: Using the sides of your hands instead of your fingertips, and as much extra flour as necessary to prevent sticking, flip the dough over. With your palms up and hands placed flat on the work surface, gently tuck the dough together underneath until the top surface is relatively smooth and taut.
-
-6. **Proof the dough:** Pour 1 tablespoon oil in the bottom of each cast iron skillet and spread oil on bottom and sides of the skillets. Carefully lift the dough and place 1 ball of dough in each pan and turn to coat evenly with oil. Cover the skillets with a sheet pan, foil, or plastic wrap and allow the dough balls to rise about 5 hours if ambient temperature is about 72°F.
-
-	During this proofing, every 30 minutes, use your fingertips to press it around, gently stretching towards the pan edges. Lift up the edges of the dough to let any air bubbles underneath escape. Repeat this stretching until the dough fills the pan, then don't touch it anymore, and let it do its thing. When the crust is ready for baking, it should be marshmallow soft and poofy.
+6. **Proofing:** During this proofing, every 30 minutes, use your fingertips to press it around, gently stretching towards the pan edges. Lift up the edges of the dough to let any air bubbles underneath escape. Repeat this stretching until the dough fills the pan, then don't touch it anymore, and let it do its thing. When the crust is ready for baking, it should be marshmallow soft and poofy.
 
 7. **Heat the oven:** About 60 minutes before baking, adjust the oven rack to the lower-middle position and heat your oven to 500°F (or as high as it will go).
 
 8. **Bake the pizzas:** When crust is ready, top each with tomato sauce. Par-bake the crusts for about 8 minutes, or until they are just starting to turn golden. Remove skillets from the oven and add the rest of the toppings. When adding cheese, make sure it covers the crust all the way to the skillet sides.
 
-	Transfer skillets to oven and bake until top is golden brown and bubbly and bottom is golden brown and crisp when you lift it with a thin spatula, about 8 minutes. Immediately sprinkle with grated Parmesan, if using. Using a thin spatula, loosen pizza and peek underneath. If bottom is not as crisp as desired, place pan over a burner and cook on medium heat, moving the pan around to cook evenly until it is crisp, 1 to 3 minutes. Remove the pizzas and transfer to a cutting board. Cut each pizza into 6 slices and serve immediately.
+	Transfer skillets to oven and bake until top is golden brown and bubbly and bottom is golden brown and crisp, about 8 minutes. Using a thin spatula, loosen pizza and peek underneath. If bottom is not as crisp as desired, place pan over a burner and cook on medium heat, moving the pan around to cook evenly until it is crisp, 1 to 3 minutes. Immediately sprinkle with grated Parmesan, if using. Remove the pizzas and transfer to a cutting board. Cut each pizza into 6 slices and serve immediately.
 
-## Sources:
+## notes
+* Increase bulk fermentation and proofing steps by 1-2 hours each if your ambient temperature is 72°F or below.
+* Malt powder is optional. Added to slightly improve crust browning.
+* Typical dough loading/thickness: NY-0.10, Sicilian-0.12, Detroit-0.16
+
+## sources
 https://www.theperfectloaf.com/sourdough-pizza-al-taglio/  
 https://www.pizzamaking.com/forum/index.php?topic=28922.0  
 https://www.seriouseats.com/foolproof-pan-pizza-recipe  
-https://cooking.nytimes.com/recipes/1022148-low-knead-bread  
