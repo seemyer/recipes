@@ -4,25 +4,10 @@ A bastardized hybrid of Sicilian and Detroit-style pizzas with a pinch of Domino
 
 ## info
 * About 10 hours
-* 2x	10.5" cast iron pan pizzas
+* 2x	10.5" cast iron pan pizzas (360g each)
 
 ## ingredients
-**Levain**
-```
-31	grams	Flour
-31	grams	Water
-16	grams	Sourdough Starter
-```
-**Final Dough**
-```
-360	grams	Flour
-266	grams	Water
-7	grams	Salt
-2	grams	Malt Powder (optional)
-8	grams	Extra Virgin Olive Oil
-78	grams	Levain
-```
-**Dough Formula**
+**Overall Formula**
 ```
 100%	Flour
 76%	Water
@@ -32,13 +17,28 @@ A bastardized hybrid of Sicilian and Detroit-style pizzas with a pinch of Domino
 
 0.14	Dough Loading/Thickness (total dough weight divided by pan area)
 ```
+**Levain**
+```
+31	grams	Flour
+31	grams	Water
+16	grams	Sourdough Starter
+```
+**Final Dough**
+```
+360	grams	Flour
+266	grams	Water (87°F)
+7	grams	Salt
+2	grams	Malt Powder (optional)
+8	grams	Extra Virgin Olive Oil
+78	grams	Levain
+```
 
 ## steps
 1. **Prepare the levain:** About 12 hours before you mix the dough, combine the levain ingredients and leave to ferment on the counter.
 
 2. For same day pizza, begin following next steps about 10 hours before you want to eat.
 
-3. **Mix the dough:** Combine flour, water, salt, malt powder, and levain in mixing bowl and mix with a dough hook on low speed until ingredients are fully mixed (about 2 minutes). Increase mixer to speed 2 and mix for 5 minutes more. Let dough rest uncovered for 10 minutes. Turn mixer to low speed again and slowly drizzle oil into bowl. When oil is fully incorporated, increase to speed 2 and continue mixing until dough pulls cleanly from the bowl (about 15 minutes).
+3. **Mix the dough:** Combine flour, water, salt, malt powder, and levain in mixing bowl and mix with a dough hook on low speed until ingredients are fully mixed (about 2 minutes). Increase mixer to speed 2 and mix for 5 minutes more. Let dough rest uncovered for 10 minutes. Turn mixer to low speed again and slowly drizzle oil into bowl. When oil is fully incorporated, increase to speed 2 and continue mixing until dough pulls cleanly from the bowl (about 15 minutes). Desired dough temperature at the end of mixing should be 70-75°F.
 
 4. **Bulk Fermentation:** Transfer dough to oiled, medium bowl, cover, and allow to ferment for 2 hours total at 76°F. Every 30 minutes during fermentation, perform a stretch and fold.
 
