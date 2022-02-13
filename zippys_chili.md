@@ -31,7 +31,7 @@ One	28 oz can crushed tomatoes
 ## steps  
 1. Heat oil in pressure cooker over medium-high heat, until shimmering. Add about 1/4 of the ground beef, stirring occasionally, until very well browned. Using a slotted spoon, remove browned beef from cooker and set aside. Drain all but 1 tablespoon fat from cooker.
 
-2. Add onion and cook, stirring and scraping up any browned bits from bottom of cooker, until lightly golden, about 5 minutes. Season with salt. Stir in garlic, chili powder, onion powder, garlic powder, cumin, and cayenne pepper, and cook, stirring, until fragrant, about 1 minute. (Add more oil at any time if cooker seems too dry.) Add tomato paste and cook, stirring, until slightly darkened, about 1 minute.
+2. Add onion and bell pepper and cook, stirring and scraping up any browned bits from bottom of cooker, until lightly golden, about 5 minutes. Season with salt. Stir in garlic, chili powder, onion powder, garlic powder, cumin, and cayenne pepper, and cook, stirring, until fragrant, about 1 minute. (Add more oil at any time if cooker seems too dry.) Add tomato paste and cook, stirring, until slightly darkened, about 1 minute.
 
 3. Return browned beef to cooker along with any accumulated juices. Add uncooked beef, cream of mushroom soup, crushed tomatoes, and water. Stir well to combine. Season to taste with salt. Stir in chocolate and fish sauce. Add bay leaf. Bring to a simmer, stirring well and scraping bottom all over. Using a wooden spoon or potato masher, break up any chunks of ground beef. Scrape bottom all over once more before sealing the cooker.
 
