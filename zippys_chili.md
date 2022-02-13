@@ -1,4 +1,5 @@
 # Zippy's Chili  
+<img src="https://www.zippys.com/wp-content/uploads/2019/02/food-chili-Chili-Frank-02.jpg" alt="winnah" width="320"/>
 Clone attempt v1.1
 
 ## info  
@@ -7,9 +8,9 @@ Clone attempt v1.1
 
 ## ingredients  
 ```
-1	tablespoon (15ml) vegetable oil, plus more if needed
-2	pounds (1.1kg)  ground beef, at least 15% fat
-1	medium (8-ounce; 225g)	yellow onion, diced
+14	grams vegetable oil, plus more if needed (15ml)
+2	pounds	ground beef, at least 15% fat (1.1kg)
+1	medium	yellow onion, diced (225g)
 1   green bell pepper, diced
 2   teaspoon  Kosher salt
 3	medium  cloves garlic, minced
@@ -17,15 +18,14 @@ Clone attempt v1.1
 1/2	teaspoon  onion powder
 1/2	teaspoon  garlic powder
 1/2	teaspoon  ground cumin, plus more as needed
-1/4	teaspoon  cayenne pepper, plus more if desired
-1	tablespoon (15ml) tomato paste
+1	tablespoon tomato paste (15ml)
 One	22.6 oz can Campbell's Cream of Mushroom soup
 One	28 oz can crushed tomatoes
 4 ounces  water
-1/2	ounce (15g) dark chocolate
-1/2	teaspoon (3ml)  Asian fish sauce
+15	grams dark chocolate
+1/2	teaspoon  Asian fish sauce (3ml)
 1 dried	bay leaf
-3  15.5-ounce (439g) cans  red kidney beans, drained (or 4 cups cooked dry red kidney beans, see note)
+3  15.5-ounce cans  red kidney beans, drained (or 4 cups cooked dry red kidney beans, see note)
 ```
 
 ## steps  
