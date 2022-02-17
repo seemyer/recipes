@@ -1,6 +1,6 @@
-#Bellingham Mid-Winter Break 2022
+# Bellingham Mid-Winter Break 2022
 
-###Outdoor Dining w/ Heat
+### Outdoor Dining w/ Heat
 - Homeskillet (brunch coma)
 - Otherlands (euro/brunch)
 - Stemma Brewing Co (byof)
@@ -22,7 +22,7 @@
 - Birch Door (fancy brunch)
 - Carnal (upscale meat)
 
-###Takeout
+### Takeout
 - Cafe Rumba (peruvian sammies)
 - That's What I Like (filipino)
 - Structures Brewing (no food)
@@ -45,7 +45,7 @@
 - JUXT Taphouse (bar food)
 - Hot Mess (cheesesteaks)
 
-###Adventures
+### Adventures
 - Teddy Bear Cove
 - Waypoint Park
 - Whatcom Falls Park
