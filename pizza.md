@@ -40,7 +40,7 @@ A bastardized hybrid of Sicilian and Detroit-style pizzas with a pinch of Domino
 
 3. **Mix the dough:** Combine flour, water, salt, malt powder, and levain in mixing bowl and mix with a dough hook on low speed until ingredients are fully mixed (about 2 minutes). Increase mixer to speed 2 and mix for 5 minutes more. Let dough rest uncovered for 10 minutes. Turn mixer to low speed again and slowly drizzle oil into bowl. When oil is fully incorporated, increase to speed 2 and continue mixing until dough pulls cleanly from the bowl (about 15 minutes). Desired dough temperature at the end of mixing should be 70-75°F.
 
-4. **Bulk Fermentation:** Transfer dough to oiled, medium bowl, cover, and allow to ferment for 2 hours total at 76°F. Every 30 minutes during fermentation, perform a stretch and fold.
+4. **Bulk Fermentation:** Transfer dough to oiled, medium bowl, cover, and allow to ferment for 2 hours total at 76°F. Every 30 minutes during fermentation, perform a stretch and fold:
 
 	Dip your hand briefly in a bowl of water, then shake off the excess. Using one hand, scoop your fingers under one side of the dough to the very bottom of the bowl and, working quickly, lift that side, stretch it a few inches, and fold it over to the opposite side. Rotate the bowl and repeat, 4 to 6 times, until you’ve worked all the way around the dough. (The dough will become noticeably tighter and a little more difficult to stretch with each fold.)
 
