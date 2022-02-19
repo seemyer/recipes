@@ -58,6 +58,7 @@ A bastardized hybrid of Sicilian and Detroit-style pizzas with a pinch of Domino
 * Increase bulk fermentation and proofing steps by 1-2 hours each if your ambient temperature is 72°F or below.
 * Malt powder is optional. Added to slightly improve crust browning.
 * Typical dough loading/thickness: NY-0.10, Sicilian-0.12, Detroit-0.16
+* Recipe adapted from our typical square style using pans below.
 * Expensive pans, but worth the cost for consistent results: https://lloydpans.com/sicilian-style-pizza-pans.html
 
 ## sources
