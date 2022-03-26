@@ -30,8 +30,8 @@ Lime wedges, for serving
 ## steps  
 1. Grind coriander and cumin in mortar and pestle. Add garlic and ginger to mortar and roughly mash into a paste with pestle.
 2. Heat oil in a pressure cooker over medium-high heat until shimmering. Add paste from mortar and cook, stirring, until aromatic, about 1 minute. Add curry paste and cook, stirring, until paste has darkened slightly, about 3 minutes.
-2. Stir in coconut milk, bring to a simmer, and cook for 1 minute. Season chicken pieces with salt and add to pressure cooker. Add the squash and eggplant and season with salt. Seal pressure cooker and cook on high pressure for 10 minutes.
-3. Allow pressure to naturally release, remove lid, and stir in fish sauce, spinach, and ¼ cup each of the cilantro and Thai basil. Season with salt and pepper. Ladle the stew onto serving bowls filled with rice and scatter remaining cilantro and basil on top. Serve with lime wedges.
+3. Stir in coconut milk, bring to a simmer, and cook for 1 minute. Season chicken pieces with salt and add to pressure cooker. Add the squash and eggplant and season with salt. Seal pressure cooker and cook on high pressure for 10 minutes.
+4. Allow pressure to naturally release, remove lid, and stir in fish sauce, spinach, and ¼ cup each of the cilantro and Thai basil. Season with salt and pepper. Ladle the stew onto serving bowls filled with rice and scatter remaining cilantro and basil on top. Serve with lime wedges.
 
 
 
