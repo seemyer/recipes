@@ -1,4 +1,4 @@
-# Sushi Rice (酢飯)
+# Sushi Rice (酢飯)  
 <img src="https://www.justonecookbook.com/wp-content/uploads/2019/08/How-to-Make-Sushi-Rice-3329-I.jpg" alt="sumeshi" width="320"/>
 
 ## info  
@@ -28,6 +28,6 @@ water
 * 
 
 ## sources   
-https://www.justonecookbook.com/how-to-make-sushi-rice/
-https://www.seriouseats.com/sumeshi-vinegared-sushi-rice
-https://norecipes.com/sushi-rice-recipe/
+https://www.justonecookbook.com/how-to-make-sushi-rice/  
+https://www.seriouseats.com/sumeshi-vinegared-sushi-rice  
+https://norecipes.com/sushi-rice-recipe/  
