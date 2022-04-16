@@ -29,7 +29,7 @@ Heavy Seasoning Ideas:
 5. Cut crackers to desired size with pizza cutter. Bake for 15–20 minutes, or until the crackers are golden brown. Let it cool completely, and store the crackers in an airtight container at room temperature.
 
 ## notes  
-* 
+* Roll and fold before final roll to create layers.
 
 ## sources   
 https://www.bonappetit.com/story/sourdough-starter-crackers

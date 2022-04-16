@@ -53,6 +53,21 @@ FOR 24 CUPCAKES:
 2	teaspoons	baking soda  
 ```
 
+FOR 2 9x13 SHEET CAKES:  
+```
+424	grams	unsalted butter
+424	grams	brewed black coffee
+106	grams	Dutch-process cocoa powder
+212	grams	finely chopped dark chocolate, roughly 72%
+567	grams	light brown sugar
+19	grams	vanilla extract
+5	grams	Diamond Crystal kosher salt
+368	grams	large eggs, straight from the fridge (about 7 eggs)
+56	grams	large egg yolks, straight from the fridge (about 4 yolks)
+318	grams	all-purpose flour
+16	grams	baking soda
+```
+
 FROSTING:  
 https://www.seriouseats.com/swiss-meringue-buttercream-frosting-recipe  
 ```
