@@ -9,8 +9,8 @@
 ```
 2	grams	kosher salt
 120	grams	white whole wheat flour (or other flour as desired)
-241	grams	sourdough discard
-56	grams	extra virgin olive oil
+220	grams	sourdough discard
+32	grams	extra virgin olive oil
 Light Seasoning Ideas:
 	sea salt
 	spices
@@ -33,3 +33,5 @@ Heavy Seasoning Ideas:
 
 ## sources   
 https://www.bonappetit.com/story/sourdough-starter-crackers
+https://www.loveandoliveoil.com/2019/03/sourdough-crackers-with-olive-oil-herbs.html  
+https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe  
