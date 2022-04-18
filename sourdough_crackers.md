@@ -23,13 +23,14 @@ Heavy Seasoning Ideas:
 
 ## steps  
 1. Preheat oven to 350°F.
-2. In a medium bowl, whisk together salt and flour. Add sourdough discard and olive oil. Optionally, heavier seasonings may be added to the dough at this stage. Combine until the dough comes together.
-3. Continue to knead until the dough forms a smooth ball. Divide into thirds. Lay a piece of parchment paper on a work surface and roll out one ball of dough into as big and thin a sheet as you can without tearing it. Transfer the parchment to a sheet pan. Repeat with remaining dough.
+2. In mixer bowl, whisk together salt and flour. Add sourdough discard and olive oil. Optionally, heavier seasonings may be added to the dough at this stage. Combine with spatula until the dough comes together.
+3. Continue to knead in mixer with dough hook until the dough forms a smooth ball. Divide into quarters. Lay a piece of parchment paper on full size sheetpan.
+4. Using pasta roller with a dough ball, progressively flatten to setting 4 and transfer to parchment paper. Repeat with remaining dough.
 4. Brush the dough with olive oil, then top with light seasonings, as desired. For heavier seasonings, brush the surface of the dough with a beaten egg white instead of oil, then scatter the toppings and press them in gently.
-5. Cut crackers to desired size with pizza cutter. Bake for 15–20 minutes, or until the crackers are golden brown. Let it cool completely, and store the crackers in an airtight container at room temperature.
+5. Cut crackers to desired size with pizza cutter. Bake for 16-18 minutes, rotating halfway through cooking time (until the crackers are golden brown). Let it cool completely, and store the crackers in an airtight container at room temperature.
 
 ## notes  
-* Roll and fold before final roll to create layers.
+*
 
 ## sources   
 https://www.bonappetit.com/story/sourdough-starter-crackers
