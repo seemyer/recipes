@@ -30,7 +30,11 @@ Heavy Seasoning Ideas:
 5. Cut crackers to desired size with pizza cutter. Bake for 16-18 minutes, rotating halfway through cooking time (until the crackers are golden brown). Let it cool completely, and store the crackers in an airtight container at room temperature.
 
 ## notes  
-*
+* Fit to one sheet pan:
+	2	grams	kosher salt  
+	100	grams	white whole wheat flour (or other flour as desired)  
+	180	grams	sourdough discard  
+	26	grams	extra virgin olive oil  
 
 ## sources   
 https://www.bonappetit.com/story/sourdough-starter-crackers
