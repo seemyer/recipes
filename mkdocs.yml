@@ -10,12 +10,15 @@ theme:
 markdown_extensions:
 
     # Python Markdown
+    - admonition
     - meta
     - toc:
         permalink: true
 
     # Python Markdown Extensions
     - pymdownx.highlight
+    - pymdownx.details
+    - pymdownx.superfences
     - pymdownx.tasklist:
         clickable_checkbox: true
     - pymdownx.magiclink:

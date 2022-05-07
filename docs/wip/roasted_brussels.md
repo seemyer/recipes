@@ -17,6 +17,11 @@ Kosher salt and freshly ground black pepper
 30	mililiters	balsamic vinegar
 ```
 
+!!! example "ingredients" inline end
+	- [ ] 20	grams	XXX
+	- [ ] 15	grams	YYY
+	- [ ] 10	grams	ZZZ
+
 ## steps  
 1. Adjust oven racks to upper middle positions and preheat oven to 450°F.
 2. Add bacon to a heavy rimmed baking sheet and roast for 5 minutes.
