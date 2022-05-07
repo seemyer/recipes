@@ -9,7 +9,7 @@
 ```
 XXg XXX
 ```
-!!! example "ingredients" inline end
+!!! example "ingredients"
 	- [ ] XX	grams	XXX
 
 ## steps  

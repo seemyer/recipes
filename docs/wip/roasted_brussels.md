@@ -6,20 +6,14 @@
 * 4 servings  
 
 ## ingredients  
-```
-115	grams	bacon or sausage, chopped into 1-inch pieces or removed from casing (4 slices)
-454	grams	Brussels sprouts, bottoms trimmed, outer leaves removed, split in half (1 lbs)
-228	grams	broccoli, trimmed (½ lbs)
-4	cloves	garlic, smashed and roughly chopped
-30	mililiters	extra-virgin olive oil
-Kosher salt and freshly ground black pepper
-30	mililiters	balsamic vinegar
-```
-
-!!! example inline end "ingredients"
-	- [ ] 20	grams	XXX
-	- [ ] 15	grams	YYY
-	- [ ] 10	grams	ZZZ
+!!! cite ""
+	- [ ] 115	grams	bacon or sausage, chopped into 1-inch pieces or removed from casing (4 slices)
+	- [ ] 454	grams	Brussels sprouts, bottoms trimmed, outer leaves removed, split in half (1 lbs)
+	- [ ] 228	grams	broccoli, trimmed (½ lbs)
+	- [ ] 4	cloves	garlic, smashed and roughly chopped
+	- [ ] 30	mililiters	extra-virgin olive oil
+	- [ ] Kosher salt and freshly ground black pepper
+	- [ ] 30	mililiters	balsamic vinegar
 
 ## steps  
 1. Adjust oven racks to upper middle positions and preheat oven to 450°F.
