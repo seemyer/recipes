@@ -1,0 +1,28 @@
+site_name: HiWa Cookbook
+site_url: https://github.com/hiwa-house/recipes
+
+theme:
+    name: material
+    language: en
+#    favicon:
+    palette:
+        - scheme: default
+            primary: blue
+            accent: teal
+            toggle:
+            icon: material/weather-night
+            name: Switch to dark mode
+        - scheme: slate
+            toggle:
+            icon: material/weather-sunny
+            name: Switch to light mode
+#    font:
+#        code:
+    features:
+        - navigation.instant
+        - navigation.sections # prevents collapsible sections
+        - navigation.indexes # section index pages
+        - navigation.expand #expands sections by default
+
+#nav:
+#    - Home: index.md
