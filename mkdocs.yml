@@ -3,6 +3,8 @@ site_name: HiWa Cookbook
 
 theme:
     name: material
+    icon: material/chef-hat
+    favicon: material/chef-hat
 
 #nav:
 #    - Home: index.md
