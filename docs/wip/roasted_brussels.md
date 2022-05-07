@@ -17,7 +17,7 @@ Kosher salt and freshly ground black pepper
 30	mililiters	balsamic vinegar
 ```
 
-!!! example "ingredients" inline end
+!!! example "ingredients"
 	- [ ] 20	grams	XXX
 	- [ ] 15	grams	YYY
 	- [ ] 10	grams	ZZZ
