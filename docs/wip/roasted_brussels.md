@@ -1,6 +1,5 @@
 # Roasted Brussels Sprouts  
 <img src="https://images.food52.com/cXSYAncBQ8rUJZGo8Ul_VSfSJ1o=/2016x1344/filters:format(webp)/340f1748-78b9-46a6-9bbc-f657080849f7--2019-1106_best-brussels-sprouts-with-bacon_3x2_julia-gartland_212.jpg" alt="brussels" width="320"/>
-#thanksgiving
 
 ## info  
 * About 45 minutes  
@@ -17,7 +16,7 @@ Kosher salt and freshly ground black pepper
 30	mililiters	balsamic vinegar
 ```
 
-!!! example "ingredients"
+!!! example inline end "ingredients"
 	- [ ] 20	grams	XXX
 	- [ ] 15	grams	YYY
 	- [ ] 10	grams	ZZZ
@@ -30,7 +29,7 @@ Kosher salt and freshly ground black pepper
 3. Immediately after removing from oven, drizzle sprouts with balsamic vinegar and shake to coat. Season to taste with more salt and pepper if desired and serve. 
 
 ## notes  
-* 
+* thanksgiving
 
 ## sources   
 https://www.seriouseats.com/roasted-brussels-sprouts-and-shallots-with-balsamic-vinegar-thanksgiving-recipe  
