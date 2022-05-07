@@ -20,6 +20,10 @@ Heavy Seasoning Ideas:
 	fennel, cumin, poppy, or sesame seeds
 	dried herbs
 ```
+- [] 2	grams	kosher salt
+- [] 100	grams	white whole wheat flour (or other flour as desired)
+- [] 180	grams	sourdough discard
+
 
 ## steps  
 1. In mixer bowl, whisk together salt and flour. Add sourdough discard and olive oil. Optionally, heavier seasonings may be added to the dough at this stage. Combine with spatula until the dough comes together.

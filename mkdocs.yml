@@ -6,3 +6,15 @@ theme:
 
 #nav:
 #    - Home: index.md
+
+markdown_extensions:
+
+  # Python Markdown
+  - meta
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.highlight
+  - pymdownx.tasklist:
+      clickable_checkbox: true  
