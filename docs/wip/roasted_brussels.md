@@ -20,7 +20,7 @@
 2. Add bacon to a heavy rimmed baking sheet and roast for 5 minutes.
 3. Remove bacon from oven and transfer to a large bowl with bacon fat. Place baking sheet back into oven and increase heat to 500°F.
 2. Add sprouts, broccoli, garlic, olive oil, and salt and pepper to taste to bacon in large bowl and toss to combine. Working quickly, remove the baking sheet with a dish towel or oven mitt. Spread Brussels sprouts mixture on tray, shaking to distribute into a single even layer. Return pan to oven. Roast until deeply charred and fully tender, about 20 minutes total, tossing and rotating half way through cooking.
-3. Immediately after removing from oven, drizzle sprouts with balsamic vinegar and shake to coat. Season to taste with more salt and pepper if desired and serve. 
+3. Immediately after removing from oven, drizzle sprouts with balsamic vinegar and shake to coat. Season to taste with more salt and pepper if desired and serve.
 
 ### ✏️ notes  
 * thanksgiving
