@@ -25,6 +25,6 @@
 ### ✏️ notes  
 * thanksgiving
 
-### 🔗 sources   
+### 🔗 sources  
 https://www.seriouseats.com/roasted-brussels-sprouts-and-shallots-with-balsamic-vinegar-thanksgiving-recipe  
 https://food52.com/recipes/82177-best-brussels-sprouts-with-bacon-recipe  

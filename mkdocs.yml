@@ -5,7 +5,7 @@ theme:
     name: material
     icon: 
         logo: material/chef-hat
-    favicon: docs/chef-hat.png
+    favicon: chef-hat.png
 
 #nav:
 #    - Home: index.md
