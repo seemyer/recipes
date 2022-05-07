@@ -5,7 +5,7 @@
 * About 45 minutes  
 * 4 servings  
 
-### 📋 ingredients  
+## 📋 ingredients  
 !!! cite ""
 	- [ ] 115	grams	bacon or sausage, chopped into 1-inch pieces or removed from casing (4 slices)
 	- [ ] 454	grams	Brussels sprouts, bottoms trimmed, outer leaves removed, split in half (1 lbs)
