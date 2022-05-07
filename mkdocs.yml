@@ -9,12 +9,14 @@ theme:
 
 markdown_extensions:
 
-  # Python Markdown
-  - meta
-  - toc:
-      permalink: true
+    # Python Markdown
+    - meta
+    - toc:
+        permalink: true
 
-  # Python Markdown Extensions
-  - pymdownx.highlight
-  - pymdownx.tasklist:
-      clickable_checkbox: true  
+    # Python Markdown Extensions
+    - pymdownx.highlight
+    - pymdownx.tasklist:
+        clickable_checkbox: true
+    - pymdownx.magiclink:
+        hide_protocol: true
