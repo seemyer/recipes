@@ -1,5 +1,5 @@
-site_name: HiWa Cookbook
-site_url: https://github.com/hiwa-house/recipes
+#site_name: HiWa Cookbook
+#site_url: https://github.com/hiwa-house/recipes
 
 theme:
     name: material
