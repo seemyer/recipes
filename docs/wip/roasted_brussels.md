@@ -1,11 +1,11 @@
 # Roasted Brussels Sprouts  
 <img src="https://images.food52.com/cXSYAncBQ8rUJZGo8Ul_VSfSJ1o=/2016x1344/filters:format(webp)/340f1748-78b9-46a6-9bbc-f657080849f7--2019-1106_best-brussels-sprouts-with-bacon_3x2_julia-gartland_212.jpg" alt="brussels" width="320"/>
 
-## ℹ️ info  
+### ℹ️ info  
 * About 45 minutes  
 * 4 servings  
 
-## 📋 ingredients  
+### 📋 ingredients  
 !!! cite ""
 	- [ ] 115	grams	bacon or sausage, chopped into 1-inch pieces or removed from casing (4 slices)
 	- [ ] 454	grams	Brussels sprouts, bottoms trimmed, outer leaves removed, split in half (1 lbs)
@@ -22,9 +22,9 @@
 2. Add sprouts, broccoli, garlic, olive oil, and salt and pepper to taste to bacon in large bowl and toss to combine. Working quickly, remove the baking sheet with a dish towel or oven mitt. Spread Brussels sprouts mixture on tray, shaking to distribute into a single even layer. Return pan to oven. Roast until deeply charred and fully tender, about 20 minutes total, tossing and rotating half way through cooking.
 3. Immediately after removing from oven, drizzle sprouts with balsamic vinegar and shake to coat. Season to taste with more salt and pepper if desired and serve. 
 
-## ✏️ notes  
+### ✏️ notes  
 * thanksgiving
 
-## 🔗 sources   
+### 🔗 sources   
 https://www.seriouseats.com/roasted-brussels-sprouts-and-shallots-with-balsamic-vinegar-thanksgiving-recipe  
 https://food52.com/recipes/82177-best-brussels-sprouts-with-bacon-recipe  
