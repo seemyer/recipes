@@ -6,7 +6,6 @@
 * 6 servings
 
 ## 📋 ingredients  
->
 - [ ] 2	grams	kosher salt
 - [ ] 100	grams	white whole wheat flour (or other flour as desired)
 - [ ] 180	grams	sourdough discard
