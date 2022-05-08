@@ -5,8 +5,8 @@
 * About 30 minutes
 * 6 servings
 
-> ℹ️ About 30 minutes
-	6 servings
+> :memo: About 30 minutes
+>	6 servings
 
 ## 📋 ingredients  
 - [ ] **2	grams**	kosher salt
