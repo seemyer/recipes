@@ -5,8 +5,12 @@
 * About 30 minutes
 * 6 servings
 
-> :memo: About 30 minutes
->	6 servings
+> :bookmark:
+> About 30 minutes
+> 6 servings
+
+| - [ ] 2 | grams | kosher salt |
+| - [ ] 100 | grams | all purpose flour |
 
 ## 📋 ingredients  
 - [ ] **2	grams**	kosher salt
