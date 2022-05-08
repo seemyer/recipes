@@ -1,7 +1,7 @@
 # Sourdough Crackers
 <img src="https://assets.bonappetit.com/photos/5ea9da3feee08767a7c6ab5e/16:9/w_1000,c_limit/_Basically-Sourdough-Crackers.jpg" alt="cracker" width="320"/>
 
-![cracker](https://assets.bonappetit.com/photos/5ea9da3feee08767a7c6ab5e/16:9/w_1000,c_limit/_Basically-Sourdough-Crackers.jpg){.small}
+![cracker](https://assets.bonappetit.com/photos/5ea9da3feee08767a7c6ab5e/16:9/w_1000,c_limit/_Basically-Sourdough-Crackers.jpg){.medium 210px}
 
 ## ℹ️ info  
 * About 30 minutes
@@ -30,7 +30,7 @@
 6. Cut crackers to desired size with pizza cutter. Bake for 16 minutes, rotating halfway through cooking time (until the crackers are golden brown). Let it cool completely, and store the crackers in an airtight container at room temperature.
 
 ## ✏️ notes  
-* 1/4
+* 
 
 ## 🔗 sources  
 https://bonappetit.com/story/sourdough-starter-crackers{.new-tab}  
