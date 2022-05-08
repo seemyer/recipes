@@ -1,7 +1,7 @@
 # Pizza Sauce  
 <img src="URL" alt="DESCRIPTION" width="320"/>
 
-### ℹ️ info  
+## ℹ️ info  
 * About 10 minutes  
 * 3 pizzas (12x16)  
 
@@ -11,9 +11,9 @@
 ## 🔪 steps  
 1. 
 
-### ✏️ notes  
+## ✏️ notes  
 * 
 
-### 🔗 sources  
+## 🔗 sources  
 https://www.seriouseats.com/new-york-style-pizza-sauce  
 https://www.pizzamaking.com/forum/index.php?topic=52299.msg526721#msg526721  

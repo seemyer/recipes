@@ -13,15 +13,15 @@
 
 ***Light Seasoning Ideas:***  
 
-- [ ] 	sea salt
-- [ ] 	spices
-- [ ] 	garlic powder
-- [ ] 	nutritional yeast
+- [ ] sea salt
+- [ ] spices
+- [ ] garlic powder
+- [ ] nutritional yeast
 
 ***Heavy Seasoning Ideas:***  
 
-- [ ] 	fennel, cumin, poppy, or sesame seeds
-- [ ] 	dried herbs
+- [ ] fennel, cumin, poppy, or sesame seeds
+- [ ] dried herbs
 
 ## 🔪 steps  
 1. In mixer bowl, whisk together salt and flour. Add sourdough discard and olive oil. Optionally, heavier seasonings may be added to the dough at this stage. Combine with spatula until the dough comes together.
@@ -32,7 +32,7 @@
 6. Cut crackers to desired size with pizza cutter. Bake for 16 minutes, rotating halfway through cooking time (until the crackers are golden brown). Let it cool completely, and store the crackers in an airtight container at room temperature.
 
 ## ✏️ notes  
-*
+* 1/4
 
 ## 🔗 sources  
 https://bonappetit.com/story/sourdough-starter-crackers  

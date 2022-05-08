@@ -19,10 +19,11 @@ markdown_extensions:
         permalink: true
 
     # Python Markdown Extensions
-    - pymdownx.highlight
     - pymdownx.details
+    - pymdownx.highlight
+    - pymdownx.magiclink:
+        hide_protocol: true
+    - pymdownx.smartsymbols
     - pymdownx.superfences
     - pymdownx.tasklist:
         clickable_checkbox: true
-    - pymdownx.magiclink:
-        hide_protocol: true
