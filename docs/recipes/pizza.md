@@ -1,5 +1,5 @@
 # HiWa Pizza
-<img src="https://seattlemag.com/sites/default/files/field/image/1-3.jpg" alt="pizza" width="320"/>
+<img src="https://seattlemag.com/sites/default/files/field/image/1-3.jpg" alt="pizza" width="320"/>  
 A bastardized hybrid of Sicilian and Detroit-style pizzas with a pinch of Domino's pan pizza thrown in for good measure.
 
 ## info

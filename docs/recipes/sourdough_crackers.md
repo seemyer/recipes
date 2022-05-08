@@ -1,25 +1,25 @@
 # Sourdough Crackers
 <img src="https://assets.bonappetit.com/photos/5ea9da3feee08767a7c6ab5e/16:9/w_1000,c_limit/_Basically-Sourdough-Crackers.jpg" alt="cracker" width="320"/>
 
-![cracker](https://assets.bonappetit.com/photos/5ea9da3feee08767a7c6ab5e/16:9/w_1000,c_limit/_Basically-Sourdough-Crackers.jpg){.xsmall}
-
 ## ℹ️ info  
 * About 30 minutes
 * 6 servings
 
 ## 📋 ingredients  
+<pre>
 - [ ] 2	grams	kosher salt
 - [ ] 100	grams	white whole wheat flour (or other flour as desired)
 - [ ] 180	grams	sourdough discard
 - [ ] 26	grams	extra virgin olive oil
 - [ ] ***Light Seasoning Ideas:***  
-	- sea salt
-	- spices
-	- garlic powder
-	- nutritional yeast
+	* sea salt
+	* spices
+	* garlic powder
+	* nutritional yeast
 - [ ] ***Heavy Seasoning Ideas:***  
-	- fennel, cumin, poppy, or sesame seeds
-	- dried herbs
+	* fennel, cumin, poppy, or sesame seeds
+	* dried herbs
+</pre>
 
 ## 🔪 steps  
 1. In mixer bowl, whisk together salt and flour. Add sourdough discard and olive oil. Optionally, heavier seasonings may be added to the dough at this stage. Combine with spatula until the dough comes together.
