@@ -33,6 +33,6 @@
 * 1/4
 
 ## 🔗 sources  
-https://bonappetit.com/story/sourdough-starter-crackers  
+https://bonappetit.com/story/sourdough-starter-crackers{.new-tab}  
 https://loveandoliveoil.com/2019/03/sourdough-crackers-with-olive-oil-herbs.html  
 https://kingarthurbaking.com/recipes/sourdough-crackers-recipe  
