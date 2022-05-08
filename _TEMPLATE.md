@@ -6,10 +6,7 @@
 * 3 pizzas (12x16)  
 
 ## 📋 ingredients  
-```
-XXg XXX
-```
-!!! example "ingredients"
+!!! cite ""
 	- [ ] XX	grams	XXX
 
 ## 🔪 steps  
