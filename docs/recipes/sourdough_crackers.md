@@ -5,11 +5,14 @@
 * About 30 minutes
 * 6 servings
 
+> ℹ️ About 30 minutes
+	6 servings
+
 ## 📋 ingredients  
-- [ ] 2	grams	kosher salt
-- [ ] 100	grams	white whole wheat flour (or other flour as desired)
-- [ ] 180	grams	sourdough discard
-- [ ] 26	grams	extra virgin olive oil
+- [ ] **2	grams**	kosher salt
+- [ ] **100	grams**	white whole wheat flour (or other flour as desired)
+- [ ] **180	grams**	sourdough discard
+- [ ] **26	grams**	extra virgin olive oil
 - [ ] ***Light Seasoning Ideas:***  
 	* sea salt
 	* spices
