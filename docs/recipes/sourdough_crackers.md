@@ -1,7 +1,7 @@
 # Sourdough Crackers
 <img src="https://assets.bonappetit.com/photos/5ea9da3feee08767a7c6ab5e/16:9/w_1000,c_limit/_Basically-Sourdough-Crackers.jpg" alt="cracker" width="320"/>
 
-### ℹ️ info  
+## ℹ️ info  
 * About 30 minutes
 * 6 servings
 
@@ -31,10 +31,10 @@
 5. Brush the dough with olive oil, then top with light seasonings, as desired. For heavier seasonings, brush the surface of the dough with a beaten egg white instead of oil, then scatter the toppings and press them in gently.
 6. Cut crackers to desired size with pizza cutter. Bake for 16 minutes, rotating halfway through cooking time (until the crackers are golden brown). Let it cool completely, and store the crackers in an airtight container at room temperature.
 
-### ✏️ notes  
+## ✏️ notes  
 *
 
-### 🔗 sources  
+## 🔗 sources  
 https://bonappetit.com/story/sourdough-starter-crackers  
 https://loveandoliveoil.com/2019/03/sourdough-crackers-with-olive-oil-herbs.html  
 https://kingarthurbaking.com/recipes/sourdough-crackers-recipe  
