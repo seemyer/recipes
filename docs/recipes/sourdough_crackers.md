@@ -9,6 +9,8 @@
 > About 30 minutes
 > 6 servings
 
+| &nbsp; | &nbsp; | &nbsp; |
+| --- | --- | --- |
 | - [ ] 2 | grams | kosher salt |
 | - [ ] 100 | grams | all purpose flour |
 
