@@ -1,7 +1,7 @@
 # Sourdough Crackers
 <img src="https://assets.bonappetit.com/photos/5ea9da3feee08767a7c6ab5e/16:9/w_1000,c_limit/_Basically-Sourdough-Crackers.jpg" alt="cracker" width="320"/>
 
-![cracker](https://assets.bonappetit.com/photos/5ea9da3feee08767a7c6ab5e/16:9/w_1000,c_limit/_Basically-Sourdough-Crackers.jpg){.large}
+![cracker](https://assets.bonappetit.com/photos/5ea9da3feee08767a7c6ab5e/16:9/w_1000,c_limit/_Basically-Sourdough-Crackers.jpg){.small}
 
 ## ℹ️ info  
 * About 30 minutes
