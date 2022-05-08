@@ -10,12 +10,12 @@
 - [ ] 100	grams	white whole wheat flour (or other flour as desired)
 - [ ] 180	grams	sourdough discard
 - [ ] 26	grams	extra virgin olive oil
-_Light Seasoning Ideas:_  
+***Light Seasoning Ideas:***  
 - [ ] 	sea salt
 - [ ] 	spices
 - [ ] 	garlic powder
 - [ ] 	nutritional yeast
-_Heavy Seasoning Ideas:_  
+***Heavy Seasoning Ideas:***  
 - [ ] 	fennel, cumin, poppy, or sesame seeds
 - [ ] 	dried herbs
 
