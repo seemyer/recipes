@@ -6,8 +6,7 @@
 * 3 pizzas (12x16)  
 
 ## 📋 ingredients  
-!!! cite ""
-	- [ ] XX	grams	XXX
+- [ ] XX	grams	XXX
 
 ## 🔪 steps  
 1. 
