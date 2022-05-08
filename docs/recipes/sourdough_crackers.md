@@ -17,11 +17,9 @@
 - [ ] spices
 - [ ] garlic powder
 - [ ] nutritional yeast
-
-***Heavy Seasoning Ideas:***  
-
-- [ ] fennel, cumin, poppy, or sesame seeds
-- [ ] dried herbs
+- [ ] ***Heavy Seasoning Ideas:***  
+	- fennel, cumin, poppy, or sesame seeds
+	- dried herbs
 
 ## 🔪 steps  
 1. In mixer bowl, whisk together salt and flour. Add sourdough discard and olive oil. Optionally, heavier seasonings may be added to the dough at this stage. Combine with spatula until the dough comes together.
