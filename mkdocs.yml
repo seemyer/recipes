@@ -5,7 +5,7 @@ theme:
     name: material
     icon: 
         logo: material/chef-hat
-    favicon: chef-hat.png
+    favicon: apple-touch-icon.png
 
 #nav:
 #    - Home: index.md

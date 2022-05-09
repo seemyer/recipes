@@ -5,15 +5,6 @@
 * About 30 minutes
 * 6 servings
 
-> :bookmark:
-> About 30 minutes
-> 6 servings
-
-| &nbsp; | &nbsp; | &nbsp; |
-| --- | --- | --- |
-| - [ ] 2 | grams | kosher salt |
-| - [ ] 100 | grams | all purpose flour |
-
 ## 📋 ingredients  
 - [ ] **2	grams**	kosher salt
 - [ ] **100	grams**	white whole wheat flour (or other flour as desired)
