@@ -10,7 +10,7 @@
 > 6 servings
 
 ## 📋 ingredients  
-- [ ] **XX grams** XXX
+- [ ] **XX grams** XXX *()*
 
 ## 🔪 steps  
 1. 

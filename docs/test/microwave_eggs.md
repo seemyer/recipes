@@ -6,8 +6,8 @@
 * 1 servings  
 
 ## 📋 ingredients  
-- [ ] **50 grams** large egg (1)
-- [ ] **120 grams** dashi, chicken broth, or water (1/2c)
+- [ ] **50 grams** large egg *(1)*
+- [ ] **120 grams** dashi, chicken broth, or water *(1/2c)*
 - [ ] **pinch** kosher salt
 - [ ] ***Your toppings of choice***
 	* shoyu
