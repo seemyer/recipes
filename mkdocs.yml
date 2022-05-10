@@ -6,15 +6,16 @@ theme:
     icon: 
         logo: material/chef-hat
     favicon: apple-touch-icon.png
-
-#nav:
-#    - Home: index.md
+    features:
+#        - navigation.expand
+        - navigation.instant
 
 markdown_extensions:
 
     # Python Markdown
     - admonition
     - attr_list
+#    - md_in_html
     - meta
     - toc:
         permalink: true
