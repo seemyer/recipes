@@ -16,11 +16,10 @@
 	* green onion
 	* cilantro
 	* fried shallots
-	* mushrooms
 
 ## 🔪 steps  
-1. In a small, microwave-safe shallow cereal bowl, whisk together the eggs, dashi and salt until very well combined, at least 30 seconds. Skim off any bubbles with a spoon or pop them by blowing on them.
-2. Cover the bowl with a microwave-safe plate and microwave at 500 watts (on 50 percent power on a 1,000-watt microwave) until the eggs have just set and are no longer liquid in the middle, 5 to 7 minutes.
+1. In a small, microwave-safe shallow bowl, whisk together the eggs, dashi and salt until very well combined, at least 30 seconds. Skim off any bubbles with a spoon or pop them by blowing on them.
+2. Cover the bowl with a microwave-safe plate and microwave at 500 watts (50% power on a 1,000-watt microwave) until the eggs have just set and are no longer liquid in the middle, 5 to 7 minutes.
 3. Let sit in the microwave to cool slightly, then carefully remove, uncover and drizzle with the sauce, and garnish with toppings, if using. Serve immediately.
 
 ## ✏️ notes  

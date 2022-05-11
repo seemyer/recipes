@@ -1,31 +1,25 @@
 # Devil's Food Cake  
-Go-to for D's birthday cakes or cupcakes.  
 <img src="https://www.seriouseats.com/thmb/qZuvtPIhoss2AnOzQbmg2NCM-uw=/1500x1125/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__01__20180131-devils-food-cake-vicky-wasik-22-a4b4dd3ad00747df9a4b2e5b1d5fd112.jpg" alt="cake" width="320"/>
+Time-tested recipe for D's birthday cakes or cupcakes.  
 
-## info  
+## ℹ️ info  
 * About 30 minutes active (3 hours total)  
 * 16 servings (3 8-in layers or 36 cupcakes)  
 
-## ingredients  
-FOR THE CAKE:  
-```
-340	grams	unsalted butter (about 3 sticks; 12oz)
-340	grams	brewed black coffee, or black tea such as Assam (about 1½ cups; 12oz)
-85	grams	Dutch-process cocoa powder, such as Cacao Barry Extra Brute (about 1 cup, spooned; 3oz)
-170	grams	finely chopped dark chocolate, roughly 72% (about 1¼ cups; 6oz)
-455	grams	light brown sugar (about 2 cups, packed; 16oz)
-15	grams	vanilla extract (about 1 tablespoon; ½oz)
-1	teaspoon (4g)	Diamond Crystal kosher salt
-6	large eggs, straight from the fridge (about 10½ ounces; 295g)
-3	large egg yolks, straight from the fridge (about 1½ ounces; 45g)
-255	grams	all-purpose flour (about 2 cups, spooned; 9oz)
-1	tablespoon (13g)	baking soda 
-```
-
-TO FINISH:  
-```
-1 recipe  Chocolate Swiss Buttercream or other frosting
-```
+## 📋 ingredients  
+**For the Cake**
+- [ ]	**340	grams**	unsalted butter *(about 3 sticks; 12oz)*
+- [ ]	**340	grams**	brewed black coffee, or black tea such as Assam *(12oz)*
+- [ ]	**85	grams**	Dutch-process cocoa powder, such as Cacao Barry Extra Brute *(3oz)*
+- [ ]	**170	grams**	finely chopped dark chocolate, roughly 72% *(6oz)*
+- [ ]	**455	grams**	light brown sugar *(16oz)*
+- [ ]	**15	grams**	vanilla extract *(about 1tbsp; ½oz)*
+- [ ]	**4	grams**	Diamond Crystal kosher salt *(1tsp)*
+- [ ]	**295	grams**	eggs, straight from the fridge *(6 large)*
+- [ ]	**45	grams**	egg yolks, straight from the fridge *(3 large)*
+- [ ]	**255	grams**	all-purpose flour *(9oz)*
+- [ ]	**13	grams**	baking soda *(1tbsp)*
+- [ ] ***1	recipe	Chocolate Swiss Buttercream or other frosting***
 
 ## steps  
 1. Getting Ready: Adjust oven rack to lower-middle position and preheat to 350°F (180°C). Line three 8- by 3-inch anodized aluminum pans with parchment and grease with pan spray. (The cakes can be baked in 2-inch-deep pans, but they will dome more and rise less.)  
@@ -53,7 +47,7 @@ FOR 24 CUPCAKES:
 2	teaspoons	baking soda  
 ```
 
-FOR 2 9x13 SHEET CAKES:  
+FOR 9x13 SHEET CAKE (0.7x multiplier):  
 ```
 424	grams	unsalted butter
 424	grams	brewed black coffee

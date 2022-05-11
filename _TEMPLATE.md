@@ -1,5 +1,6 @@
 # Title  
 <img src="URL" alt="DESCRIPTION" width="320"/>
+Supplemental description.  
 
 ## ℹ️ info  
 * About XX minutes  
