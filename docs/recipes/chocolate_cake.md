@@ -7,8 +7,7 @@ Time-tested recipe for D's birthday cakes or cupcakes.
 * 16 servings (3 8-in layers or 36 cupcakes)  
 
 ## 📋 ingredients  
-**For the Cake**
-- [ ]	**340	grams**	unsalted butter *(about 3 sticks; 12oz)*
+- [ ] **340	grams**	unsalted butter *(about 3 sticks; 12oz)*
 - [ ]	**340	grams**	brewed black coffee, or black tea such as Assam *(12oz)*
 - [ ]	**85	grams**	Dutch-process cocoa powder, such as Cacao Barry Extra Brute *(3oz)*
 - [ ]	**170	grams**	finely chopped dark chocolate, roughly 72% *(6oz)*
@@ -31,8 +30,7 @@ Time-tested recipe for D's birthday cakes or cupcakes.
 7. Let cake return to cool room temperature before serving. Under a cake dome or an inverted pot, the frosted cake will keep 24 hours at cool room temperature. After cutting, wrap leftover slices individually and store at cool room temperature up to 3 days more.  
 
 ## notes  
-* 
-FOR 24 CUPCAKES:  
+* For 24 Cupcakes:
 ```
 224	grams	unsalted butter (2 sticks)  
 224	grams	brewed black coffee, or black tea such as Assam  
@@ -46,21 +44,19 @@ FOR 24 CUPCAKES:
 168	grams	all-purpose flour  
 2	teaspoons	baking soda  
 ```
-
-FOR 9x13 SHEET CAKE (0.7x multiplier):  
-```
-424	grams	unsalted butter
-424	grams	brewed black coffee
-106	grams	Dutch-process cocoa powder
-212	grams	finely chopped dark chocolate, roughly 72%
-567	grams	light brown sugar
-19	grams	vanilla extract
-5	grams	Diamond Crystal kosher salt
-368	grams	large eggs, straight from the fridge (about 7 eggs)
-56	grams	large egg yolks, straight from the fridge (about 4 yolks)
-318	grams	all-purpose flour
-16	grams	baking soda
-```
+* For 1x 9x13 Sheet Cake (0.7x multiplier):
+	- [ ]	**340	grams**	unsalted butter *(about 3 sticks; 12oz)*
+	- [ ]	**340	grams**	brewed black coffee, or black tea such as Assam *(12oz)*
+	- [ ]	**85	grams**	Dutch-process cocoa powder, such as Cacao Barry Extra Brute *(3oz)*
+	- [ ]	**170	grams**	finely chopped dark chocolate, roughly 72% *(6oz)*
+	- [ ]	**455	grams**	light brown sugar *(16oz)*
+	- [ ]	**15	grams**	vanilla extract *(about 1tbsp; ½oz)*
+	- [ ]	**4	grams**	Diamond Crystal kosher salt *(1tsp)*
+	- [ ]	**295	grams**	eggs, straight from the fridge *(6 large)*
+	- [ ]	**45	grams**	egg yolks, straight from the fridge *(3 large)*
+	- [ ]	**255	grams**	all-purpose flour *(9oz)*
+	- [ ]	**13	grams**	baking soda *(1tbsp)*
+	- [ ] ***1	recipe	Chocolate Swiss Buttercream or other frosting***
 
 FROSTING:  
 https://www.seriouseats.com/swiss-meringue-buttercream-frosting-recipe  
