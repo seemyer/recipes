@@ -3,8 +3,8 @@
 Time-tested recipe for D's birthday cakes or cupcakes.  
 
 ## ℹ️ info  
-* About 30 minutes active (3 hours total)  
-* 16 servings (3 8-in layers or 36 cupcakes)  
+* About 30 minutes active (3 hours total)
+* 16 servings (3 8-in layers or 36 cupcakes)
 
 ## 📋 ingredients  
 - [ ] **340	grams**	unsalted butter *(about 3 sticks; 12oz)*
@@ -20,7 +20,7 @@ Time-tested recipe for D's birthday cakes or cupcakes.
 - [ ] **13	grams**	baking soda *(1tbsp)*
 - [ ] ***1	recipe	Chocolate Swiss Buttercream or other frosting***
 
-## steps  
+## 🔪 steps  
 1. Getting Ready: Adjust oven rack to lower-middle position and preheat to 350°F (180°C). Line three 8- by 3-inch anodized aluminum pans with parchment and grease with pan spray. (The cakes can be baked in 2-inch-deep pans, but they will dome more and rise less.)  
 2. For the Cake: Combine butter and coffee or tea in a 5-quart stainless steel pot or saucier over low heat. Once melted, remove from heat, then mix in cocoa and chocolate, followed by brown sugar, vanilla, and salt. Mix in eggs and yolks, then sift in flour and baking soda. Whisk thoroughly to combine.  
 3. Divide batter between prepared cake pans, using about 23 ounces each. (If you don't have three pans, the remaining batter can be held at room temperature up to 90 minutes, though the rise will not be quite as high.) Bake until cakes are firm but your finger can still leave an impression in the puffy crust, about 30 minutes (a toothpick inserted into the center should come away with a few crumbs still attached).
@@ -29,7 +29,7 @@ Time-tested recipe for D's birthday cakes or cupcakes.
 6. Refrigerate cake until buttercream hardens, about 30 minutes. Coat exterior of chilled cake in a layer of chocolate cookie crumbs, if desired.  
 7. Let cake return to cool room temperature before serving. Under a cake dome or an inverted pot, the frosted cake will keep 24 hours at cool room temperature. After cutting, wrap leftover slices individually and store at cool room temperature up to 3 days more.  
 
-## notes  
+## ✏️ notes  
 * For 24 Cupcakes:
 ```
 224	grams	unsalted butter (2 sticks)  
@@ -57,5 +57,6 @@ https://www.seriouseats.com/swiss-meringue-buttercream-frosting-recipe
 1/2   teaspoon   vanilla extract  
 1/8   teaspoon   almond extract  
 ```
-## sources  
+
+## 🔗 sources  
 https://www.seriouseats.com/bravetarts-devils-food-cake  
