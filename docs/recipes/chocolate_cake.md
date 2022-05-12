@@ -1,5 +1,5 @@
 # Devil's Food Cake  
-<img src="https://www.seriouseats.com/thmb/qZuvtPIhoss2AnOzQbmg2NCM-uw=/1500x1125/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__01__20180131-devils-food-cake-vicky-wasik-22-a4b4dd3ad00747df9a4b2e5b1d5fd112.jpg" alt="cake" width="320"/>
+<img src="https://www.seriouseats.com/thmb/qZuvtPIhoss2AnOzQbmg2NCM-uw=/1500x1125/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__01__20180131-devils-food-cake-vicky-wasik-22-a4b4dd3ad00747df9a4b2e5b1d5fd112.jpg" alt="cake" width="320"/>  
 Time-tested recipe for D's birthday cakes or cupcakes.  
 
 ## ℹ️ info  
@@ -21,7 +21,7 @@ Time-tested recipe for D's birthday cakes or cupcakes.
 - [ ] ***6-7	cups	Chocolate Swiss Buttercream or other frosting***
 
 ## 🔪 steps  
-1. **Getting Ready:** Adjust oven rack to lower-middle position and preheat to 350°F (180°C). Line three 8- by 3-inch anodized aluminum pans with parchment and grease with pan spray. (The cakes can be baked in 2-inch-deep pans, but they will dome more and rise less.)  
+1. **Getting Ready:** Adjust oven rack to lower-middle position and preheat to 350°F (180°C). Line three 8x3-inch anodized aluminum pans with parchment and grease with pan spray.
 2. **For the Cake:** Combine butter and coffee or tea in a 5-quart stainless steel pot or saucier over low heat. Once melted, remove from heat, then mix in cocoa and chocolate, followed by brown sugar, vanilla, and salt. Mix in eggs and yolks, then sift in flour and baking soda. Whisk thoroughly to combine.  
 3. Divide batter between prepared cake pans, using about 23 ounces each. (If you don't have three pans, the remaining batter can be held at room temperature up to 90 minutes, though the rise will not be quite as high.) Bake until cakes are firm but your finger can still leave an impression in the puffy crust, about 30 minutes (a toothpick inserted into the center should come away with a few crumbs still attached).
 4. Cool cakes directly in their pans for 1 hour, then run a butter knife around the edges to loosen. Invert onto a wire rack, peel off parchment, and return cakes right side up. Meanwhile, prepare the buttercream.
@@ -57,6 +57,7 @@ Time-tested recipe for D's birthday cakes or cupcakes.
 	- [ ] **170	grams**	all-purpose flour
 	- [ ] **9	grams**	baking soda
 	- [ ] ***6-7	cups	Chocolate Swiss Buttercream or other frosting***
+* The cakes can be baked in 2-inch-deep pans, but they will dome more and rise less.
 * Frosting:  
 	https://seriouseats.com/swiss-meringue-buttercream-frosting-recipe  
 	https://seriouseats.com/chocolate-swiss-buttercream  

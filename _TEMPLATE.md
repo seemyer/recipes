@@ -1,5 +1,5 @@
 # Title  
-<img src="URL" alt="DESCRIPTION" width="320"/>
+<img src="URL" alt="DESCRIPTION" width="320"/>  
 Supplemental description.  
 
 ## ℹ️ info  
