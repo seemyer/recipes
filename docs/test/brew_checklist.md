@@ -69,7 +69,11 @@
 - [ ] *Begin fermentation schedule.*
 
 ## ✏️ notes  
-<div class="form-group">
-	<input type="text" id="style" name="style" title="Type the name of the beer style" required>
-	<label for="style">Beer Style</label>
-</div>
+
+<label for="style">Beer Style: </label>
+<input type="text" id="style" name="style" title="Type the name of the beer style" required>
+<br>
+<label for="notes">Session Notes:</label>
+<br>
+<textarea id="notes" name="notes" rows="12" cols="80"></textarea>
+<br/>
