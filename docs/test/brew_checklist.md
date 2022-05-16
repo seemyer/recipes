@@ -7,27 +7,28 @@
 
 ## 📋 Brew Eve  
 - [ ] Sanitize ferment and serving keg.
-- [ ] Filter Strike Volume into boil kettle, then heat to 100°F.
-- [ ] Add 1.0 g/gal each of bread yeast and sugar.
-- [ ] Weigh grains into bucket.
-- [ ] Measure Irish moss and rehydrate in water. Measure minerals, hops, adjuncts.
+- [X] Filter Strike Volume into boil kettle, then heat to 100°F.
+- [X] Add 1.0 g/gal each of bread yeast and sugar.
+- [X] Weigh grains into bucket.
+- [X] Measure Irish moss and rehydrate in water. Measure minerals, hops, adjuncts.
 
 ## 📋 Set-up  
 - [ ] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
 - [ ] Begin heating strike water in Boil Kettle.
-- [ ] Adjust grain mill gap spacing (0.039 in).
+- [X] Adjust grain mill gap spacing (0.028 in).
 - [ ] Dose bottom of mash bag with minerals.
 - [ ] Condition pre-measured grains, and rest for 10 minutes.
 - [ ] Connect CO₂ to Boil Kettle hose, and purge plumbing and MLT at 1 psi CO₂.
 - [ ] Mill grains into MLT.
+- [ ] Dose HLT with SMB.
 
 ## 📋 Mash  
 - [ ] Set Boil Kettle to MLT pump flow, open Kettle valve to flood pump line with strike water.
-- [ ] Open MLT valve, and pump strike water volume to MLT at #2 on controller (0.5 GPM).
+- [ ] Open MLT valve, and pump strike water volume to MLT (0.6 GPM).
 - [ ] Turn off pump, close MLT valve, then close Boil Kettle valve.
 - [ ] Add acid/sauergut to MLT, stir mash gently to mix thoroughly, and cover with mash cap.
 - [ ] Set RIMS recirculation pump flow, open MLT valve.
-- [ ] Rest mash for 5 minutes, then turn on pump and recirculate for 5 minutes (0.5 GPM).
+- [ ] Rest mash for 5 minutes, then turn on pump and recirculate for 5 minutes (0.6 GPM).
 - [ ] Increase recirculation to 2.0 GPM, turn on element PID, and set first mash step.
 - [ ] Mash per schedule (MLT will lag RIMS by 3°F), and record °B data in log.
 	- [ ] After first β rest, and measure/adjust mash pH.
@@ -46,7 +47,7 @@
 - [ ] *OPTIONAL: Create vitality starter for yeast using second runnings.*
 - [ ] Add Fermcap (9 drops), and skim any accumulated foam as it approaches a boil.
 - [ ] Make hot scotchy and begin cleaning MLT and plumbing.
-- [ ] Add hops and other ingredients as required by recipe.
+- [ ] Add hops (0:30).
 - [ ] At 15 minutes before end of boil, flame out, measure wort volume, °B, and pH.
 - [ ] Replace lid and adjust boil length as necessary, then re-ignite flame.
 - [ ] Add acid boil additions, Irish Moss (0:15), ellagic acid (0:06).
@@ -55,8 +56,9 @@
 
 ## 📋 Chill & Pitch  
 - [ ] Submerge sanitized wort chiller, mount stirrer, and turn Boil Kettle pick-up tube to 10:00 orientation.
-- [ ] Add final ingredients and/or perform whirlpool hop additions.
-- [ ] Activate wort chiller and stirrer, then cool to less than 70°F (recover hot waste water for cleaning).
+- [ ] Activate wort chiller and stirrer, then cool to 170°F.
+- [ ] Add whirlpool hop addition in mesh bag.
+- [ ] Re-activate wort chiller and stirrer, then cool to less than 70°F (recover hot waste water for cleaning).
 - [ ] Remove wort chiller, then whirlpool with stirrer for 2 minutes.
 - [ ] Raise valve edge of Boil Kettle on block, and wait 60 minutes to settle trub.
 - [ ] Prep fermenter and serving keg, then continue equipment clean-up.
@@ -67,3 +69,7 @@
 - [ ] *Begin fermentation schedule.*
 
 ## ✏️ notes  
+<div class="form-group">
+	<input type="text" id="style" name="style" title="Type the name of the beer style" required>
+	<label for="style">Beer Style</label>
+</div>
