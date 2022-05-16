@@ -13,12 +13,12 @@
 ## 🔪 steps  
 1. Grease a 9x13-inch pan with butter or spray with baking spray.
 2. Grease a large mixing bowl with butter or baking spray and pour in the cereal.
-3. Begin melting the butter in a medium-large saucepan set over low heat then stir in the marshmallows.
+3. Melt the butter in a medium-large saucepan set over low heat, then stir in the marshmallows.
 4. Continue to melt over low heat, stirring often, until about 75% of the marshmallows have melted.
 5. Remove the pan from the heat and stir vigorously until all of the marshmallows have melted.
 6. Pour the melted marshmallows over the Rice Krispies Cereal and toss to evenly coat.
 7. Spread the mixture into the buttered pan and gently press into an even layer.
-8. Let the cereal treats cool for at least 30 minutes before cutting into 18 rectangles. 
+8. Let the cereal treats cool for at least 30 minutes before cutting into 18 rectangles.
 
 ## ✏️ notes  
 * Recommend using Kraft Jet-Puffed Marshmallows, as store-brand marshmallows are stickier. If you use store-brand marshmallows, add up to one additional cup of Rice Krispies Cereal.

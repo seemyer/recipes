@@ -1,4 +1,4 @@
-# Roasted Sweet Potatoes  
+# Roasted Sweet Potatoes (Sliced)  
 <img src="https://www.jessicagavin.com/wp-content/uploads/2019/11/roasted-sweet-potatoes-12.jpg" alt="potato" width="320"/>
 
 ## info  

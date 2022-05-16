@@ -8,7 +8,7 @@
 ## 📋 ingredients  
 - [ ] **28	grams**	extra-virgin olive oil
 - [ ] **170	grams**	potato chips *(6oz)*
-- [ ] **10	large**	eggs
+- [ ] **12	large**	eggs
 - [ ] Kosher salt and freshly ground black pepper
 
 ## 🔪 steps  

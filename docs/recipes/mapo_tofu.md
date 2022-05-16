@@ -1,31 +1,29 @@
 # Mapo Tofu (麻婆豆腐)  
-<img src="https://uploads-ssl.webflow.com/5d4b0077ebce4f3b499cb920/5e705b39a09e2147481c0d15_FoodOfSichuan_MapoTofu-p-800.jpeg" alt="mapo" width="320">
+<img src="https://uploads-ssl.webflow.com/5d4b0077ebce4f3b499cb920/5e705b39a09e2147481c0d15_FoodOfSichuan_MapoTofu-p-800.jpeg" alt="mapo" width="320">  
 
-## info  
+## ℹ️ info  
 * About 20 minutes  
 * 4 servings  
 
-## ingredients  
-```
-¼–1   teaspoon   Sichuan peppercorns, divided
-55 grams virgin rapeseed oil (¼ cup)
-8  grams  cornstarch (1 tbsp)
-30 mililiters  cold water
-1  package   soft or medium tofu, cut into ½-inch cubes (1½ lbs)
-120   grams   pork or beef, minced (¼ lb)
-3  garlic cloves, minced
-1  tablespoon   fresh ginger grated on a microplane grater
-2  tablespoons  pickled red peppers, minced
-25 grams doubanjiang fermented chili bean paste (2 tbsp)
-2  tablespoons  chili powder
-15 mililiters  Xiaoxing wine (1 tbsp)
-15 mililiters  dark soy sauce (1 tbsp)
-250   mililiters low-sodium chicken stock or water
-¼  teaspoon ground white pepper
-¼  cup finely sliced scallion greens
-```
+## 📋 ingredients  
+- [ ] **1/4-1	teaspoon**	Sichuan peppercorns, divided
+- [ ] **55	grams**	virgin rapeseed oil *(2tbsp)*
+- [ ] **8	grams**	cornstarch *(1tbsp)*
+- [ ] **30	grams**	water, cold
+- [ ] **1	package**	soft or medium tofu, cut into 1/2-inch cubes *(1½lbs)*
+- [ ] **120	grams**	pork or beef, minced *(1/4lb)*
+- [ ] **3	cloves**	garlic, minced
+- [ ] **1	tablespoon**	fresh ginger, minced
+- [ ] ***2	tablespoons**	pickled red peppers, minced*
+- [ ] **25	grams**	doubanjiang fermented chili bean paste *(2tbsp)*
+- [ ] ***2	tablespoons**	chili powder*
+- [ ] **15	grams**	Xiaoxing wine *(1tbsp)*
+- [ ] **15	grams**	dark soy sauce *(1tbsp)*
+- [ ] **250	grams**	low-sodium chicken stock or water
+- [ ] **1/4	teaspoon**	ground white pepper
+- [ ] **1/4	cup**	scallion greens, finely sliced
 
-## steps  
+## 🔪 steps  
 1. Heat sichuan peppercorns in a large wok over medium heat until lightly smoking. Transfer to a mortar and pestle. Pound until finely ground and set aside.
 2. Slice tofu in half horizontally. Then, slice down to get strips, and finally cut in the other direction to get cubes. Combine corn starch and cold water in a small bowl, mix with a fork until homogenous, and set aside.
 3. Bring a medium saucepan of water to a boil over high heat and add tofu. Simmer gently for 1 minute. Remove from heat until ready to stir fry.
@@ -35,12 +33,12 @@
 7. Loosen up the cornstarch slurry. Pour one-third of corn starch mixture into the sauce and cook for 30 seconds until thickened, stirring gently. Repeat with remaining thirds of slurry.
 8. Transfer immediately to a serving bowl and sprinkle with white pepper, scallions, and remaining toasted ground Sichuan pepper. Serve immediately with white rice.
 
-## notes  
+## ✏️ notes  
 * 
 
-## sources   
-https://www.youtube.com/watch?v=pznZansDXSA  
-https://www.seriouseats.com/real-deal-mapo-dofu-tofu-chinese-sichuan-recipe  
-https://www.reddit.com/r/Cooking/comments/bkwppx/recipe_sichuan_mapo_tofu_revisited_%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90/  
-https://www.saltandspine.com/recipe/mapo-tofu  
-https://www.latimes.com/food/story/2019-08-15/mapo-tofu-avocado-sichuan-chinese-recipe-chef-yu-bo  
+## 🔗 sources  
+https://youtube.com/watch?v=pznZansDXSA  
+https://seriouseats.com/real-deal-mapo-dofu-tofu-chinese-sichuan-recipe  
+https://reddit.com/r/Cooking/comments/bkwppx/recipe_sichuan_mapo_tofu_revisited_%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90/  
+https://saltandspine.com/recipe/mapo-tofu  
+https://latimes.com/food/story/2019-08-15/mapo-tofu-avocado-sichuan-chinese-recipe-chef-yu-bo  

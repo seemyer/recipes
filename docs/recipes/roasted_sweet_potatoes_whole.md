@@ -1,4 +1,4 @@
-# Roasted Sweet Potatoes  
+# Roasted Sweet Potatoes (Whole)  
 <img src="https://www.seriouseats.com/thmb/TPHFI2KwZGQbDyZ6vUbrDlJ5vEw=/880x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20211001-frozen-sweet-potatoes-vicky-wasik-6-f681675e31d647a39efa23c6d90de8f6.jpg" alt="potato" width="320"/>
 
 ## info  
