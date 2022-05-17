@@ -25,7 +25,7 @@
 	resize: none;
 	}
 
-	input[type=text]:focus {
+	input[type=text]:focus, input[type=date]:focus {
 	border-bottom: 2px solid #2196f3;
 	}
 
