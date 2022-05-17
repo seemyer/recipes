@@ -77,11 +77,8 @@
 <label for="notes">Session Notes:</label>
 <textarea id="notes" name="notes" rows="12" cols="80"></textarea>
 
-<form>
-	<div class="group">
-      <input type="text" required>
-      <span class="highlight"></span>
-      <span class="bar"></span>
-      <label>Brew Date</label>
-   </div>
-</form>
+<div class="wrapper">
+	<form>
+		<div class="group"><input type="text" required="required" /><span class="highlight"></span><span class="bar"></span><label>Brew Date</label></div>
+	</form>
+</div>
