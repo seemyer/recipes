@@ -1,4 +1,6 @@
 # Brew Day Checklist  
+<label for="date">Brew Date</label>
+<input type="text" id="date" name="date">
 
 ## ℹ️ info  
 * Adjust pH meter to match listed calibration pH
