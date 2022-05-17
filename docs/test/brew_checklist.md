@@ -27,7 +27,7 @@
 
 # Brew Day Checklist  
 <form>
-	<input type="text" /><span class="highlight" required="required"></span><label>Brew Date</label>
+	<input type="text" required="required" /><label>Brew Date</label>
 </form>
 
 ## ℹ️ info  
