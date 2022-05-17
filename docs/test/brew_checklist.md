@@ -14,9 +14,10 @@
 	}
 
 	label {
-	font-size: 12px;
+	top: -14px;
+	font-size: 14px;
 	}
-	
+
 </style>
 
 # Brew Day Checklist  
