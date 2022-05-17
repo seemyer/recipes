@@ -1,12 +1,9 @@
-:before {
+*, :before, :after {
   box-sizing: border-box;
 }
 
-form {
-  margin: 45px auto;
-}
-
 .group {
+  position: relative;
   margin: 45px 0;
 }
 
