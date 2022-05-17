@@ -1,4 +1,4 @@
-*, :before, :after {
+:before {
   box-sizing: border-box;
 }
 
@@ -7,7 +7,6 @@ form {
 }
 
 .group {
-  position: relative;
   margin: 45px 0;
 }
 
@@ -62,7 +61,7 @@ width: 320px;
 content: '';
 height: 2px;
 width: 0;
-bottom: 0px;
+bottom: 0;
 position: absolute;
 background: #2196f3;
 transition: 300ms ease all;
