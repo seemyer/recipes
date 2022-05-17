@@ -1,10 +1,4 @@
 # Brew Day Checklist  
-<label for="date">Brew Date: </label>
-<input type="text" id="date" name="date">
-<br>
-<label for="style">Beer Style: </label>
-<input type="text" id="style" name="style" title="Type the name of the beer style">
-<br>
 
 ## ℹ️ info  
 * Adjust pH meter to match listed calibration pH
@@ -74,8 +68,6 @@
 - [ ] *Begin fermentation schedule.*
 
 ## ✏️ notes  
-<label for="notes">Session Notes:</label>
-<textarea id="notes" name="notes" rows="12" cols="80"></textarea>
 
 <div class="wrapper">
 	<form>
