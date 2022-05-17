@@ -2,22 +2,6 @@
   box-sizing: border-box;
 }
 
-textarea {
-  resize: none;
-}
-
-input, textarea {
-  background: none;
-  color: #c6c6c6;
-  font-size: 18px;
-  padding: 10px 10px 10px 5px;
-  display: block;
-  width: 320px;
-  border: none;
-  border-radius: 0;
-  border-bottom: 1px solid #c6c6c6;
-}
-
 input:focus, textarea:focus {
   outline: none;
 }
