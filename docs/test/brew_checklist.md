@@ -79,6 +79,6 @@
 
 <div class="wrapper">
 	<form>
-		<div class="group"><input type="text" required="required" /><span class="highlight"></span><span class="bar"></span><label>Brew Date</label></div>
+		<input type="text" required="required" /><span class="highlight"></span><span class="bar"></span><label>Brew Date</label>
 	</form>
 </div>

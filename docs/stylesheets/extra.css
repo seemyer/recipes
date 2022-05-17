@@ -2,11 +2,6 @@
   box-sizing: border-box;
 }
 
-.group {
-  position: relative;
-  margin: 45px 0;
-}
-
 textarea {
   resize: none;
 }
