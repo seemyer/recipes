@@ -16,11 +16,11 @@
 - [X] Add 1.0 g/gal each of bread yeast and sugar.
 - [X] Weigh grains into bucket.
 - [X] Measure Irish moss and rehydrate in water. Measure minerals, hops, adjuncts.
+- [X] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
+- [X] Adjust grain mill gap spacing (0.028 in).
 
 ## 📋 Set-up  
-- [ ] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
 - [ ] Begin heating strike water in Boil Kettle.
-- [X] Adjust grain mill gap spacing (0.028 in).
 - [ ] Dose bottom of mash bag with minerals.
 - [ ] Condition pre-measured grains, and rest for 10 minutes.
 - [ ] Connect CO₂ to Boil Kettle hose, and purge plumbing and MLT at 1 psi CO₂.
@@ -76,3 +76,21 @@
 ## ✏️ notes  
 <label for="notes">Session Notes:</label>
 <textarea id="notes" name="notes" rows="12" cols="80"></textarea>
+
+.wrapper
+  form
+    .group
+      input(type="text" required)
+      span.highlight
+      span.bar
+      label Brew Date
+    .group
+      input(type="text" required)
+      span.highlight
+      span.bar
+      label Beer Style
+    .group
+      textarea(type="textarea" rows="6" required)
+      span.highlight
+      span.bar
+      label Session Notes
