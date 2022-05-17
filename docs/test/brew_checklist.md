@@ -12,6 +12,11 @@
 	input[type=text]:focus {
 	border-bottom: 2px solid #2196f3;
 	}
+
+	label {
+	font-size: 12px;
+	}
+	
 </style>
 
 # Brew Day Checklist  
