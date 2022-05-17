@@ -1,7 +1,7 @@
 <style>
 	input[type=text] {
-	padding: 10px 10px 0 10px;
-	margin: 0 0 10px 0;
+	padding: 5px 10px 5px 5px;
+	margin: 0 0 15px 0;
 	display: block;
 	width: 320px;
 	border: none;
