@@ -6,8 +6,6 @@
 	border: none;
 	border-radius: 0;
 	border-bottom: 1px solid #c6c6c6;
-	-webkit-transition: 0.5s;
-	transition: 0.5s;
 	outline: none;
 	}
 
@@ -16,6 +14,7 @@
 	pointer-events: none;
 	left: 5px;
 	top: 10px;
+	transition: 300ms ease all;
 	}
 
 	label:focus {
@@ -28,8 +27,7 @@
 
 # Brew Day Checklist  
 <form>
-	<label for="date">Brew Date</label>
-	<input type="text" id="date" name="date" required>
+	<input type="text" /><span class="highlight" required="required"></span><label>Brew Date</label>
 </form>
 
 ## ℹ️ info  
