@@ -20,6 +20,7 @@
 	font-size: 14px;
 	border-radius: 0;
 	border: 1px solid #c6c6c6;
+	outline: none;
 	transition: 0.2s;
 	resize: none;
 	}
