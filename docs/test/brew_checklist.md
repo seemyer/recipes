@@ -1,6 +1,6 @@
 <style>
 	input[type=text] {
-	padding: 10px 10px 10px 5px;
+	padding: 0 10px 5px 0;
 	display: block;
 	width: 320px;
 	border: none;
@@ -14,7 +14,6 @@
 	}
 
 	label {
-	top: -20px;
 	font-size: 16px;
 	}
 
