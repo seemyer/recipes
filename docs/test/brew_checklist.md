@@ -12,14 +12,11 @@
 	input[type=text]:focus {
 	border-bottom: 2px solid #2196f3;
 	}
-
 </style>
 
 # Brew Day Checklist  
-<form>
-	<label for="date">Brew Date</label>
-	<input type="text" id="date" name="date" required>
-</form>
+<label for="date">Brew Date</label>
+<input type="text" id="date" name="date" required>
 
 ## ℹ️ info  
 * Adjust pH meter to match listed calibration pH
