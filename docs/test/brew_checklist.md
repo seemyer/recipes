@@ -1,5 +1,5 @@
 <style>
-	input[type=text] {
+	input[type=text], input[type=date] {
 	padding: 2px 10px 5px 5px;
 	margin: 0 0 15px 0;
 	display: block;
@@ -16,7 +16,7 @@
 	padding: 2px 10px 5px 5px;
 	margin: 0 0 15px 0;
 	display: block;
-	width: 320px;
+	width: 80%;
 	font-size: 14px;
 	border: 1px solid #c6c6c6;
 	border-radius: 0;
@@ -35,10 +35,8 @@
 </style>
 
 # Brew Day Checklist  
-<label for="date">Brew Date</label><input type="text" id="date" name="date" required>
+<label for="bdate">Brew Date</label><input type="date" id="bdate" name="bdate" required>
 <label for="style">Beer Style</label><input type="text" id="style" name="style" required>
-
-<input type="textarea" id="notes" name="notes" required>
 
 ## ℹ️ info  
 * Adjust pH meter to match listed calibration pH
@@ -108,3 +106,4 @@
 - [ ] *Begin fermentation schedule.*
 
 ## ✏️ notes  
+<input type="textarea" id="notes" name="notes" rows="8" required>
