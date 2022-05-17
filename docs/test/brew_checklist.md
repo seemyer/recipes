@@ -77,20 +77,11 @@
 <label for="notes">Session Notes:</label>
 <textarea id="notes" name="notes" rows="12" cols="80"></textarea>
 
-.wrapper
-  form
-    .group
-      input(type="text" required)
-      span.highlight
-      span.bar
-      label Brew Date
-    .group
-      input(type="text" required)
-      span.highlight
-      span.bar
-      label Beer Style
-    .group
-      textarea(type="textarea" rows="6" required)
-      span.highlight
-      span.bar
-      label Session Notes
+<form>
+	<div class="group">
+      <input type="text" required>
+      <span class="highlight"></span>
+      <span class="bar"></span>
+      <label>Brew Date</label>
+   </div>
+</form>

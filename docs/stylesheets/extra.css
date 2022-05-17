@@ -11,15 +11,18 @@ $width: 320px;
   box-sizing: border-box;
 }
 
+/*
 body {
   background: $bg-color;
 }
+*/
 
 // FORM // ============================== //
 form {
   width: $width;
   margin: 45px auto;
-  
+
+/*  
   h1 {
     font-size: 3em;
     font-weight: 300;
@@ -43,6 +46,7 @@ form {
     font-size: 1.2em;
   }
 }
+*/
 
 .group {
   position: relative;
@@ -110,6 +114,7 @@ label {
   }
 }
 
+/*
 // BUTTONS // ============================== //
 .btn {
   background: #fff;
@@ -156,3 +161,4 @@ label {
   text-align: center;
   margin: 50px 0;
 }
+*/
