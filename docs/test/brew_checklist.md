@@ -18,9 +18,12 @@
 	display: block;
 	width: 80%;
 	font-size: 14px;
-	border: 1px solid #c6c6c6;
+	border: none;
 	border-radius: 0;
+	border-top: 1px solid #c6c6c6;
+	border-right: 1px solid #c6c6c6;
 	border-bottom: 1px solid #c6c6c6;
+	border-left: 1px solid #c6c6c6;
 	transition: 0.2s;
 	resize: none;
 	}
