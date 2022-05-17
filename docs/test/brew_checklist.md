@@ -12,7 +12,7 @@
 	transition: 0.2s;
 	}
 
-	input[type=textarea] {
+	textarea {
 	padding: 2px 10px 5px 5px;
 	margin: 0 0 15px 0;
 	display: block;
