@@ -4,6 +4,7 @@
 	margin: 0 0 15px 0;
 	display: block;
 	width: 320px;
+	font-size: 14px;
 	border: none;
 	border-radius: 0;
 	border-bottom: 1px solid #c6c6c6;
@@ -11,7 +12,19 @@
 	transition: 0.2s;
 	}
 
-	input[type=text]:focus {
+	input[type=textarea] {
+	padding: 2px 10px 5px 5px;
+	margin: 0 0 15px 0;
+	display: block;
+	width: 320px;
+	font-size: 14px;
+	border: 1px solid #c6c6c6;
+	border-radius: 0;
+	outline: none;
+	transition: 0.2s;
+	}
+
+	input[type=text]:focus, input[type=textarea]:focus {
 	border-bottom: 2px solid #2196f3;
 	}
 
@@ -24,6 +37,8 @@
 # Brew Day Checklist  
 <label for="date">Brew Date</label><input type="text" id="date" name="date" required>
 <label for="style">Beer Style</label><input type="text" id="style" name="style" required>
+
+<input type="textarea" id="notes" name="notes" required>
 
 ## ℹ️ info  
 * Adjust pH meter to match listed calibration pH
