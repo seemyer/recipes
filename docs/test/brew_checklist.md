@@ -6,12 +6,29 @@
 	border: none;
 	border-radius: 0;
 	border-bottom: 1px solid #c6c6c6;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+	outline: none;
+	}
+
+	input[type=label]:focus {
+	top: -14px;
+	font-size: 12px;
+	color: #2196f3;
+	}
+
+	input[type=text]:focus {
+	top: -14px;
+	font-size: 12px;
+	color: #2196f3;
 	}
 </style>
 
 # Brew Day Checklist  
-<label for="date">Brew Date</label>
-<input type="text" id="date" name="date">
+<form>
+	<label for="date">Brew Date</label>
+	<input type="text" id="date" name="date" required>
+</form>
 
 ## ℹ️ info  
 * Adjust pH meter to match listed calibration pH
