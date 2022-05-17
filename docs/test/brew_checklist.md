@@ -14,8 +14,8 @@
 	}
 
 	label {
-	top: -14px;
-	font-size: 14px;
+	top: -20px;
+	font-size: 16px;
 	}
 
 </style>
