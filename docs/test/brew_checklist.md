@@ -106,4 +106,4 @@
 - [ ] *Begin fermentation schedule.*
 
 ## ✏️ notes  
-<textarea id="notes" name="notes" rows="8" required>
+<textarea id="notes" name="notes" rows="8" required></textarea>
