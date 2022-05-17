@@ -1,3 +1,14 @@
+<style>
+	input[type=text] {
+	padding: 10px 10px 10px 5px;
+	display: block;
+	width: 320px;
+	border: none;
+	border-radius: 0;
+	border-bottom: 1px solid #c6c6c6;
+	}
+</style>
+
 # Brew Day Checklist  
 <label for="date">Brew Date</label>
 <input type="text" id="date" name="date">
