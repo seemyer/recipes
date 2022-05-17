@@ -71,7 +71,7 @@
 
 <div class="wrapper">
 	<form>
-		<div class="input_group"><input type="text" required="required" /><span class="highlight"></span><span class="underbar"></span><label>Brew Date</label></div>
+		<div class="input_group"><input type="text" /><span class="highlight"></span><span class="underbar"></span><label>Brew Date</label></div>
 		<div class="input_group"><input type="text" required="required" /><span class="highlight"></span><span class="underbar"></span><label>Beer Style</label></div>
 		<div class="input_group"><textarea type="textarea" rows="3" required="required"></textarea><span class="highlight"></span><span class="underbar"></span><label>Notes</label></div>
 	</form>
