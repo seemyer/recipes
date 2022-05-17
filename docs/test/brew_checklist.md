@@ -43,7 +43,6 @@
 <label for="style">Beer Style</label><input type="text" id="style" name="style" required>
 
 ## ℹ️ info  
-* Adjust pH meter to match listed calibration pH
 * Pour-over 3 qts boiling sparge after drain to BK (starters)
 
 ## 📋 Brew Eve  
@@ -57,7 +56,7 @@
 
 ## 📋 Set-up  
 - [ ] Begin heating strike water in Boil Kettle.
-- [ ] Dose bottom of mash bag with minerals.
+- [X] Dose bottom of mash bag with minerals.
 - [ ] Condition pre-measured grains, and rest for 10 minutes.
 - [ ] Connect CO₂ to Boil Kettle hose, and purge plumbing and MLT at 1 psi CO₂.
 - [ ] Mill grains into MLT.
