@@ -24,7 +24,7 @@
 	resize: none;
 	}
 
-	input[type=text]:focus, input[type=textarea]:focus {
+	input[type=text]:focus, textarea:focus {
 	border-bottom: 2px solid #2196f3;
 	}
 
