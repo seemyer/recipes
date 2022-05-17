@@ -1,6 +1,6 @@
 <style>
 	input[type=text] {
-	padding: 5px 10px 5px 5px;
+	padding: 2px 10px 5px 5px;
 	margin: 0 0 15px 0;
 	display: block;
 	width: 320px;
@@ -8,6 +8,7 @@
 	border-radius: 0;
 	border-bottom: 1px solid #c6c6c6;
 	outline: none;
+	transition: 0.2s;
 	}
 
 	input[type=text]:focus {
