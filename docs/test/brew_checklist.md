@@ -11,17 +11,19 @@
 	outline: none;
 	}
 
-	input[type=label]:focus {
+	label {
+	position: absolute;
+	pointer-events: none;
+	left: 5px;
+	top: 10px;
+	}
+
+	label:focus {
 	top: -14px;
 	font-size: 12px;
 	color: #2196f3;
 	}
 
-	input[type=text]:focus {
-	top: -14px;
-	font-size: 12px;
-	color: #2196f3;
-	}
 </style>
 
 # Brew Day Checklist  
