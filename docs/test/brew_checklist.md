@@ -1,10 +1,11 @@
 <style>
-	input[type=text], input[type=date] {
+	input[name=style], input[name=bdate] {
 	padding: 2px 10px 5px 5px;
 	margin: 0 0 15px 0;
 	display: block;
-	width: 320px;
+	width: 220px;
 	font-size: 14px;
+	text-align: left;
 	border: none;
 	border-radius: 0;
 	border-bottom: 1px solid #c6c6c6;
@@ -12,7 +13,7 @@
 	transition: 0.2s;
 	}
 
-	textarea {
+	input[name=notes] {
 	padding: 2px 10px 5px 5px;
 	margin: 0 0 15px 0;
 	display: block;
@@ -25,27 +26,27 @@
 	resize: none;
 	}
 
-	input[type=text]:focus, input[type=date]:focus {
+	input[name=style]:focus, input[name=bdate]:focus {
 	border-bottom: 2px solid #2196f3;
 	}
 
-	textarea:focus {
+	input[name=notes]:focus {
 	border: 2px solid #2196f3;
 	}
 
-	label {
+	label[name=var_label] {
 	font-size: 16px;
 	}
 </style>
 
 # Brew Day Checklist  
-<label for="bdate">Brew Date</label><input type="date" id="bdate" name="bdate" required>
-<label for="style">Beer Style</label><input type="text" id="style" name="style" required>
+<label name="var_label" for="bdate">Brew Date</label><input type="date" id="bdate" name="bdate" required>
+<label name="var_label" for="style">Beer Style</label><input type="text" id="style" name="style" required>
 
-## ℹ️ info  
-* Pour-over 3 qts boiling sparge after drain to BK (starters)
+## ⚠️ info  
+* 
 
-## 📋 Brew Eve  
+## 📋 prep  
 - [ ] Sanitize ferment and serving keg.
 - [X] Filter Strike Volume into boil kettle, then heat to 100°F.
 - [X] Add 1.0 g/gal each of bread yeast and sugar.
@@ -54,15 +55,15 @@
 - [X] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
 - [X] Adjust grain mill gap spacing (0.028 in).
 
-## 📋 Set-up  
-- [ ] Begin heating strike water in Boil Kettle.
+## 📋 set-up  
+- [X] Begin heating strike water in Boil Kettle.
 - [X] Dose bottom of mash bag with minerals.
 - [ ] Condition pre-measured grains, and rest for 10 minutes.
 - [ ] Connect CO₂ to Boil Kettle hose, and purge plumbing and MLT at 1 psi CO₂.
 - [ ] Mill grains into MLT.
 - [ ] Dose HLT with SMB.
 
-## 📋 Mash  
+## 📋 mash  
 - [ ] Set Boil Kettle to MLT pump flow, open Kettle valve to flood pump line with strike water.
 - [ ] Open MLT valve, and pump strike water volume to MLT (0.6 GPM).
 - [ ] Turn off pump, close MLT valve, then close Boil Kettle valve.
@@ -74,7 +75,7 @@
 	- [ ] After first β rest, and measure/adjust mash pH.
 - [ ] At end of mash, turn off PID, turn off pump, and close MLT valve.
 
-## 📋 Mash Out  
+## 📋 mash out  
 - [ ] Set MLT to Boil Kettle pump flow, open MLT valve, and  flood pump line with wort.
 - [ ] Open Boil Kettle valve and pump wort volume to Kettle at #2 on controller (0.5 GPM).
 - [ ] When wort level in MLT reaches grain bed, pump sparge water to top of MLT through sample valve and RIMS.
@@ -82,7 +83,7 @@
 - [ ] Stir Kettle wort thoroughly, measure pre-boil volume/°B. Adjust with Gravity Dilution Calculator as needed.
 - [ ] Drain remaining second runnings through sample valve for yeast propagation, sauergut, and barley tea.
 
-## 📋 Boil  
+## 📋 boil  
 - [ ] Attach 2 binder clips 90° apart on Boil Kettle, and set to boil mark on burner to bring wort to a gentle boil.
 - [ ] *OPTIONAL: Create vitality starter for yeast using second runnings.*
 - [ ] Add Fermcap (9 drops), and skim any accumulated foam as it approaches a boil.
@@ -94,13 +95,13 @@
 - [ ] Begin sanitizing post-boil equipment, including wort chiller.
 - [ ] Flame out, measure wort volume.
 
-## 📋 Chill & Pitch  
+## 📋 chill & pitch  
 - [ ] Submerge sanitized wort chiller, mount stirrer, and turn Boil Kettle pick-up tube to 10:00 orientation.
 - [ ] Activate wort chiller and stirrer, then cool to 170°F.
 - [ ] Add whirlpool hop addition in mesh bag.
 - [ ] Re-activate wort chiller and stirrer, then cool to less than 70°F (recover hot waste water for cleaning).
 - [ ] Remove wort chiller, then whirlpool with stirrer for 2 minutes.
-- [ ] Raise valve edge of Boil Kettle on block, and wait 60 minutes to settle trub.
+- [ ] Raise valve edge of Boil Kettle on block, and wait 30 minutes to settle trub.
 - [ ] Prep fermenter and serving keg, then continue equipment clean-up.
 - [ ] Turn pick-up tube to 12:00 orientation, and transfer wort to fermentation vessel.
 - [ ] Transfer trub, record trub volume, and transfer to pitcher in fridge to reserve as speise for spunding and FFT.
@@ -109,4 +110,4 @@
 - [ ] *Begin fermentation schedule.*
 
 ## ✏️ notes  
-<textarea id="notes" name="notes" rows="8" required></textarea>
+<textarea id="notes" name="notes" rows="12" required></textarea>
