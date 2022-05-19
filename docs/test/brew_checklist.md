@@ -13,7 +13,7 @@
 	transition: 0.2s;
 	}
 
-	input[name=notes] {
+	textarea {
 	padding: 2px 10px 5px 5px;
 	margin: 0 0 15px 0;
 	display: block;
@@ -30,7 +30,7 @@
 	border-bottom: 2px solid #2196f3;
 	}
 
-	input[name=notes]:focus {
+	textarea:focus {
 	border: 2px solid #2196f3;
 	}
 
