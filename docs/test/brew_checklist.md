@@ -48,16 +48,16 @@
 
 ## 📋 prep  
 - [ ] Sanitize ferment and serving keg.
-- [X] Filter Strike Volume into boil kettle, then heat to 100°F.
-- [X] Add 1.0 g/gal each of bread yeast and sugar.
-- [X] Weigh grains into bucket.
-- [X] Measure Irish moss and rehydrate in water. Measure minerals, hops, adjuncts.
-- [X] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
-- [X] Adjust grain mill gap spacing (0.028 in).
+- [ ] Filter Strike Volume into boil kettle, then heat to 100°F.
+- [ ] Add 1.0 g/gal each of bread yeast and sugar.
+- [ ] Weigh grains into bucket.
+- [ ] Measure Irish moss and rehydrate in water. Measure minerals, hops, adjuncts.
+- [ ] Set up brewing equipment (kettle, MLT, chiller, cart, grain mill, close valves).
+- [ ] Adjust grain mill gap spacing (0.028 in).
 
 ## 📋 set-up  
-- [X] Begin heating strike water in Boil Kettle.
-- [X] Dose bottom of mash bag with minerals.
+- [ ] Begin heating strike water in Boil Kettle at 75% heat.
+- [ ] Dose bottom of mash bag with minerals.
 - [ ] Condition pre-measured grains, and rest for 10 minutes.
 - [ ] Connect CO₂ to Boil Kettle hose, and purge plumbing and MLT at 1 psi CO₂.
 - [ ] Mill grains into MLT.
@@ -65,14 +65,14 @@
 
 ## 📋 mash  
 - [ ] Set Boil Kettle to MLT pump flow, open Kettle valve to flood pump line with strike water.
-- [ ] Open MLT valve, and pump strike water volume to MLT (0.6 GPM).
+- [ ] Open MLT valve, and pump strike water volume to MLT (0.6 GPM = 6% power).
 - [ ] Turn off pump, close MLT valve, then close Boil Kettle valve.
 - [ ] Add acid/sauergut to MLT, stir mash gently to mix thoroughly, and cover with mash cap.
 - [ ] Set RIMS recirculation pump flow, open MLT valve.
 - [ ] Rest mash for 5 minutes, then turn on pump and recirculate for 5 minutes (0.6 GPM).
-- [ ] Increase recirculation to 2.0 GPM, turn on element PID, and set first mash step.
-- [ ] Mash per schedule (MLT will lag RIMS by 3°F), and record °B data in log.
-	- [ ] After first β rest, and measure/adjust mash pH.
+- [ ] Slowly increase recirculation to 2.0 GPM while turning on element PID, and set first mash step.
+- [ ] Mash per schedule, and record data in log.
+- [ ] After first β rest, and measure/adjust mash pH.
 - [ ] At end of mash, turn off PID, turn off pump, and close MLT valve.
 
 ## 📋 mash out  
