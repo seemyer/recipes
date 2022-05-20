@@ -1,42 +1,42 @@
-This is a virtual book of recipes for the HiWa house.  
+This is the virtual book of recipes for the HiWa house.  
 
 ## 🍳 the regular rotation
-* mac and cheese
-* ham, bean, and kale soup
-* refried bean pupusas
 * chicken tinga tacos
-* salmon-rice bowl
-* pasta
-* dumplings
-* pizza
-* katsudon
-* oatmeal
-* french toast
-* swedish pancakes
-* grilled cheese and tomato soup
-* sushi-rice bowl
-* thai curry
 * chili
+* chirashi sushi
+* dumplings
+* french toast
+* grilled cheese and tomato soup
+* ham, bean, and kale soup
+* katsudon
 * mabo tofu
+* mac and cheese
+* oatmeal
+* pasta
+* pizza
+* refried bean pupusas
+* salmon-rice bowl
+* swedish pancakes
+* thai curry
 
 ## 💚 health goals
-* Ichiju Sansai (soup, main, 2 sides, pickle, grain)
+* Ichiju Sansai *(soup, main, 2 sides, pickle, grain)*
 	- [ ] 🍱
 	- [ ] Main
 	- [ ] Soup
 		* miso
 		* chicken
-		* chinese stock
+		* chinese
 	- [ ] Sides
 		* broccoli
 		* red bell pepper
-		* sweet potato (fries, roasted)
+		* sweet potato *(fries, roasted)*
 		* edamame
 		* cherry tomatoes
-		* corn (cob, salad?)
+		* corn *(cob, salad?)*
 		* kale salad
-		* carrot (raw, roasted?)
-		* cabbage (stir fry)
+		* carrot *(raw, roasted?)*
+		* cabbage *(stir fry)*
 		* zucchini fritters
 	- [ ] Pickle
 		* kimchi
@@ -46,13 +46,14 @@ This is a virtual book of recipes for the HiWa house.
 	- [ ] Grain
 		* rice
 		* bread
+		* oats
 * Mealtimes
 	* At the dining table
 	* Minimize TV or electronics
 	* Chew more slowly
 	* Put down the fork between bites
 	* Focus on textures and flavors
-* Emphasis
+* Pau Hana
 	* 3 drink/week
 	* hard boiled eggs
 	* almonds
@@ -60,17 +61,17 @@ This is a virtual book of recipes for the HiWa house.
 	* canned fish
 	* kimchi
 	* cheese
-	* flavor enhancers
-		* Soy sauce
-		* Miso paste
-		* Tabasco
-		* Vinaigrette
-		* Chili oil
-		* Vinegar
-		* Prosciutto
-		* Parmesan
-		* Fat
-* Basic smoothie (serves 1)
+* Flavor Enhancers
+	* Soy sauce
+	* Miso paste
+	* Tabasco
+	* Vinaigrette
+	* Chili oil
+	* Vinegar
+	* Prosciutto
+	* Parmesan
+	* Fat
+* Basic Smoothie *(serves 1)*
 	- [ ] .5 cup yogurt
 	- [ ] 1 banana
 	- [ ] 2 cup kale
