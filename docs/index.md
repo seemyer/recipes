@@ -20,8 +20,7 @@ This is the virtual book of recipes for the HiWa house.
 * thai curry
 
 ## 💚 health goals
-* Ichiju Sansai *(soup, main, 2 sides, pickle, grain)*
-	- [ ] 🍱
+* 🍱 Ichiju Sansai *(soup, main, 2 sides, pickle, grain)*
 	- [ ] Main
 	- [ ] Soup
 		* miso
@@ -71,8 +70,3 @@ This is the virtual book of recipes for the HiWa house.
 	* Prosciutto
 	* Parmesan
 	* Fat
-* Basic Smoothie *(serves 1)*
-	- [ ] .5 cup yogurt
-	- [ ] 1 banana
-	- [ ] 2 cup kale
-	- [ ] 5 oz frozen berries.
