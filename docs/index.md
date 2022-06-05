@@ -15,8 +15,8 @@ This is the virtual book of recipes for the HiWa house.
 * pasta
 * pizza
 * refried bean pupusas
-* salmon-rice bowl
 * swedish pancakes
+* teri salmon don
 * thai curry
 
 ## 💚 health goals
@@ -58,7 +58,7 @@ This is the virtual book of recipes for the HiWa house.
 	* almonds
 	* dried fruit
 	* canned fish
-	* kimchi
+	* pickles
 	* cheese
 * Flavor Enhancers
 	* Soy sauce
