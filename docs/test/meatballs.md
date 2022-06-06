@@ -34,6 +34,8 @@
 ## ✏️ notes  
 * Attempting to find an easy meatball recipe that passes the D test.
 * Should be springy, yet tender.
+* Toaster oven broiler doesn't cook fast enough.
+* Meatballs fell apart in the sauce.
 
 ## 🔗 sources  
 https://seriouseats.com/the-best-swedish-meatballs-recipe  
