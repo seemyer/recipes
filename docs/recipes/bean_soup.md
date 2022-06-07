@@ -34,5 +34,5 @@
 * Better Than Bouillon chicken base used in place of chicken stock or water.
 
 ## 🔗 sources  
-https://seriouseats.com/recipes/2010/12/holiday-leftovers-ham-bean-and-kale-stew.html  
+https://seriouseats.com/holiday-leftovers-ham-bean-and-kale-stew  
 https://seriouseats.com/30-minute-tuscan-white-bean-soup-recipe  

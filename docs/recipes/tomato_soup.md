@@ -3,7 +3,7 @@
 
 ## ℹ️ info  
 * About 30 minutes  
-* 4 servings  
+* 4 servings *(3/4 quart)*  
 
 ## 📋 ingredients  
 **From Scratch:**
