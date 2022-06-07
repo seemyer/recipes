@@ -28,7 +28,7 @@
 5. Serve immediately, or allow to cool at room temperature, transfer to airtight containers, and refrigerate.
 
 ## ✏️ notes  
-* Kroger-brand crushed peeled tomatoes in tomato puree is preferred.
+* *Kroger*-brand crushed peeled tomatoes in tomato puree is preferred.
 * Reserve full pint jar for 1 batch of tomato soup or 2 pizzas.
 * Combine 175 grams of dried pasta with 20 fluid ounces of sauce for 1 batch of pasta.
 * Sauce can be frozen flat in Ziploc bags for up to 6 months.

@@ -31,7 +31,7 @@
 
 ## ✏️ notes  
 * Adapted for pressure cooker.
-* Better Than Bouillon chicken base used in place of chicken stock or water.
+* *Better Than Bouillon* chicken base used in place of chicken stock or water.
 
 ## 🔗 sources  
 https://seriouseats.com/holiday-leftovers-ham-bean-and-kale-stew  
