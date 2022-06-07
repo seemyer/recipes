@@ -8,6 +8,7 @@
 ## 📋 ingredients  
 
 **From Scratch:**  
+
 - [ ] **14	grams**	extra-virgin olive oil *(1 tbsp)*
 - [ ] **1	cloves**	garlic, grated on a microplane grater
 - [ ] **60	grams**	onion, finely sliced *(1/2 small)*
