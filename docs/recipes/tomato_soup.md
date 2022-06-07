@@ -6,12 +6,14 @@
 * 4 servings *(3/4 quart)*  
 
 ## 📋 ingredients  
+
 **From Scratch:**  
 - [ ] **14	grams**	extra-virgin olive oil *(1 tbsp)*
 - [ ] **1	cloves**	garlic, grated on a microplane grater
 - [ ] **60	grams**	onion, finely sliced *(1/2 small)*
 - [ ] **1/2	teaspoon**	dried oregano
 - [ ] **1	can**	crushed peeled tomatoes *(28 oz)*
+
 **Quick n' Dirty:**  
 - [ ] **450	grams**	pre-made tomato sauce *(16 oz)*
 <br>
