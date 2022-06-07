@@ -21,6 +21,7 @@
 - [ ] **1/2	bunch**	kale leaves *(about 1 qt loosely packed)*
 - [ ] Freshly ground black pepper
 - [ ] Sherry vinegar
+- [ ]	Crusty bread
 
 ## 🔪 steps  
 1. Heat olive oil in a medium pressure cooker over medium-high heat until shimmering. Add onions, carrots, and celery and cook, stirring frequently, until softened but not browned, about 3 minutes. Add garlic and dried red pepper flakes and cook, stirring constantly until fragrant, about 1 minute.
