@@ -18,8 +18,8 @@
 **Quick n' Dirty:**  
 
 - [ ] **450	grams** pre-made tomato sauce *(16 oz)*
-
----
+  
+---  
 
 - [ ] **6	grams** chicken bouillon *(1 tsp)*
 - [ ] **240	grams**	water *(1 c)*
