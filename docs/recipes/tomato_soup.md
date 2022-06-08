@@ -10,9 +10,9 @@
 **From Scratch:**  
 
 - [ ] **14	grams**	extra-virgin olive oil *(1 tbsp)*
-- [ ] **1	cloves**	garlic, grated on a microplane grater
+- [ ] **1	clove**	garlic, grated on a microplane grater
 - [ ] **60	grams**	onion, finely sliced *(1/2 small)*
-- [ ] **1/2	teaspoon**	dried oregano
+- [ ] **1	teaspoon**	dried oregano
 - [ ] **1	can**	crushed peeled tomatoes *(28 oz)*
 
 **Quick n' Dirty:**  
@@ -23,7 +23,7 @@
 
 - [ ] **6	grams** chicken bouillon *(1 tsp)*
 - [ ] **240	grams**	water *(1 c)*
-- [ ] **1	slice**	sandwich bread, crusts removed, torn into 1/2-inch pieces
+- [ ] **1	slice**	sandwich bread, crusts removed, cut into 1/2-inch pieces
 - [ ] **30	grams**	unsalted butter, melted *(2 tbsp)*
 - [ ] Kosher salt and freshly ground black pepper
 - [ ] Grilled cheese sandwiches
