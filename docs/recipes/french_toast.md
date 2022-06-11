@@ -3,15 +3,15 @@
 
 ## ℹ️ info  
 * About 40 minutes  
-* 4 servings  
+* 3 servings  
 
 ## 📋 ingredients  
-- [ ] **4	large**	eggs
-- [ ] **13	grams**	packed brown sugar, plus more for sprinkling *(1 tbsp)*
+- [ ] **3	large**	eggs
+- [ ] **9	grams**	packed brown sugar, plus more for sprinkling *(1 tbsp)*
 - [ ] **1/4	teaspoon**	kosher salt
-- [ ] **1/2	teaspoon**	ground cinnamon
-- [ ] **9	grams**	vanilla extract *(2 tsp)*
-- [ ] **300	grams**	whole milk
+- [ ] **1/4	teaspoon**	ground cinnamon
+- [ ] **6	grams**	vanilla extract *(2 tsp)*
+- [ ] **225	grams**	whole milk
 - [ ] **8	slices**	hearty white sandwich bread
 - [ ] **30	grams**	unsalted butter for the pan, plus more for serving *(2 tbsp)*
 - [ ] Maple syrup and fruit compote, for serving
