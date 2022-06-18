@@ -8,6 +8,7 @@
 - [ ] **30	grams**	dry gin
 - [ ] **30	grams**	sweet vermouth
 - [ ] **30	grams**	campari
+- [ ] **8	grams**	simple syrup (2:1 sugar:water)
 - [ ] Orange peel
 
 ## 🥃 steps  
