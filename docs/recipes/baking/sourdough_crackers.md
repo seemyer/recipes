@@ -28,7 +28,7 @@
 6. Cut crackers to desired size with pizza cutter. Bake for 16 minutes, rotating halfway through cooking time (until the crackers are golden brown). Let it cool completely, and store the crackers in an airtight container at room temperature.
 
 ## ✏️ notes  
-* 
+* 77 grams per roller load.
 
 ## 🔗 sources  
 https://bonappetit.com/story/sourdough-starter-crackers  
