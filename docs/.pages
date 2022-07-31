@@ -1,4 +1,6 @@
 arrange:
+    - index.md
     - recipes
     - baking
     - cocktails
+    - experimental
