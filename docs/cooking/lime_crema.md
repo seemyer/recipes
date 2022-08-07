@@ -3,11 +3,11 @@
 
 ## ℹ️ info  
 * About 5 minutes  
-* 2/3 cup  
+* 1 cup  
 
 ## 📋 ingredients  
 - [ ] **120	grams**	sour cream *(1/2 c)*
-- [ ] **30	grams**	heavy cream *(2 tbsp)*
+- [ ] **120	grams**	heavy cream *(1/2 c)*
 - [ ] Grated zest and juice of 1/2 lime
 - [ ] **1/4	teaspoon**	kosher salt
 - [ ] **1/8	teaspoon**	granulated garlic
