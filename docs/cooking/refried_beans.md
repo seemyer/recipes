@@ -27,21 +27,3 @@
 ## 🔗 sources  
 https://seriouseats.com/perfect-refried-beans  
 https://pinaenlacocina.com/frijolescooking-pinto-beans/  
-
-
-## ingredients  
-```
-2	cloves	garlic, crushed
-1	tablespoon	Mexican oregano, dried
-2	bay leaves
-1	whole	 (optional)
-Kosher salt
-56	grams	lard, bacon drippings, or vegetable oil
-```
-
-## steps  
-
-## notes  
-* 
-
-## sources   
