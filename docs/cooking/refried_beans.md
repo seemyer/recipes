@@ -3,7 +3,7 @@
 
 ## ℹ️ info  
 * About 60 minutes  
-* 4 servings  
+* 6 servings  
 
 ## 📋 ingredients  
 - [ ] **227	grams**	dried pinto beans *(1/2 c)*
@@ -22,7 +22,7 @@
 3. In a large skillet, heat lard, bacon drippings, or oil until shimmering over medium-high heat. Add minced onion and cook, stirring occasionally, until translucent and lightly golden, about 7 minutes. Stir in beans and cook for 2 minutes. Add 60 mililiters of reserved bean-cooking liquid. Using stick blender, process to make a smooth purée. Thin with more bean cooking water until desired consistency is reached. If refried beans become too wet, simmer, stirring, until thickened; if they become too dry, add more bean-cooking liquid, 1 tablespoon at a time, as needed. Season with salt and serve.
 
 ## ✏️ notes  
-* 
+* Tapatio consistency with 240 ml of bean liquid added (total).
 
 ## 🔗 sources  
 https://seriouseats.com/perfect-refried-beans  
