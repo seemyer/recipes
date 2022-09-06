@@ -29,7 +29,7 @@
 
 ## ✏️ notes  
 * *Kroger*-brand crushed peeled tomatoes in tomato puree is preferred.
-* Reserve full pint jar for 1 batch of tomato soup or 2 pizzas.
+* Reserve pint jar(s) for 1 batch of tomato soup (400g) and/or 2 pizzas (350g).
 * Combine 175 grams of dried pasta with 20 fluid ounces of sauce for 1 batch of pasta.
 * Sauce can be frozen flat in Ziploc bags for up to 6 months.
 
