@@ -62,6 +62,10 @@ A bastardized hybrid of Sicilian and Detroit-style pizzas with a pinch of Domino
 * Expensive pans, but worth the cost for consistent results: https://lloydpans.com/sicilian-style-pizza-pans.html
 
 ## sources
-https://www.theperfectloaf.com/sourdough-pizza-al-taglio/  
-https://www.pizzamaking.com/forum/index.php?topic=28922.0  
-https://www.seriouseats.com/foolproof-pan-pizza-recipe  
+https://theperfectloaf.com/sourdough-pizza-al-taglio/  
+https://pizzamaking.com/forum/index.php?topic=28922.0  
+https://seriouseats.com/foolproof-pan-pizza-recipe  
+https://breadtopia.com/sourdough-pan-pizza-detroit-sicilian/  
+https://youtube.com/watch?v=cKLBPiCZzKE  
+https://youtube.com/watch?v=4u8bIf0-e1I  
+https://pizzamaking.com/forum/index.php?topic=66192.0  

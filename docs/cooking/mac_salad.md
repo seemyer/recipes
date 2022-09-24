@@ -1,5 +1,5 @@
 # Mac Salad  
-<img src="URL" alt="mac_salad" width="320"/>
+<img src="https://olo-images-live.imgix.net/8d/8d96fd8fac4b48eaa80447c9db5c8103.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=fa47fd3899fe7c628ed757233555071b" alt="mac_salad" width="320"/>
 
 ## ℹ️ info  
 * About 45 minutes, active (3 hours, total)  
