@@ -1,24 +1,5 @@
 This is the virtual book of recipes for the HiWa house.  
 
-## 🍳 the regular rotation
-* chicken tinga tacos
-* chili
-* chirashi sushi
-* dumplings
-* french toast
-* grilled cheese and tomato soup
-* ham, bean, and kale soup
-* katsudon
-* mabo tofu
-* mac and cheese
-* oatmeal
-* pasta
-* pizza
-* refried bean pupusas
-* swedish pancakes
-* teri salmon don
-* thai curry
-
 ## 💚 health goals
 * 🍱 Ichiju Sansai *(soup, main, 2 sides, pickle, grain)*
 	- [ ] Main

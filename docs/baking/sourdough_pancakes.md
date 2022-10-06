@@ -1,4 +1,4 @@
-# Title  
+# Sourdough Pancakes  
 <img src="https://res.cloudinary.com/hksqkdlah/image/upload/v1/CIO%20Web%20Articles/AJ_Sourdough/flapjacks3" alt="pancake" width="320"/>  
 Supplemental description.  
 
