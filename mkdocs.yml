@@ -37,3 +37,5 @@ markdown_extensions:
 plugins:
     - search
     - awesome-pages
+    - table-reader:
+        data_path: "docs"
