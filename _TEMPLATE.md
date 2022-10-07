@@ -6,12 +6,15 @@ Supplemental description.
 * About XX minutes  
 * XX servings  
 
-> :bookmark:
-> About 30 minutes
-> 6 servings
-
 ## 📋 ingredients  
 - [ ] **XX	grams**	XXX *()*
+
+**NEW SECTION**  
+
+- [ ] **XX	grams**	XXX *()*
+
+- [ ] ***TOPPING IDEAS:***  
+	* XXX
 
 ## 🔪 steps  
 1. 
@@ -20,4 +23,4 @@ Supplemental description.
 * 
 
 ## 🔗 sources  
-URL  new tab?
+URL [in new tab?]  
