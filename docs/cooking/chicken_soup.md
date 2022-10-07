@@ -7,26 +7,42 @@
 * 6 servings  
 
 ## 📋 ingredients  
-**STOCK:**
+**STOCK:**  
+
 - [ ] **600	grams**	mixed chicken carcasses and parts, such as wings, backs, bones, and feet (3 lb)
 - [ ] **240	grams**	onion, diced
 - [ ] **240	grams**	carrots, diced
 - [ ] **100	grams**	celery, diced
-- [ ] Other aromatics, as desired (garlic, black peppercorns, bay leaves, thyme, parsley stems, rosemary, cilantro, ginger, green onion)
-**SOUP:**
+- [ ] ***Other aromatics, as desired:***
+	* garlic
+	* black peppercorns
+	* bay leaves
+	* thyme
+	* parsley stems
+	* rosemary
+	* cilantro
+	* ginger
+	* green onion
+
+**SOUP:**  
+
 - [ ] **1	large**	rotisserie chicken breast, diced into bite-sized pieces
 - [ ] **1	large**	carrot, diced into bite-sized pieces
 - [ ] **2	stalks**	celery, diced into bite-sized pieces
 - [ ] **1/2	large**	onion, diced into bite-sized pieces
 - [ ] **3	cups**	Napa cabbage, roughly chopped (optional)
 - [ ] **150	grams**	dried pasta, rice cakes, or dumplings
-- [ ] Chopped fresh herbs to garnish (parsley, cilantro, basil, green onion)
 - [ ] Kosher salt and freshly ground black pepper
+- [ ] ***Chopped fresh herbs to garnish:***
+	*  parsley
+	* cilantro
+	* basil
+	* green onion
 
 ## 🔪 steps  
-1. For the Broth: Combine all ingredients in small pressure cooker and cover with cold water, 1.8 liters. Close cooker and bring to high pressure, then cook for 45 minutes. Allow cooker to depressurize. Skim fat and impurities from stock, then strain broth into a new pot and discard the solids.
+1. ***For the Broth:*** Combine all ingredients in small pressure cooker and cover with cold water, 1.8 liters. Close cooker and bring to high pressure, then cook for 45 minutes. Allow cooker to depressurize. Skim fat and impurities from stock, then strain broth into a new pot and discard the solids.
 
-2. For the Soup: Add chicken, vegetables, and pasta to the broth. Simmer, stirring occasionally, until the pasta is as cooked as you like it, 10 to 15 minutes. Stir in the herbs, then season to taste with salt and pepper.
+2. ***For the Soup:*** Add chicken, vegetables, and pasta to the broth. Simmer, stirring occasionally, until the pasta is as cooked as you like it, 10 to 15 minutes. Stir in the herbs, then season to taste with salt and pepper.
 
 ## ✏️ notes  
 * For a Western-style soup, dice soup ingredients, add dried pasta, and use thyme, rosemary, and/or parsley as aromatics.  

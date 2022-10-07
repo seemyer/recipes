@@ -6,20 +6,14 @@
 * 4 servings  
 
 ## 📋 ingredients  
-- [ ] **454 grams**   kabocha
-- [ ] **1   knob**  ginger, julienned (optional; 1", 2.5 cm)  
-
-**Katsuo Dashi**  
-
-- [ ] **425 grams**  water
-- [ ] **6   grams** katsuobushi  
-
-**Seasonings**  
-
-- [ ] **14  grams**    sugar
-- [ ] **30  grams**    sake
-- [ ] **9   grams** soy sauce
+- [ ] **454	grams**	kabocha
+- [ ] **425	grams**	water
+- [ ] **6	grams**	katsuobushi  
+- [ ] **14	grams**	sugar
+- [ ] **30	grams**	sake
+- [ ] **9	grams**	soy sauce
 - [ ] Kosher salt
+- [ ] *Optional:* **1	inch**  ginger, julienned
 
 ## 🔪 steps  
 1. In a small pot, boil water. Once boiling, add katsuobushi, and set aside for 15 minutes.
