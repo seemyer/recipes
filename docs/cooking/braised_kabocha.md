@@ -7,10 +7,10 @@
 
 ## 📋 ingredients  
 - [ ] **454 grams**   kabocha
-- [ ] **1   knob**  ginger, julienned (optional; 1", 2.5 cm)
+- [ ] **1   knob**  ginger, julienned (optional; 1", 2.5 cm)  
 **Katsuo Dashi**
 - [ ] **425 grams**  water
-- [ ] **6   grams** katsuobushi
+- [ ] **6   grams** katsuobushi  
 **Seasonings**
 - [ ] **14  grams**    sugar
 - [ ] **30  grams**    sake
