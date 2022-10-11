@@ -1,5 +1,5 @@
 # Shoyu Chicken  
-<img src="" alt="shoyu" width="320"/>  
+<img src="https://pbs.twimg.com/media/E2Vw_OLXEBMj_ni.jpg" alt="shoyu" width="320"/>  
 
 ## ℹ️ info  
 * About 45 minutes  
