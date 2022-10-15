@@ -13,7 +13,7 @@
 - [ ] **1/8	teaspoon**	granulated garlic
 
 ## 🔪 steps  
-1. In a small mixing bowl, combine all of the ingredients andwhisk until well blended and creamy.
+1. In a small mixing bowl, combine all of the ingredients and whisk until well blended and creamy.
 2. Use at once or cover and refrigerate for up to 2 days.
 
 ## ✏️ notes  
