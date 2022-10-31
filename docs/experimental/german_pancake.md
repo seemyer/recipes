@@ -17,7 +17,7 @@
 - [ ] **7	grams**	vanilla extract *(1 1/2 tsp)*
 - [ ] **42	grams**	unsalted butter *(3 tbsp)*
 
-**NEW SECTION**  
+**Brown Sugar-Apple Topping**  
 
 - [ ] **28	grams**	unsalted butter *(2 tbsp)*
 - [ ] **78	grams**	water *(1/3 c)*
@@ -31,7 +31,8 @@
 2. Adjust oven rack to lower-middle position. Melt butter in a 12-inch ovensafe nonstick skillet over medium-low heat. Add batter to skillet, immediately transfer to oven, and set oven to 375°F. Bake until edges are deep golden brown and center is beginning to brown, 30 to 35 minutes.
 3. Transfer skillet to wire rack and sprinkle pancake with lemon juice and remaining 1 tablespoon sugar. Cut into wedges and serve.
 
-**Brown Sugar-Apple Topping**
+**Brown Sugar-Apple Topping**  
+
 1. Melt butter in 12-inch skillet over medium heat. Add water, sugar, cinnamon, and salt and whisk until sugar dissolves. Add apples, increase heat to medium-high, and bring to simmer. cover and cook, stirring occasionally, for 5 minutes. Uncover and continue to cook until apples are translucent and just tender and sauce is thickened, 5 to 7 minutes longer. Transfer to bowl and serve.
 
 ## ✏️ notes  
