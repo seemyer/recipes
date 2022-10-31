@@ -12,6 +12,7 @@
 - [ ] **14	grams**	lemon juice *(1 tbsp)*
 - [ ] **1/2	teaspoon**	kosher salt
 - [ ] **1/8	teaspoon**	ground nutmeg
+- [ ] **355	grams**	milk *(1 1/2 c)*
 - [ ] **6	whole**	large eggs
 - [ ] **7	grams**	vanilla extract *(1 1/2 tsp)*
 - [ ] **42	grams**	unsalted butter *(3 tbsp)*
