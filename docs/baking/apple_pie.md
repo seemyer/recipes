@@ -17,7 +17,7 @@
 - [ ] **1/4	teaspoon**	ground cloves
 - [ ] **1900	grams**	tart apples, such as Granny Smith *(about 8 large)*
 - [ ] **25	grams**	tapioca starch *(1/4 cup)*
-- [ ] Old-Fashioned Flaky Pie Dough, rolled and chilled per directions for a double crust
+- [ ] **1	double-crust**	Pie Dough recipe, rolled and chilled per directions
 
 **For the Egg Wash:**  
 
