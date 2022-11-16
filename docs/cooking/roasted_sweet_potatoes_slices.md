@@ -14,10 +14,11 @@
 - [ ] **19	grams**	maple syrup or agave nectar *(1 tbsp)*
 
 ## 🔪 steps  
-1. Place cut sweet potatoes in freezer for 1 hour.
-2. Transfer sweet potatoes to large bowl. Toss with 40 grams olive oil, garlic, thyme, red pepper flakes, and season to taste with salt and pepper. Line full sheet pan with aluminum foil, and spread sweet potatoes on two rimmed baking sheets. Adjust oven racks to upper middle and lower middle positions and set oven to 300°F.
-3. Roast sweet potatoes for 50 minutes (or until beginning to brown and a thin skewer meets no resistance). Increase oven temperature to 450°F and carefully flip potatoes with thin offset spatula. Roast until second side is browned and potatoes are fully tender, about 30 minutes longer.
-4. Transfer to a large bowl. Toss with remaining olive oil and maple syrup (or agave nectar, if using). Serve immediately. 
+1. Transfer sweet potatoes to large bowl. Toss with 40 grams olive oil, garlic, thyme, red pepper flakes, and season to taste with salt and pepper. Spread sweet potatoes on rimmed baking sheet and cover tightly with aluminum foil.
+2. Place cut sweet potatoes on sheet pan and cover with foil. Place in freezer for at least 1 hour.
+3. Adjust oven racks to lower middle position, place sheet pan into oven, and set oven to 300°F. Roast until a thin skewer inserted into potatoes meets no resistance, about 1 hour.
+4. Remove foil, increase oven temperature to 425°F, and carefully flip potatoes with thin offset spatula. Roast until potatoes are browned and sugars begin to caramelize, about 30 minutes longer.
+4. Transfer roasted potatoes to a large bowl. Toss with remaining olive oil and maple syrup *(or agave nectar, if using)*. Serve immediately. 
 
 ## ✏️ notes  
 * 
