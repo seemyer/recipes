@@ -7,11 +7,12 @@ Clone attempt v1.2
 * 6-8 servings  
 
 ## 📋 ingredients  
-- [ ] **14	grams**	vegetable oil, plus more if needed *(1 tbsp)*
 - [ ] **454	grams**	ground beef, at least 15% fat *(1 lb)*
+- [ ] **3/4   teaspoon**  Kosher salt
+- [ ] **1/3   teaspoon**  baking soda
+- [ ] **9	grams**	vegetable oil, plus more if needed *(2 tsp)*
 - [ ] **100	grams**	yellow onion, diced *(1/2 medium)*
 - [ ] **1   whole**	green bell pepper, diced
-- [ ] **1   teaspoons**  Kosher salt
 - [ ] **2	whole**  cloves garlic, minced
 - [ ] **12	grams** chili powder *(2 tbsp)*
 - [ ] **1/4	teaspoon**  onion powder
@@ -20,19 +21,18 @@ Clone attempt v1.2
 - [ ] **20	grams** tomato paste *(2 tsp)*
 - [ ] **298	grams** cream of mushroom soup *(1 can)*
 - [ ] **425	grams** crushed tomatoes *(1 can)*
-- [ ] **100	grams**  water
-- [ ] **8	grams** dark chocolate
 - [ ] **1/2	teaspoon**  Asian fish sauce
-- [ ] **1 whole**	bay leaf
+- [ ] **2	whole**	bay leaf
+- [ ] **100	grams**  water (or reserved bean-cooking liquid)
 - [ ] **880	grams**  red kidney beans, drained (or 130 g cooked dry beans, see note) *(2 cans)*
 
 ## 🔪 steps  
-1. Heat oil in medium pressure cooker over medium-high heat, until shimmering. Add about 1/4 of the ground beef, stirring occasionally, until very well browned. Using a slotted spoon, remove browned beef from cooker and set aside. Drain all but 1 tablespoon fat from cooker.
-2. Add onion and bell pepper and cook, stirring and scraping up any browned bits from bottom of cooker, until lightly golden, about 5 minutes. Stir in garlic, chili powder, onion powder, garlic powder, and cumin, and cook, stirring, until fragrant, about 1 minute. (Add more oil at any time if cooker seems too dry.) Add tomato paste and cook, stirring, until slightly darkened, about 1 minute.
-3. Return browned beef to cooker along with any accumulated juices. Add uncooked beef, cream of mushroom soup, crushed tomatoes, and water. Stir well to combine. Stir in chocolate and fish sauce. Add bay leaf. Bring to a simmer, stirring well and scraping bottom all over. Using a wooden spoon or potato masher, break up any chunks of ground beef. Scrape bottom all over once more before sealing the cooker.
-4. Seal cooker, bring to high pressure, and cook for 20 minutes. Quick-release cooker and stir chili well, scraping bottom to make sure nothing is sticking.
-5. Discard bay leaf. Stir in drained beans. Season with salt and plenty of black pepper. Taste chili and add more chili powder to taste, if desired. Let simmer, stirring occasionally, for 15 minutes. If chili is too thick, stir in some reserved bean-cooking liquid to thin to desired consistency. If chili is too thin, simmer until thickened to desired consistency.
-6. Serve with the toppings of your choice.
+1. Whisk 30 grams water, salt, and baking soda in a medium bowl until dissolved. Using a hand, whisk beef with mixture until thoroughly combined.
+2. Heat oil in medium pressure cooker over medium-high heat, until shimmering. Add onion and bell pepper and cook, stirring occasionally, until softened, 4 to 6 minutes. Add garlic and cook until fragrant, about 1 minute. Add beef and cook, stirring with wooden spoon to break meat up into 1/4-inch pieces, until beef is browned and fond begins to form on pot bottom, 12 to 14 minutes.
+3. Stir in chili powder, onion powder, garlic powder, and cumin, and cook, stirring, until fragrant, about 1 minute. (Add more oil at any time if cooker seems too dry.) Add tomato paste and cook, stirring, until slightly darkened, about 1 minute. Add cream of mushroom soup, crushed tomatoes, fish sauce, bay leaf, and water. Stir well to combine.
+4. Bring to a simmer, stirring well and scraping bottom all over. Seal cooker, bring to high pressure, and cook for 20 minutes. Quick-release cooker and stir chili well, scraping bottom to make sure nothing is sticking.
+5. Discard bay leaf. Stir in drained beans. Season with salt, plenty of black pepper, and more chili powder to taste. Let simmer, stirring occasionally, for 15 minutes. If chili is too thick, stir in some reserved bean-cooking liquid to thin to desired consistency. If chili is too thin, simmer until thickened to desired consistency.
+6. Serve with Redondo's Hawaiian Winner and rice.
 
 ## ✏️ notes  
 * To cook dried red kidney beans:
@@ -43,3 +43,4 @@ Clone attempt v1.2
 ## 🔗 sources  
 https://seriouseats.com/pressure-cooker-ground-beef-and-bean-chili  
 https://reddit.com/r/Hawaii/comments/hdtgda/recipe_request_anyone_have_a_good_zippys_chili/fvn6fej/
+https://kcet.org/food-discovery/food/weekend-recipe-best-ground-beef-chili  

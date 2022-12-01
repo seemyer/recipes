@@ -7,8 +7,8 @@
 * 4-6 servings  
 
 ## 📋 ingredients  
-- [ ] **230	grams**	soft Italian or French bread, cut into 3/4-inch dice *(8 oz)*
-- [ ] **230	grams**	cornbread, cut into 3/4-inch dice *(8 oz)*
+- [ ] **250	grams**	soft Italian or French bread, cut into 3/4-inch dice *(9 oz)*
+- [ ] **250	grams**	cornbread, cut into 3/4-inch dice *(9 oz)*
 
 - [ ] **115	grams**	unsalted butter *(8 tbsp)*
 
@@ -23,9 +23,9 @@
 - [ ] Kosher salt and freshly ground black pepper
 
 - [ ] **240	grams**	low-sodium chicken or turkey stock, divided *(1 c)*
-- [ ] **240	grams**	milk *(1 c)*
+- [ ] **480	grams**	milk *(2 c)*
 
-- [ ] **1	large**	egg
+- [ ] **2	large**	eggs
 - [ ] **2	tablespoons**	minced fresh parsley leaves, divided
 
 ## 🔪 steps  
@@ -35,7 +35,7 @@
 4. To cook, cover dutch oven with lid, and bake for 20 minutes. Remove lid and continue baking until golden brown and crisp on top, 15 minutes longer. Remove from oven, let cool for 5 minutes, sprinkle with remaining parsley, and serve. 
 
 ## ✏️ notes  
-* The stuffing can be prepared through step 3 and placed in a buttered baking dish a day in advance. Remove from the refrigerator and allow the stuffing to come to room temperature for at least 1 hour before baking the next day.
+* The stuffing can be prepared through step 3 and placed in a buttered 8x8 baking dish a day in advance. Remove from the refrigerator and allow the stuffing to come to room temperature for at least 1 hour before baking the next day.
 
 ## 🔗 sources  
 https://seriouseats.com/classic-sage-and-sausage-stuffing-or-dressing-recipe  

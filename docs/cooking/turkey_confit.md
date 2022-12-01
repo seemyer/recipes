@@ -26,6 +26,7 @@
 6. Transfer thighs to oven and roast until well browned, 12 to 15 minutes. Remove turkey from oven, arrange on a platter, tuck fresh herbs between pieces, and serve.
 
 ## ✏️ notes  
+* For 2023, buy and butcher whole turkeys. Save breasts for turkey tinga tacos.
 * Recipe may be started up to 2 weeks before serving.
 * After cooking, turkey may be refrigerated in sealed bag until ready to sear and serve.
 

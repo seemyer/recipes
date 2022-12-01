@@ -6,19 +6,33 @@
 * 4 servings  
 
 ## 📋 ingredients  
+
+**Caramel Sauce**  
+
+- [ ] **50	grams**	sugar
+- [ ] **15	grams**	water
+- [ ] **15	grams**	boiling water
+
+**Custard**  
+
 - [ ] **400	mililiters**	milk
 - [ ] **3	large**	eggs
-- [ ] **130	grams**	sugar *(70 g for custard and 50 g for caramel)*
+- [ ] **70	grams**	sugar
 - [ ] **1/2	teaspoon**	vanilla
-- [ ] **50	mililiters**	water
 
 ## 🔪 steps  
-**Caramel Sauce**
-1. Place 50g sugar and water into a small saucepan over medium-low heat.
-2. Once the sugar melts and comes to a boil, swirl the pot gently to evenly heat the liquid until golden brown.
-3. Take the pot off the heat and pour in 1 tbsp water while continuing to gently swirl the pot. Pour the caramel into 4 ramekins or other molds.
-**Custard**
-1. Place milk in a microwave safe container and microwave until 100°F.
+
+**Caramel Sauce**  
+
+1. In a small saucepan, combine the sugar and room temperature water for the caramel. Turn on the heat to medium low and let the sugar dissolve completely, swirling occasionally, but without stirring.
+2. When the sugar has dissolved, increase the heat to medium. Swirl the saucepan to mix, but do not use a utensil, as it may cause the sugar to crystallize.
+3. As the sugar begins to caramelize, it will slowly turn amber, and the small bubbles will become larger.
+4. When the sugar reaches desired caramel color, turn off the heat, and immediately pour a little bit of the hot water into the caramel pot. The mixture will boil vigorously and sputter, but once this has subsided, add the rest of the hot water, swirling to combine.
+5. Quickly pour the caramel sauce into the molds, aiming for a thin, 3 mm caramel layer.  
+
+**Custard**  
+
+1. Place milk in a microwave safe container and microwave until 140°F.
 2. Add the egg, remaining sugar, and vanilla into a mixing bowl and whisk thoroughly.
 3. Add warm milk into the egg mixture gradually and stir to combine them all together.
 4. Strain the custard base using a sieve or strainer.
@@ -36,3 +50,4 @@
 https://chopstickchronicles.com/custard-pudding/  
 https://dreamsofdashi.com/purin/  
 https://iamafoodblog.com/how-to-make-japanese-pudding-aka-purin/  
+https://justonecookbook.com/custard-pudding/  
