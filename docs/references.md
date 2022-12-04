@@ -1,3 +1,6 @@
+## turkey carcass for jook  
+* Toss turkey in oil, then roast @ 450F for 45 mins.  
+
 ## asian pantry ingredients
 - [ ] Yang Jiang fermented black beans
 - [ ] Lee Kum Kee premium oyster sauce
