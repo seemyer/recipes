@@ -48,8 +48,8 @@
 
 5. Working in batches so as not to crowd the pot, fry the thighs until deep golden brown, 5 to 6 minutes, turning halfway through. Remove and let cool on the wire rack or paper towels.
 
-6. When ready to serve, cut the chicken lengthwise and then crosswise into bite-size pieces. Place the chicken over a bed of rice and drizzle with the kochujang aioli and su-miso sauce. Top with scallions. Serve immediately with salt-pickled cabbage on the side.
-
+6. When ready to serve, cut the chicken lengthwise and then crosswise into bite-size pieces. Place the chicken over a bed of rice and drizzle with the kochujang aioli and su-miso sauce. Top with scallions. Serve immediately with salt-pickled cabbage on the side.  
+  
 1. **For Kochujang Aioli *(makes 1/2 cup)*:** In a small bowl, whisk together the kochujang, sugar, garlic, and mayonnaise with a teaspoon of water until incorporated.
 
 1. **For Su-Miso Sauce *(makes 1/2 cup)*:** In a small saucepan, stir together the sake, mirin, and sugar. Bring to a boil, cooking until the smell of alcohol goes away and the sauce starts to thicken, 1 to 2 minutes. Remove from the heat and whisk in the miso until dissolved. Let cool before using.
