@@ -50,13 +50,12 @@
 
 6. When ready to serve, cut the chicken lengthwise and then crosswise into bite-size pieces. Place the chicken over a bed of rice and drizzle with the kochujang aioli and su-miso sauce. Top with scallions. Serve immediately with salt-pickled cabbage on the side.
 
-&nbsp;
+  
+
 1. **For Kochujang Aioli *(makes 1/2 cup)*:** In a small bowl, whisk together the kochujang, sugar, garlic, and mayonnaise with a teaspoon of water until incorporated.
 
-&nbsp;
 1. **For Su-Miso Sauce *(makes 1/2 cup)*:** In a small saucepan, stir together the sake, mirin, and sugar. Bring to a boil, cooking until the smell of alcohol goes away and the sauce starts to thicken, 1 to 2 minutes. Remove from the heat and whisk in the miso until dissolved. Let cool before using.
 
-&nbsp;
 1. **For Koko *(makes 3 cups)*:** Core the cabbage and cut into 2-inch squares, breaking the layers apart. Place the cabbage in a large bowl and sprinkle with the salt, using a spatula or your hands to distribute the salt evenly and massage it into the leaves.
 2. Use an inverted plate to cover and press the cabbage and place a heavy object on top, like a tin can or large stone. Let sit at room temperature for 1 hour. Remove the weight and toss the cabbage. If there are parts of cabbage that haven’t turned slightly translucent, sprinkle them with a little more salt and toss again. Replace the weight and let sit for another 30 minutes.
 3. Remove the cabbage from the bowl and place in a colander over the sink. Use your hands to squeeze out as much moisture as possible. Don’t rinse it! Once the cabbage has been squeezed, sprinkle on the dashi powder (if using) and toss to coat. Chill until ready to serve. Keeps for about 1 week in the fridge.
