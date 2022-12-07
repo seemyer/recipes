@@ -20,7 +20,7 @@
 - [ ] **90	grams**	all-purpose flour *(3/4 c)*
 - [ ] **2	teaspoons**	garlic salt
 
-- [ ] ***TOPPING IDEAS:***  
+- [ ] ***Serve with:***  
 	* Chopped scallions
 	* Kochujang Aioli *(recipe follows)*
 		- [ ] **20	grams**	kochujang *(1 tbsp)*
@@ -49,8 +49,6 @@
 5. Working in batches so as not to crowd the pot, fry the thighs until deep golden brown, 5 to 6 minutes, turning halfway through. Remove and let cool on the wire rack or paper towels.
 
 6. When ready to serve, cut the chicken lengthwise and then crosswise into bite-size pieces. Place the chicken over a bed of rice and drizzle with the kochujang aioli and su-miso sauce. Top with scallions. Serve immediately with salt-pickled cabbage on the side.
-
-  
 
 1. **For Kochujang Aioli *(makes 1/2 cup)*:** In a small bowl, whisk together the kochujang, sugar, garlic, and mayonnaise with a teaspoon of water until incorporated.
 
