@@ -7,13 +7,13 @@
 
 ## 📋 ingredients  
 
-- [ ] **240  grams** dashi or Hondashi equivalent
-- [ ] **15  grams** soy sauce *(1 tbsp)*
-- [ ] **15  grams** sake *(1 tbsp)*
+- [ ] **240  grams** dashi or Hondashi equivalent *(1 c)*
+- [ ] **30  grams** soy sauce *(2 tbsp)*
+- [ ] **30  grams** sake *(2 tbsp)*
 - [ ] **14  grams** honey *(2 tsp)*
-- [ ] **10  grams** mirin *(2 tsp)*
+- [ ] **30  grams** mirin *(2 tbsp)*
 - [ ] **125  grams**    thinly sliced yellow onion *(1 small)*
-- [ ] **226  grams**    leftover katsu or other meat, cut crosswise into 1/2-inch strips
+- [ ] **226  grams**    leftover katsu or other meat, cut crosswise into 1/2-inch strips *(8-12 oz)*
 - [ ] **150  grams**    eggs *(3 large)*
 - [ ] **2  stalks** scallions, thinly sliced
 - [ ] Cooked rice, for serving
@@ -28,3 +28,4 @@
 
 ## 🔗 sources  
 https://seriouseats.com/katsudon-japanese-leftover-cutlet-rice-egg-bowl-recipe  
+https://justonecookbook.com/katsudon/  
