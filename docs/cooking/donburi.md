@@ -7,7 +7,7 @@
 
 ## 📋 ingredients  
 
-- [ ] **240  grams** dashi or Hondashi equivalent *(1 c)*
+- [ ] **360  grams** dashi or Hondashi equivalent *(12 oz)*
 - [ ] **30  grams** soy sauce *(2 tbsp)*
 - [ ] **30  grams** sake *(2 tbsp)*
 - [ ] **14  grams** honey *(2 tsp)*
