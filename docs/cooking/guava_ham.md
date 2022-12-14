@@ -17,7 +17,6 @@
 3. Place in oven and roast for 5 minutes. Pull out oven rack, apply another coat of glaze, and repeat. Repeat glazing step 2 more times. Remove ham from oven and let rest 5 minutes.
 4. To carve ham, place cut side down on a cutting board and make a single slice right next to the bone, dividing ham in two. Place boneless side with the newly cut side facing down and slice thinly into serving pieces. Repeat with remaining ham, cutting it from the bone one section at a time before slicing it into serving portions.
 
-
 ## ✏️ notes  
 * Most hams come in thick vacuum-sealed packaging that can be used for sous vide cooking. If not, seal your ham in a vacuum-sealed bag before cooking it sous vide.
 

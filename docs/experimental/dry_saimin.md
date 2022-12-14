@@ -23,7 +23,7 @@
 
 - [ ] ***SERVING IDEAS:***  
 	* Chinese hot mustard
-	* Instant Saimin Broth
+	* Instant saimin broth
 
 ## 🔪 steps  
 1. Bring a large pot of salted water to a boil over high heat.

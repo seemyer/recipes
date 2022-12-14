@@ -1,4 +1,4 @@
-# Roasted-Chickpea and Kale Salad  
+# Chickpea and Kale Salad  
 <img src="https://www.seriouseats.com/thmb/4qdU_OH-1K05sQCnwOhfSghh4fg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__10__20140227-roasted-chickpea-sun-dried-tomato-herb-kale-salad-pine-nut-recipe-vegan-edit-f4ff22d0bfc14280845a6ba119ce6522.jpg" alt="salad" width="320"/>  
 
 ## ℹ️ info  
@@ -18,7 +18,7 @@
 - [ ] **1	clove**	garlic, grated
 - [ ] **30	grams**	lemon juice *(2 tbsp)*
 - [ ] **1 teaspoon**	lemon zest *(1 lemon)*
-- [ ] **1/2 teaspoon	hot sauce
+- [ ] **1/2 teaspoon**	hot sauce
 - [ ] **10	grams**	sherry or red wine vinegar *(2 tsp)*
 - [ ] **1 cup**	fresh cilantro leaves, roughly chopped
 

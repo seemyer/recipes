@@ -1,4 +1,4 @@
-# Hasselback Potato Gratin Recipe  
+# Hasselback Potato Gratin  
 <img src="https://www.seriouseats.com/thmb/tSUtVCWp8VXOmXQ3w5GLhNZtqwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hasselback-potato-gratin-casserole-holiday-food-lab-09-01a4aaedcbe84befaffb1190302d110f.jpg" alt="gratin" width="320"/>  
 
 ## ℹ️ info  
