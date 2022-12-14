@@ -1,4 +1,4 @@
-# Crockpot Little Smokies  
+# Crockpot Hawaiian Smokies  
 <img src="https://g4t5m8n4.rocketcdn.me/wp-content/uploads/2020/01/IMG_3702.jpg" alt="smokies" width="320"/>  
 
 ## ℹ️ info  
@@ -12,7 +12,7 @@
 - [ ] **140	grams**	ketchup *(1/2 c)*
 - [ ] **30	grams**	soy sauce *(2 tbsp)*
 - [ ] **4	cloves**	garlic, minced
-- [ ] **1/2	inch**	ginger, grated
+- [ ] **1	inch**	ginger, grated
 - [ ] **800	grams**	Lit'l Smokies *(2 14-oz packages)*
 - [ ] **15	grams**	water *(1 tbsp)*
 - [ ] **8	grams**	cornstarch *(1 tbsp)*
