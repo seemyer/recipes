@@ -1,4 +1,4 @@
-# Thai Chicken Curry with Eggplant and Kabocha Squash
+# Thai Chicken Curry
 <img src="https://www.seriouseats.com/thmb/jv5trsF4NGPZf3_weFk0UGF7PFQ=/610x343/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__04__20140402-pressure-cooker-thai-chicken-squash-eggplant-spinach-curry-08-edit-8473c1e06bad471b81802b77889aaba5.jpg" alt="thai curry" width="320"/>
 
 ## ℹ️ info  
