@@ -18,8 +18,8 @@
 - [ ] **8	grams**	cornstarch *(1 tbsp)*
 
 ## 🔪 steps  
-1. In slow cooker, mix together brown sugar, honey, ketchup, soy sauce, garlic, and ginger. Stir in sausages.
-2. Cover and cook on Low for 3 hours.
+1. In small slow cooker, mix together brown sugar, honey, ketchup, soy sauce, garlic, and ginger. Stir in sausages.
+2. Cover and cook for 2 hours.
 3. Whisk cornstarch into water. Add cornstarch mixture to slow cooker, stir until thickened, and serve with toothpicks.
 
 ## ✏️ notes  

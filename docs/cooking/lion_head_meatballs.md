@@ -18,7 +18,7 @@
 - [ ] **1/4	teaspoon**	white pepper
 - [ ] **1000	grams**	water
 - [ ] **28	grams**	chicken bouillon
-- [ ] **340	grams**	napa cabbage, quartered lengthwise, cored, and cut crosswise into 2-inch pieces *(1 small head)*
+- [ ] **340	grams**	napa cabbage, quartered lengthwise, cored, and cut crosswise into 2-inch pieces *(1/2 small head)*
 - [ ] **60	grams**	rice vermicelli
 
 ## 🔪 steps  
