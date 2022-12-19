@@ -2,18 +2,17 @@
 <img src="https://g4t5m8n4.rocketcdn.me/wp-content/uploads/2020/01/IMG_3702.jpg" alt="smokies" width="320"/>  
 
 ## ℹ️ info  
-* About 240 minutes  
-* 12-14 servings  
+* About 130 minutes  
+* 8-10 servings  
 
 ## 📋 ingredients  
-- [ ] **567	grams**	canned pineapple chunks *(1 can)*
-- [ ] **50	grams**	brown sugar *(1/4 c)*
-- [ ] **120	grams**	honey *(1/3 c)*
-- [ ] **140	grams**	ketchup *(1/2 c)*
+- [ ] **25	grams**	brown sugar *(2 tbsp)*
+- [ ] **42	grams**	honey *(2 tbsp)*
 - [ ] **30	grams**	soy sauce *(2 tbsp)*
-- [ ] **4	cloves**	garlic, minced
-- [ ] **1	inch**	ginger, grated
-- [ ] **800	grams**	Lit'l Smokies *(2 14-oz packages)*
+- [ ] **70	grams**	ketchup *(1/4 c)*
+- [ ] **2	cloves**	garlic, minced
+- [ ] **1/2	inch**	ginger, grated
+- [ ] **400	grams**	Lit'l Smokies *(One 14-oz package)*
 - [ ] **15	grams**	water *(1 tbsp)*
 - [ ] **8	grams**	cornstarch *(1 tbsp)*
 

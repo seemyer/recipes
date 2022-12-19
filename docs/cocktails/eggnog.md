@@ -5,8 +5,8 @@
 * 2 liters *(1 liter before adding dairy)*  
 
 ## 📋 ingredients  
-- [ ] **4	whole**	egg yolks
-- [ ] **8	whole**	eggs
+- [ ] **3	whole**	egg yolks
+- [ ] **7	whole**	eggs
 - [ ] **280	grams**	granulated sugar
 - [ ] **167	grams**	aged rum
 - [ ] **167	grams**	bourbon
@@ -20,6 +20,7 @@
 
 ## ✏️ notes  
 * This recipe comes out at approximately 11% ABV, 5.6% milkfat, 144 g/L sugar.
+* Adjust eggs down from original to match volume of average Kirkland Signature Large Cage Free egg (50g/egg).
 
 ## 🔗 sources  
 https://reddit.com/r/cocktails/comments/7cy9ly/large_batch_holiday_drinks_come_share/dpvnm6t/  
