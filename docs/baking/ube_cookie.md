@@ -6,29 +6,28 @@
 * XX servings  
 
 ## 📋 ingredients  
-- [ ] **360	grams**	all-purpose flour *(3 c)*
-- [ ] **2	teaspoons**	baking powder
-- [ ] **1/2	teaspoon**	salt
-- [ ] **230	grams**	coconut oil *(1 c)*
+- [ ] **115	grams**	unsalted butter, pliable but cool, about 60°F *(8 tbsp)*
+- [ ] **100	grams**	coconut oil, firm but creamy, about 70°F *(1/2 c)*
 - [ ] **100	grams**	granulated sugar *(1/2 c)*
 - [ ] **100	grams**	packed light or dark brown sugar *(1/2 c)*
-- [ ] **100	grams**	eggs, at room temperature *(2 large)*
-- [ ] **240	grams**	ube halaya jam
+- [ ] **1/2	teaspoon**	salt
 - [ ] **2	teaspoon** ube extract
 - [ ] **1/2	teaspoon**	vanilla extract
+- [ ] **2	teaspoons**	baking powder
+- [ ] **100	grams**	eggs, at room temperature *(2 large)*
+- [ ] **240	grams**	ube halaya jam
+- [ ] **360	grams**	all-purpose flour *(3 c)*
+
 - [ ] **100	grams**	granulated sugar, for rolling *(1/2 c)*
 - [ ] **120	grams**	confectioners’ sugar, for rolling *(1 c)*
 
 ## 🔪 steps  
-1. Whisk the flour, baking powder, and salt together in a large bowl. Set aside.
-2. In bowl of stand mixer fitted with a paddle attachment, beat the butter, granulated sugar, and brown sugar together on medium high speed until fluffy and creamed, about 2 minutes. Beat in egg, ube halaya, ube extract, and vanilla on high speed. Scrape down the sides and bottom of the bowl as needed.
-3. On low speed, slowly mix the dry ingredients into the wet ingredients until combined. The cookie dough will be thick and sticky. Cover dough tightly with aluminum foil or plastic wrap and chill for at least 2 hours and up to 3 days.
-4. Remove cookie dough from the refrigerator and allow to sit at room temperature for 15 minutes. You can preheat the oven during this time.
-5. Preheat oven to 350°F (177°C). Line two large baking sheets with parchment paper or silicone baking mats. Set aside.
-6. Scoop and roll balls of dough, about 1½ Tablespoons of dough each, into balls. Roll each ball very lightly in granulated sugar, then generously in the confectioners’ sugar. Place 3 inches apart on the baking sheets.
-7. Bake the cookies for 11-12 minutes. If the cookies aren’t really spreading by minute 9, remove them from the oven and lightly bang the baking sheet on the counter 2-3x. This helps initiate that spread. Return to the oven for a couple more minutes. The cookies will be thick regardless, though– they deflate a little as they cool!
-8. Cool cookies for 5 minutes on the baking sheet, then transfer to a wire rack to cool completely.
-9. Cookies stay fresh covered at room temperature for up to 1 week.
+1. Combine butter, coconut oil, sugar, salt, ube extract, vanilla extract, and baking powder in the bowl of a stand mixer fitted with a paddle attachment. Mix on low to moisten, then increase speed to medium and beat until fluffy and light, about 5 minutes. Pause to scrape the bowl with a flexible spatula, then beat a minute more. In chilly winter months, this process may take longer.
+2. With the mixer running, crack in the egg, add the ube jam, and continue beating until smooth. Reduce speed to low, add flour, and mix until dough begins to gather around the paddle but the flour hasn't quite disappeared. Fold once or twice with a flexible spatula to ensure the dough is well combined and appears thick and sticky. Cover bowl tightly with plastic wrap and chill for at least 2 hours and up to 3 days.
+3. Remove cookie dough from the refrigerator and allow to sit at room temperature for 15 minutes. Preheat oven to 325°F. Line two large baking sheets with parchment paper or silicone baking mats.
+4. Using tablespoon measure, scoop level tablespoon of dough and roll between palms into 1 inch ball; drop ball into cake pan with sugar and repeat to form about 4 balls. Toss balls in sugar to lightly coat, then drop into seperate cake pan with confectioners' sugar and coat very generously. Set balls on prepared baking sheet, spacing them about 2 inches apart. Repeat with remaining dough.
+5. Bake 1 sheet at a time until cookies are browned, still puffy and edges have begun to set but centers are still soft (cookies will look raw between cracks and seem underdone), about 10 minutes, rotating baking sheet halfway through baking. If the cookies aren’t really spreading by minute 9, remove them from the oven and lightly bang the baking sheet on the counter 2-3x. Do not over-bake.
+6. Cool cookies on baking sheet 5 minutes, then use wide metal spatula to transfer cookies to wire rack; cool cookies to room temperature and serve. (Can be stored at room temperature in airtight container or zipper-lock plastic bag up to 5 days.)
 
 ## ✏️ notes  
 * Make Ahead & Freezing Instructions: Baked cookies freeze well up to 3 months. Unbaked cookie dough balls (that are not coated in confectioners’ sugar) freeze well up to 3 months. See post above about how to freeze cookie dough balls.  
