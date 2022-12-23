@@ -3,7 +3,7 @@
 
 ## ℹ️ info  
 * About XX minutes  
-* XX servings  
+* 60 cookies *(2 inch)*  
 
 ## 📋 ingredients  
 - [ ] **115	grams**	unsalted butter, pliable but cool, about 60°F *(8 tbsp)*
@@ -30,7 +30,7 @@
 6. Cool cookies on baking sheet 5 minutes, then use wide metal spatula to transfer cookies to wire rack; cool cookies to room temperature and serve. (Can be stored at room temperature in airtight container or zipper-lock plastic bag up to 5 days.)
 
 ## ✏️ notes  
-* Make Ahead & Freezing Instructions: Baked cookies freeze well up to 3 months. Unbaked cookie dough balls (that are not coated in confectioners’ sugar) freeze well up to 3 months. See post above about how to freeze cookie dough balls.  
+* Make Ahead & Freezing Instructions: Baked cookies freeze well up to 3 months. Unbaked cookie dough balls (that are not coated in confectioners’ sugar) freeze well up to 3 months.
 
 ## 🔗 sources  
 https://sallysbakingaddiction.com/double-chocolate-crinkle-cookies/  

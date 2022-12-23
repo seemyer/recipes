@@ -3,7 +3,7 @@
 
 ## ℹ️ info  
 * About 180 minutes *(30 minutes active )*  
-* 36 cookies  
+* 18 large cutouts and 48 small cutouts 
 
 ## 📋 ingredients  
 - [ ] **115	grams**	unsalted butter, pliable but cool, about 60°F *(8 tbsp)*
@@ -28,7 +28,6 @@
 - [ ] **40	grams**	heavy cream, divided, plus more if needed *(3 tbsp)*
 - [ ] Gel paste food coloring, optional
 
-
 ## 🔪 steps  
 1. Combine butter, coconut oil, sugar, salt, vanilla extract, baking powder, baking soda, and almond extract in the bowl of a stand mixer fitted with a paddle attachment. Mix on low to moisten, then increase speed to medium and beat until fluffy and light, about 5 minutes. Pause to scrape the bowl with a flexible spatula, then beat a minute more. In chilly winter months, this process may take longer.
 2. With the mixer running, crack in the egg and continue beating until smooth. Reduce speed to low, add flour, and mix until dough begins to gather around the paddle but the flour hasn't quite disappeared. Fold once or twice with a flexible spatula to ensure the dough is well combined. Divide in half and proceed to the next step, or wrap in plastic and refrigerate up to 1 week. Refrigerated dough should be left to stand at room temperature until soft and pliable, then lightly kneaded to restore its plasticity before rolling.
@@ -38,7 +37,7 @@
 **Royal Icing**  
 
 1. Measure 450 grams powdered sugar and place in the bowl of a stand mixer, then add egg whites, rum, vanilla, salt, and cream of tartar. Stir with a flexible spatula to form a smooth paste, then set over a gently simmering water bath in a 3-quart saucier and stir until paste is about 150°F. Transfer to stand mixer fitted with a paddle attachment, add remaining 60 grams powdered sugar, and mix at low speed to combine. Increase speed to medium and beat until thick and frosting-like, about 20 seconds and mixing bowl feels cool to the touch.
-2. Reduce speed to low, add 20 grams cream, and continue mixing until smooth. Remove bowl from mixer and lift paddle attachment, moving it in a figure 8 pattern as icing streams back into bowl. If the figure 8 disappears in just over 8 seconds, the icing is ready to use as a cookie glaze. If it melts away faster, thicken by adding a spoonful of powdered sugar. If it takes longer than 9-10 seconds to disappear, thin by adding a few drops of cream. Repeat this test, making adjustments as you go, until the right consistency.
+2. Reduce speed to low, add cream, and continue mixing until smooth. Remove bowl from mixer and lift paddle attachment, moving it in a figure 8 pattern as icing streams back into bowl. If the figure 8 disappears in just over 8 seconds, the icing is ready to use as a cookie glaze. If it melts away faster, thicken by adding a spoonful of powdered sugar. If it takes longer than 9-10 seconds to disappear, thin by adding a few drops of cream. Repeat this test, making adjustments as you go, until the right consistency.
 3. Divide icing among several small bowls, one for each color you'd like to prepare. Cover each with plastic wrap pressed directly against the surface. Working with one bowl at a time, stir in a few drops of gel paste. When your desired color has been achieved, immediately transfer to a disposable pastry bag fitted with a #3 pastry tip or re-cover. For ease of use, stand the bag upright in a small drinking glass.
 4. Leaving a 1/8- to 1/4-inch margin, outline baked and fully cooled cookies with icing, then roughly drizzle the interiors with more icing, using the piping tip to nudge it into an even layer. Work quickly if topping with sprinkles or a secondary icing color, as royal icing will form a crust within 90 seconds. Allow icing to air-dry until firm, about 6 hours. Store in an airtight container up to 1 week at room temperature, or 10 days refrigerated.
 
