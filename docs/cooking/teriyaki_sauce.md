@@ -1,5 +1,5 @@
 # Teriyaki Sauce  
-<img src="https://v1.nitrocdn.com/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-7e8ca0b/wp-content/uploads/2014/04/Yakitori-2.jpg" alt="teri"/>
+<img src="https://cdn.shopify.com/s/files/1/0276/1559/2522/articles/20160606-yakitori-negima-tare_895275b2-028e-4809-908c-616ec5d74afc_900x.jpg" alt="teri"/>
 
 ## ℹ️ info  
 * About 45 minutes  
