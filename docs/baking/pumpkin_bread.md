@@ -6,18 +6,16 @@
 * 1 loaf *(9x4 pullman pan)* or 4 mini-loaves *(220 grams / loaf)*  
 
 ## 📋 ingredients  
-212 grams pumpkin puree (½ 15oz can)
-
 - [ ] **210	grams** all-purpose flour *(1 2/3 c)*
 - [ ] **6	grams** baking soda *(1 tsp)*
-- [ ] **10	grams** ground cinnamon *(4 tsp)*
+- [ ] **3	teaspoons** ground cinnamon
 - [ ] **1/4	teaspoon** ground cloves
-- [ ] **5	grams** nutmeg, freshly ground *(2 tsp)*
-- [ ] **1/2 teaspoon** salt *(1.33 g)*
+- [ ] **1	teaspoon** nutmeg, freshly ground
+- [ ] **1/2 teaspoon** salt
 - [ ] **225 grams** granulated sugar *(1 c + 2 tbsp)*, plus more for topping
 - [ ] **2	whole** eggs
 - [ ] **100 grams** oil *(1/2 c / 118 ml)*
-- [ ] **212 grams** pumpkin puree *(1/2 15oz can)*
+- [ ] **424 grams** pumpkin puree *(15oz can)*
 - [ ] **100 grams** sourdough discard *(or 30 g sour cream)*
 
 ## 🔪 steps  
