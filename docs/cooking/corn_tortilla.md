@@ -8,7 +8,7 @@
 ## 📋 ingredients  
 - [ ] **120	grams**	masa harina
 - [ ] **2	grams**	kosher salt *(3/4 tsp)*
-- [ ] **300	grams**	boiling water, plus warm tap water as needed *(10 oz)*
+- [ ] **150	grams**	boiling water, plus warm tap water as needed *(10 oz)*
 - [ ] **8	grams**	vegetable oil *(2 tsp)*
 
 ## 🔪 steps  
