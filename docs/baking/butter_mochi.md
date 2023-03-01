@@ -40,8 +40,8 @@
 * Freezes very well.
 
 ## 🔗 sources  
-https://thefreshloaf.com/node/30110/many-types-mochi-cakes-how-it-has-take-whole-new-life-my-kitchen  
 https://hawaiianelectric.com/recipes/find-a-recipe/butter-mochi  
-https://justonecookbook.com/butter-mochi/  
-https://contemplatingsweets.com/hawaiian-butter-mochi/  
+https://leaandjay.wordpress.com/2022/03/07/butter-mochi/  
+https://www.thekitchn.com/hawaiian-butter-mochi-recipe-23147549  
+https://thefreshloaf.com/node/30110/many-types-mochi-cakes-how-it-has-take-whole-new-life-my-kitchen  
 https://seriouseats.com/sour-cream-pound-cake-recipe  
