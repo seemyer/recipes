@@ -28,4 +28,10 @@ Brine dry beans for 8 hours in 10g salt / 3g baking soda per L of water.
 6. Remove from the oven and blue towel it. Use the same blue towel for the whole seasoning process.
 7. Return to the oven set to 500°F, wait 30 minutes, turn off the oven and let it cool down inside of the oven.
 
+## prevent apples from browning
+1. Combine 0.5 tsp salt with 240 grams water.
+2. Soak sliced apples for 10 mins.
+3. Remove apples and store until ready to use.
+4. Rinse before serving.
+
 ## 🔗 sources  

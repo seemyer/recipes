@@ -10,7 +10,7 @@
 - [ ] **28	grams**	extra-virgin olive oil
 - [ ] **30	grams**	unsalted butter
 - [ ] **4	cloves**	garlic, minced
-- [ ] **60	grams**	tomato paste *(2 tbsp)*
+- [ ] **33	grams**	tomato paste *(2 tbsp)*
 - [ ] **1/8	teaspoon**	red pepper flakes
 - [ ] **1/2	tablespoon**	dried oregano
 - [ ] **115	grams**	carrot, cut into large chunks *(1 large)*

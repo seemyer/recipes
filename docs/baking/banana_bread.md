@@ -28,7 +28,7 @@
 8. Let cool in the pan on a wire rack for 30 minutes, remove from the pan and let cool completely on the wire rack. Enjoy!
 
 ## ✏️ notes  
-* 
+* 64% of unpeeled banana is edible.
 
 ## 🔗 sources  
 https://iamafoodblog.com/flour-bakerys-banana-bread/  
