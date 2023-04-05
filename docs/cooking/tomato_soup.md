@@ -24,7 +24,7 @@
 - [ ] **8	grams** chicken bouillon *(1 tsp)*
 - [ ] **300	grams**	water *(10 oz)*
 - [ ] **1	slice**	sandwich bread, crusts removed, cut into 1/2-inch pieces
-- [ ] **30	grams**	unsalted butter, melted *(2 tbsp)*
+- [ ] **15	grams**	unsalted butter, melted *(1 tbsp)*
 - [ ] Kosher salt and freshly ground black pepper
 - [ ] Grilled cheese sandwiches
 - [ ] Saltine crackers, crushed
