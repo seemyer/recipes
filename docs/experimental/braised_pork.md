@@ -1,4 +1,4 @@
-# Kau Yuk (扣肉)  
+# Chinese Braised Pork Belly  
 <img src="URL" alt="DESCRIPTION" width="320"/>  
 
 ## ℹ️ info  
@@ -6,10 +6,10 @@
 * 4-6 servings  
 
 ## 📋 ingredients  
-- [ ] **1-2	lbs**	pork belly, skin-on
+- [ ] **1-2	lbs**	rind-on pork belly
 - [ ] **4	inch**	ginger, sliced thinly and divided
 - [ ] **6	whole**	green onions, divided
-- [ ] **120	grams**	Xiaoxing wine (or red wine), divided
+- [ ] **100	grams**	Xiaoxing wine (or red wine), divided
 - [ ] **2	whole**	star anise
 - [ ] **1	whole**	cinnamon stick
 - [ ] **2	whole**	bay leaves
@@ -23,7 +23,7 @@
 - [ ] **4	whole**	eggs
 
 ## 🔪 steps  
-1. Sear skin of pork belly until well-browned using a wok over medium-high or placing the pork in a shallow tray of water and torching over 2-3 passes.
+1. Sear skin of pork belly until well-browned using a wok over medium-high heat, or by placing the pork in a shallow tray of water and torching over 2-3 passes.
 2. Rinse pork in a bowl of water and scrape skin clean with a knife or stainless scrubber.
 3. Place pork in a wok and add water to cover. Add half of ginger, half of green onion, and half of Xiaoxing wine to wok. Bring to a boil, skimming any foam, and cook until chopsticks can be inserted into the skin, about 20 minutes.
 4. Transfer pork belly to a bowl of cold water. Rinse and wipe out wok. When cool, slice pork into 2 cm cubes. Set aside.
