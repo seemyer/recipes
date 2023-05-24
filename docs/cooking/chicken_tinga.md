@@ -19,16 +19,6 @@
 - [ ] **30	grams**	cider vinegar *(2 tbsp)*
 - [ ] **475	grams**	low-sodium chicken stock *(using 14 g bouillon)*
 - [ ] **10	grams**	Asian fish sauce *(2 tsp)*
-- [ ] ***To Serve:***
-	* tortillas, taco shells, or tortilla chips
-	* white onion, finely chopped
-	* shredded colby jack cheese
-	* crumbled queso fresco
-	* chopped fresh cilantro leaves and fine stems
-	* lettuce, shredded
-	* salsa
-	* Mexican crema or sour cream
-	* limes, cut into 12 wedges each
 
 ## 🔪 steps  
 1. Season chicken generously with salt and pepper. Heat oil in a medium saucepan over high heat until shimmering. Add chicken skin side down and cook, without moving, until well browned, 6 to 8 minutes. (Lower heat if pot is smoking excessively or chicken starts to burn.) Flip chicken and cook on second side for 2 minutes. Transfer to a large plate and immediately add tomatillos, tomatoes, and garlic to pot. Cook, flipping occasionally, until blistered and browned in spots, about 5 minutes.

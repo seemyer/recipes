@@ -8,14 +8,14 @@ Devil's Food cake. Time-tested recipe for D's birthday cakes or cupcakes.
 
 ## 📋 ingredients  
 - [ ] **340	grams**	unsalted butter *(about 3 sticks; 12oz)*
-- [ ] **300	grams**	brewed black coffee, or black tea such as Assam *(10oz)*
+- [ ] **340	grams**	brewed black coffee, or black tea such as Assam *(12oz)*
 - [ ] **85	grams**	Dutch-process cocoa powder, such as Cacao Barry Extra Brute *(3oz)*
 - [ ] **170	grams**	finely chopped dark chocolate, roughly 72% *(6oz)*
 - [ ] **455	grams**	light brown sugar *(16oz)*
 - [ ] **15	grams**	vanilla extract *(about 1tbsp; ½oz)*
 - [ ] **4	grams**	Diamond Crystal kosher salt *(1tsp)*
-- [ ] **330	grams**	eggs, straight from the fridge *(6 large)*
-- [ ] **50	grams**	egg yolks, straight from the fridge *(3 large)*
+- [ ] **295	grams**	eggs, straight from the fridge *(6 large)*
+- [ ] **45	grams**	egg yolks, straight from the fridge *(3 large)*
 - [ ] **255	grams**	all-purpose flour *(9oz)*
 - [ ] **13	grams**	baking soda *(1tbsp)*
 - [ ] ***6-7	cups	Swiss Buttercream or other frosting***
@@ -45,17 +45,17 @@ Devil's Food cake. Time-tested recipe for D's birthday cakes or cupcakes.
 	- [ ] ***6	cups	Swiss Buttercream or other frosting***
 * For 2x 9x13 Sheet Cake *(1.4x multiplier)*:
 	- [ ] **480 grams** unsalted butter
-	- [ ] **450 grams** brewed black coffee, or black tea such as Assam
+	- [ ] **480 grams** brewed black coffee, or black tea such as Assam
 	- [ ] **120 grams** Dutch-process cocoa powder, such as Cacao Barry Extra Brute
 	- [ ] **240 grams** finely chopped dark chocolate, roughly 72%
 	- [ ] **640 grams** light brown sugar
-	- [ ] **30 grams** vanilla extract (about 1tbsp; ½oz)
-	- [ ] **8 grams** Diamond Crystal kosher salt (1tsp)
-	- [ ] **450 grams** eggs, straight from the fridge (8 large)
-	- [ ] **80 grams** egg yolks, straight from the fridge (4 large)
+	- [ ] **21 grams** vanilla extract
+	- [ ] **6 grams** Diamond Crystal kosher salt
+	- [ ] **415 grams** eggs, straight from the fridge *(8 large)*
+	- [ ] **65 grams** egg yolks, straight from the fridge *(4 large)*
 	- [ ] **360 grams** all-purpose flour
 	- [ ] **18 grams** baking soda
-	- [ ] ***7-8 cups Swiss Buttercream or other frosting***
+	- [ ] ***8 cups Swiss Buttercream or other frosting***
 * The cakes can be baked in 2-inch-deep pans, but they will dome more and rise less.
 * Frosting:  
 	https://seriouseats.com/swiss-meringue-buttercream-frosting-recipe  
@@ -63,3 +63,5 @@ Devil's Food cake. Time-tested recipe for D's birthday cakes or cupcakes.
 
 ## 🔗 sources  
 https://seriouseats.com/bravetarts-devils-food-cake  
+https://marthastewart.com/8314774/cake-pans-servings-sizes  
+https://blog.wilton.com/cake-baking-serving-guide/  
