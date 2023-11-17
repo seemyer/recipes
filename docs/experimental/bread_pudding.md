@@ -24,7 +24,7 @@
 - [ ] pearl sugar *(optional)*
 
 ## 🔪 steps
-1. Combine brown sugar, cinnamon, salt, ginger, nutmeg, and cloves in a gallon-sized zip-top bag. Peel, quarter, and core the apples, then slice into 1/2-inch wedges; significant deviation can change the consistency of the filling.
+1. Combine brown sugar, cinnamon, salt, ginger, nutmeg, and cloves in a gallon-sized zip-top bag. Peel, quarter, and core the apples, then chop into 1/2-inch cubes; significant deviation can change the consistency of the filling.
 2. Measure 720 grams sliced apples into the bag, seal tightly, and tumble until roughly coated. Macerate at room temperature, flipping the bag occasionally to distribute the syrup, about 60-75 minutes. The apples can be held up to 8 hours in the fridge.
 3. While apples macerate, adjust oven racks to middle and lower-middle positions and heat oven to 325 degrees.
 4. Spread bread cubes in single layer on 2 rimmed baking sheets. Bake, tossing occasionally, until just dry, about 15 minutes, switching trays from top to bottom racks halfway through. Cool bread cubes about 15 minutes; set aside 2 cups.
