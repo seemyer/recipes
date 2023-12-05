@@ -6,9 +6,9 @@
 * 2 servings  
 
 ## 📋 ingredients
-- [ ] **60	grams**	masa harina
+- [ ] **65	grams**	masa harina
 - [ ] **1	grams**	kosher salt *(1/3 tsp)*
-- [ ] **75	grams**	boiling water, plus warm tap water as needed *(3 oz)*
+- [ ] **81	grams**	boiling water, plus warm tap water as needed *(3 oz)*
 - [ ] **4	grams**	vegetable oil *(1 tsp)*
 
 ## 🔪 steps

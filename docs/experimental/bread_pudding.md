@@ -34,6 +34,7 @@
 
 ## ✏️ notes
 * If you cannot find challah, a firm high-quality sandwich bread such as Arnold Country Classics White or Pepperidge Farm Farmhouse Hearty White may be substituted.  
+* Reducing your temp to less than 250F and cook for a whole lot longer. Remove as the eggs hit about 175F or are set in the centre.  
 
 ## 🔗 sources
 https://americastestkitchen.com/recipes/5874-classic-bread-pudding  
