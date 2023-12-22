@@ -1,11 +1,11 @@
-# Sugar Cookies  
+# Sugar Cookies
 <img src="https://assets-jpcust.jwpsrv.com/thumbnails/brjj8qo2-720.jpg" alt="sugar" width="320"/>  
 
-## ℹ️ info  
+## ℹ️ info
 * About 180 minutes *(30 minutes active )*  
 * 18 large cutouts and 48 small cutouts 
 
-## 📋 ingredients  
+## 📋 ingredients
 - [ ] **115	grams**	unsalted butter, pliable but cool, about 60°F *(8 tbsp)*
 - [ ] **100	grams**	coconut oil, firm but creamy, about 70°F *(1/2 c)*
 - [ ] **225	grams**	sugar *(1 c + 2 tbsp)*
@@ -28,11 +28,12 @@
 - [ ] **40	grams**	heavy cream, divided, plus more if needed *(3 tbsp)*
 - [ ] Gel paste food coloring, optional
 
-## 🔪 steps  
+## 🔪 steps
 1. Combine butter, coconut oil, sugar, salt, vanilla extract, baking powder, baking soda, and almond extract in the bowl of a stand mixer fitted with a paddle attachment. Mix on low to moisten, then increase speed to medium and beat until fluffy and light, about 5 minutes. Pause to scrape the bowl with a flexible spatula, then beat a minute more. In chilly winter months, this process may take longer.
-2. With the mixer running, crack in the egg and continue beating until smooth. Reduce speed to low, add flour, and mix until dough begins to gather around the paddle but the flour hasn't quite disappeared. Fold once or twice with a flexible spatula to ensure the dough is well combined. Divide in half and proceed to the next step, or wrap in plastic and refrigerate up to 1 week. Refrigerated dough should be left to stand at room temperature until soft and pliable, then lightly kneaded to restore its plasticity before rolling.
-3. When ready to bake, adjust oven rack to lower-middle position and preheat to 325°F with convection. On a generously floured surface, roll a portion of the dough to a thickness of 1/4 inch. Slide an offset spatula underneath the dough to loosen. Cut with assorted cookie cutters and transfer to a parchment-lined rimmed baking sheet, leaving at least an inch of space in between cookies. Knead scraps together, then roll and cut as before. Repeat with remaining dough.
-4. Transfer to oven and bake about 10 minutes, until puffed and firm and beginning to turn pale gold around the very edges. Let the cookies cool to room temperature directly on the baking sheet, about 30 minutes. The true flavor and texture of the cookies will take another 30 minutes to develop.
+2. With the mixer running, crack in the egg and continue beating until smooth. Reduce speed to low, add flour, and mix until dough begins to gather around the paddle but the flour hasn't quite disappeared. Fold once or twice with a flexible spatula to ensure the dough is well combined.
+3. Divide in half and place half on a half sheet of parchment paper. Cover the dough with a second half sheet of parchment. Roll out the dough, turning frequently for even thickness. Once desired thickness is reached, transfer to a rimmed baking sheet, and repeat with the second half of the dough. Cover baking sheet with plastic wrap and refrigerate up to 5 days.
+4. When ready to bake, adjust oven rack to lower-middle position and preheat to 325°F with convection. Cut a portion of the dough with assorted cookie cutters and transfer to a parchment-lined rimmed baking sheet, leaving at least an inch of space in between cookies. Knead scraps together, then roll and cut as before. Repeat with remaining dough.
+5. Transfer to oven and bake about 10 minutes, until puffed and firm and beginning to turn pale gold around the very edges. Let the cookies cool to room temperature directly on the baking sheet, about 30 minutes. The true flavor and texture of the cookies will take another 30 minutes to develop.
 
 **Royal Icing**  
 
@@ -41,10 +42,11 @@
 3. Divide icing among several small bowls, one for each color you'd like to prepare. Cover each with plastic wrap pressed directly against the surface. Working with one bowl at a time, stir in a few drops of gel paste. When your desired color has been achieved, immediately transfer to a disposable pastry bag fitted with a #3 pastry tip or re-cover. For ease of use, stand the bag upright in a small drinking glass.
 4. Leaving a 1/8- to 1/4-inch margin, outline baked and fully cooled cookies with icing, then roughly drizzle the interiors with more icing, using the piping tip to nudge it into an even layer. Work quickly if topping with sprinkles or a secondary icing color, as royal icing will form a crust within 90 seconds. Allow icing to air-dry until firm, about 6 hours. Store in an airtight container up to 1 week at room temperature, or 10 days refrigerated.
 
-## ✏️ notes  
+## ✏️ notes
 * The exact yield of this recipe varies considerably, depending on the sizes and shapes of your cookie cutters. The estimates are based on assorted shapes with an average diameter of three inches—larger holiday shapes, like snowflakes, hearts, and stars. The yield will nearly double if you use small, geometric shapes.  
 * https://seriouseats.com/how-to-troubleshoot-winter-baking-projects  
 * https://seriouseats.com/decorating-cookies-with-royal-icing-tutorial  
 
-## 🔗 sources  
+## 🔗 sources
 https://seriouseats.com/rolled-sugar-cookie-recipe  
+https://bonappetit.com/story/how-to-roll-out-cookie-dough  
