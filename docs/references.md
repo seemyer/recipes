@@ -27,6 +27,10 @@ Brine dry beans for 8 hours in 10g salt / 3g baking soda per L of water.
 1 can beans = 1 1/2 cups cooked beans  
 1 lb dry beans = 4 cans beans  
 
+## instant dashi
+- [ ] **240 grams** water
+- [ ] **3 grams** dashi powder
+
 ## iron pan seasoning
 1. To season steel cookware, wash and dry well, put in the oven at 200°F for 1/2 hour.
 2. Take out of oven and, using a regular paper towel, coat with just enough (animal) fat to be on the surface of the pan. (This is the only time you are going to put fat on the pan.)
