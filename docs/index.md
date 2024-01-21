@@ -1,6 +1,11 @@
-This is the virtual book of recipes for the HiWa house.  
+This is the virtual cookbook for the HiWa house.  
 
-## 💚 health goals
+## 🍳 The Regular Rotation
+Menu ideas for the week.
+
+{{ read_csv("menu.csv") }}
+
+## 💚 Meal Planning
 * 🍱 Ichiju Sansai *(soup, main, 2 sides, pickle, grain)*
 	- [ ] Main
 	- [ ] Soup
@@ -27,6 +32,10 @@ This is the virtual book of recipes for the HiWa house.
 		* rice
 		* bread
 		* oats
+* Breakfast
+	* Have one
+	* High protein
+	* Fiber (oatmeal)
 * Mealtimes
 	* At the dining table
 	* Minimize TV or electronics
@@ -36,18 +45,8 @@ This is the virtual book of recipes for the HiWa house.
 * Pau Hana
 	* 3 drink/week
 	* hard boiled eggs
-	* almonds
+	* almonds/nuts
 	* dried fruit
 	* canned fish
 	* pickles
 	* cheese
-* Flavor Enhancers
-	* Soy sauce
-	* Miso paste
-	* Tabasco
-	* Vinaigrette
-	* Chili oil
-	* Vinegar
-	* Prosciutto
-	* Parmesan
-	* Fat
