@@ -1,23 +1,22 @@
 # Fried Fish
-<img src="URL" alt="DESCRIPTION" width="320"/>  
+<img src="https://images-gmi-pmc.edge-generalmills.com/fc34cce5-fef3-48e0-98c0-cf20f06214eb.jpg" alt="fish_fry" width="320"/>  
 
 ## ℹ️ info
-* About XX minutes  
-* XX servings  
+* About 30 minutes  
+* 3 servings  
 
 ## 📋 ingredients
 - [ ] **60 g**	all-purpose flour *(for dusting)*
-
-- [ ] **50 g**	all-purpose flour *(for batter)*
-- [ ] **30 g cup**	cornstarch
-- [ ] **1/2 teaspoon**	baking powder
+---
+- [ ] **100 g**	all-purpose flour *(for batter)*
+- [ ] **60 g cup**	cornstarch
+- [ ] **1 teaspoon**	baking powder
 - [ ] **1 teaspoon**	kosher salt
 - [ ] **1/2 teaspoon**	ground black pepper
-- [ ] **1⁄8 teaspoon**	paprika
-
-- [ ] **90 g**	light beer, ice-cold
-- [ ] **30 g**	80-proof vodka
-
+- [ ] **1⁄4 teaspoon**	paprika
+- [ ] **180 g**	light beer, ice-cold
+- [ ] **60 g**	80-proof vodka
+---
 - [ ] **840	grams**	peanut oil *(4 cups)*
 - [ ] **454	grams**	cod fillet, cut into 30-60g pieces
 
