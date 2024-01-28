@@ -1,4 +1,4 @@
-# Fried Fish
+# Beer-battered Fish
 <img src="https://images-gmi-pmc.edge-generalmills.com/fc34cce5-fef3-48e0-98c0-cf20f06214eb.jpg" alt="fish_fry" width="320"/>  
 
 ## ℹ️ info
