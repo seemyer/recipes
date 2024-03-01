@@ -1,5 +1,8 @@
-## turkey carcass for jook
-* Toss turkey in oil, then roast @ 450F for 45 mins.  
+## apple anti-browning soak
+1. Combine 0.5 tsp salt with 240 grams water.
+2. Soak sliced apples for 10 mins.
+3. Remove apples and store until ready to use.
+4. Rinse before serving.
 
 ## asian pantry ingredients
 - [ ] Yang Jiang fermented black beans
@@ -61,11 +64,8 @@ Length of cheese loaf to cut for input weight:
 1. Place the lecithin in a medium bowl. Add oil in a steady stream while whisking. Transfer to a jar or squeeze bottle and refrigerate until needed.
 2. ***To use:*** Drizzle 1 to 2 teaspoons on the pan, then brush evenly over pan surface, applying only where it will be in contact with dough or batter.
 
-## prevent apples from browning
-1. Combine 0.5 tsp salt with 240 grams water.
-2. Soak sliced apples for 10 mins.
-3. Remove apples and store until ready to use.
-4. Rinse before serving.
+## poultry carcass browning for jook/stock
+* Toss turkey in oil, then roast @ 450F for 45 mins.  
 
 <script>
 function BabyLoafCalc(valNum) {
