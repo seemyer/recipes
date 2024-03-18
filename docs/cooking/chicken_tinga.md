@@ -13,7 +13,7 @@
 - [ ] **170	grams**	ripe plum tomatoes *(2 medium)*
 - [ ] **4	medium**	garlic cloves
 - [ ] **115	grams**	white or yellow onion, finely chopped *(1/2 medium)*
-- [ ] **2	tablespoons**	smoked paprika
+- [ ] **1	tablespoons**	smoked paprika
 - [ ] **2	teaspoons**	Mexican dried oregano
 - [ ] **2	whole**	bay leaves
 - [ ] **30	grams**	cider vinegar *(2 tbsp)*

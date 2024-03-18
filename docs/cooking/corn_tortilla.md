@@ -17,7 +17,9 @@
 4. Unmold uncooked tortilla. Flip tortilla onto right hand and lay on medium side of griddle. After about 30 seconds, edges of tortilla will dry slightly and tortilla will release from griddle. Flip the tortilla over the medium high side and cook until the edges curl and the bottom is spotty brown, 30 to 60 seconds. Flip the tortilla back over and continue to cook until the first side is spotty brown and puffed in places, 30 to 60 seconds *(a gentle press with metal spatula encourages puffing)*. Lay the toasted tortilla between dish towel; repeat with the remaining tortillas.
 
 ## ✏️ notes
-*
+* 100% masa
+* 6% oil
+* 125% water
 
 ## 🔗 sources
 https://youtube.com/watch?v=eyhsvenqo7M  
