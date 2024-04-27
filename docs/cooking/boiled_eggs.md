@@ -1,19 +1,19 @@
-# Steam-Boiled Eggs  
+# Steam-Boiled Eggs
 <img src="https://static01.nyt.com/images/2019/09/25/dining/23eggrex2/23eggrex2-master768.jpg" alt="egg" width="320"/>  
 
-## ℹ️ info  
+## ℹ️ info
 * About 15 minutes  
 * 12 servings  
 
-## 📋 ingredients  
+## 📋 ingredients
 - [ ] **12	whole**	eggs
 
-## 🔪 steps  
-1. Place eggs in a lidded saucepan large enough to allow your eggs to comfortably fit on the bottom in a single layer. Add 1 inch of water, cover, and bring to a boil.
+## 🔪 steps
+1. Find a lidded saucepan large enough to allow your eggs to comfortably fit on the bottom in a single layer. Add 1 inch of water, cover and bring to a boil.
 2. Gently lower eggs into the saucepan. Cover pan and cook eggs, adjusting the burner to maintain a vigorous boil, 6 minutes for a warm liquid yolk and firm whites, 8 1/2 minutes for a translucent, fudgy yolk, or 11 minutes for a yolk that is firm all the way through.
 3. Transfer eggs to a towel and allow them to cool naturally. Eat immediately, or store in the refrigerator for up to a week directly in their shell.
 
-## ✏️ notes  
+## ✏️ notes
 * You can cook as many eggs as will fit in a single layer in your pot, up to around a dozen.
 * If you have trouble with eggs cracking during cooking, use a pushpin to poke a small hole through the shell on the fat end of the eggs. (This can also help minimize the dimple that forms on the cooked egg white due to an internal air pocket.)
 * Serving Ideas:
@@ -25,5 +25,5 @@
 	* Stir a couple of refrigerator-cold, soft-boiled eggs into a bowl of very hot rice (I usually microwave day-old rice for this) with a dash of soy sauce and a pinch of salt. Beat the mixture with chopsticks until the whites are broken into small chunks and the yolks have coated the rice in a creamy sauce for a heartier take on Japanese tamago kake gohan. Sprinkle with crushed nori or furikake.
 	* Roughly chop a couple of hard-boiled eggs. Combine a half-cup of roughly chopped niçoise olives, a small minced shallot, a big pinch of minced parsley, a half-dozen chopped anchovy fillets, the juice of a lemon and a quarter-cup of extra-virgin olive oil for a chunky vinaigrette with the flavors of a niçoise salad. Use it to dress small, waxy boiled potatoes, blanched green beans or diced cherry tomatoes. 
 
-## 🔗 sources  
+## 🔗 sources
 https://cooking.nytimes.com/recipes/1020468-perfect-steam-boiled-eggs  
