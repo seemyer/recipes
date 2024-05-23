@@ -8,7 +8,9 @@
 ## 📋 ingredients
 
 - [ ] **60 g**	all-purpose flour *(for dusting)*
+
 ---
+
 - [ ] **100 g**	all-purpose flour *(for batter)*
 - [ ] **60 g cup**	cornstarch
 - [ ] **1 teaspoon**	baking powder
@@ -17,7 +19,9 @@
 - [ ] **1⁄4 teaspoon**	paprika
 - [ ] **180 g**	light beer, ice-cold
 - [ ] **60 g**	80-proof vodka
+
 ---
+
 - [ ] **840	grams**	peanut oil *(4 cups)*
 - [ ] **454	grams**	cod fillet, cut into 30-60g pieces
 

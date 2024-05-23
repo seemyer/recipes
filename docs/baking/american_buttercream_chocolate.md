@@ -1,8 +1,8 @@
-# Chocolate American Buttercream
-<img src="URL" alt="DESCRIPTION" width="320"/>  
+# American Buttercream, Chocolate
+<img src="https://www.seriouseats.com/thmb/_9iBPPFJVbLjMm9J16XCi51Qk9s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__02__20181220-chocolate-american-buttercream-frosting-vicky-wasik-9-451f5b91df9d41ad9d6f223bde7dfc52.jpg" alt="DESCRIPTION" width="320"/>  
 
 ## ℹ️ info
-* About 30 minutes  
+* About 45 minutes  
 * 6 cups  
 
 ## 📋 ingredients

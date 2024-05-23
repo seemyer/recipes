@@ -8,10 +8,12 @@
 ## 📋 ingredients
 
 **From Scratch:**  
+
 - [ ] **550	grams**	bone-in, skin-on chicken breast *(1 whole)*
 - [ ] Kosher salt and freshly ground black pepper
 
 **Shortcut:**  
+
 - [ ] **2	whole**	rotisserie chicken breast
 
 ---
@@ -35,11 +37,14 @@
 1. **From Scratch:** Season chicken generously with salt and pepper. Heat oil in a medium saucepan over high heat until shimmering. Add chicken skin side down and cook, without moving, until well browned, 6 to 8 minutes. (Lower heat if pot is smoking excessively or chicken starts to burn.) Flip chicken and cook on second side for 2 minutes. Transfer chicken to a large plate.
 2. Add tomatillos, tomatoes, and garlic to pot. Cook, flipping occasionally, until blistered and browned in spots, about 5 minutes. Add onion and cook, stirring, until softened, about 2 minutes. Add paprika, oregano, and bay leaves and cook, stirring, until aromatic, about 30 seconds. Add vinegar, water, bouillon, and gelatin (if using).
 3. Return chicken to pot, bring to a boil over high heat, then reduce to a bare simmer. Cover the pot and cook, turning chicken occasionally, until chicken registers 145°F when an instant-read thermometer is inserted into the center of the thickest part, 20 to 30 minutes. Transfer chicken to a bowl and set aside. Continue cooking the sauce at a hard simmer, stirring, until reduced to about half its original volume, about 5 minutes longer.
+
 1. **Shortcut:** Heat oil in a small pressure cooker until shimmering. Add tomatillos, tomatoes, and garlic and cook, flipping occasionally, until blistered and browned in spots, about 5 minutes. Add onion and cook, stirring, until softened, about 2 minutes. Add paprika, oregano, and bay leaves and cook, stirring, until aromatic, about 30 seconds. Add vinegar, **240 ml** water, bouillon, and gelatin *(if using)*.
-3. Bring to a boil over high heat, seal pressure cooker, reduce heat to low, and cook at high pressure for 10 minutes. Allow pressure to release normally.
+2. Bring to a boil over high heat, seal pressure cooker, reduce heat to low, and cook at high pressure for 10 minutes. Allow pressure to release normally.
+
 ---
-4. Remove and discard bay leaves and blend the sauce using an immersion blender. Sauce should be relatively smooth, with a few small chunks. When chicken is cool enough to handle, discard the skin and bones and finely shred the meat. Return it to the sauce. Add fish sauce and stir to combine.
-5. Bring to a simmer and cook, stirring, until sauce thickens and coats chicken. It should be very moist but not soupy. Season to taste with salt and pepper (if necessary). Chicken tinga can be served in tacos; stuffed into enchiladas or burritos; on top of nachos, tostadas, and sopes; or on its own.
+
+1. Remove and discard bay leaves and blend the sauce using an immersion blender. Sauce should be relatively smooth, with a few small chunks. When chicken is cool enough to handle, discard the skin and bones and finely shred the meat. Return it to the sauce. Add fish sauce and stir to combine.
+2. Bring to a simmer and cook, stirring, until sauce thickens and coats chicken. It should be very moist but not soupy. Season to taste with salt and pepper (if necessary). Chicken tinga can be served in tacos; stuffed into enchiladas or burritos; on top of nachos, tostadas, and sopes; or on its own.
 
 ## ✏️ notes
 * Use only enough of the chicken stock to cover the chicken breast by 3/4.
