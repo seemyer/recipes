@@ -1,11 +1,11 @@
-# Banana Bread  
+# Banana Bread
 <img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/3/0/CC-Sickelka_flours-famous-banana-bread-recipe-2_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371597759396.jpeg" alt="loaf" width="320"/>
 
-## ℹ️ info  
+## ℹ️ info
 * About 75 minutes  
 * 1 loaf *(9x4 pullman pan)*
 
-## 📋 ingredients  
+## 📋 ingredients
 - [ ] **210	grams** all-purpose flour *(1 2/3 c)*
 - [ ] **6	grams** baking soda *(1 tsp)*
 - [ ] **1/4 teaspoon** ground cinnamon *(0.65 g)*
@@ -17,7 +17,7 @@
 - [ ] **100 grams** sourdough discard *(or 30 g sour cream)*
 - [ ] **5	grams** vanilla extract *(1 tsp)*
 
-## 🔪 steps  
+## 🔪 steps
 1. With the rack in the center of the oven, preheat to 325°F *(with convection)*. Line the bottom of pan with parchment paper.
 2. Sift together the flour, baking soda, cinnamon and salt in a bowl and set aside.
 3. With a stand mixer fitted with the whisk attachment, beat together the sugar and eggs on medium speed until light and fluffy, about 5 minutes.
@@ -27,8 +27,15 @@
 7. Pour the batter into the prepared pan and bake for 58 minutes *(rotating after 28 mins)* to an internal temperature of 200°F. The loaf should be golden brown on top and spring back when you press it.
 8. Let cool in the pan on a wire rack for 30 minutes, remove from the pan and let cool completely on the wire rack. Enjoy!
 
-## ✏️ notes  
+## ✏️ notes
 * 64% of unpeeled banana is edible.
+* For zucchini bread, sub:
+	- [ ] **370 grams** zucchini, grated *(for banana)*
+	- [ ] **100 grams** granulated sugar *(for sugar)*
+	- [ ] **100 grams** brown sugar *(in addition to sugar)*
+	- [ ] **1 1/4 teaspoon** ground cinnamon *(for cinnamon)*
+	- [ ] **1/8 teaspoon** grated nutmeg *(in addition to cinnamon)*
 
-## 🔗 sources  
+## 🔗 sources
 https://iamafoodblog.com/flour-bakerys-banana-bread/  
+https://smittenkitchen.com/2019/08/ultimate-zucchini-bread/  
