@@ -17,10 +17,9 @@
 - [ ] **296	grams**	milk
 
 ## 🔪 steps
-1. Preheat the oven to 350 degrees. Lightly grease an 8X8- or 9X9-inch baking pan (I always use metal; glass pans will bake differently).
+1. Preheat the oven to 350°F. Lightly grease an 8X8- or 9X9-inch baking pan (I always use metal; glass pans will bake differently).
 2. For the cornbread, in a large bowl, whisk together the cornmeal, flour, sugar, baking powder, and salt. Add the oil, butter, eggs, and milk and stir with a whisk or rubber spatula until just combined. The batter will be runny.
 3. Spread the batter evenly in the prepared pan. Bake for 30-35 minutes until a toothpick inserted in the center comes out clean or with a few moist crumbs.
-4. For the honey butter, whip all the ingredients together with an electric mixer. Best served at room temperature so it is soft and spreadable.
 
 ## ✏️ notes
 * You can make these into muffins by using the same temperature and check at around 17-18 minutes.
