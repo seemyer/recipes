@@ -27,19 +27,21 @@
 - [ ] **2	teaspoons**	Mexican dried oregano
 - [ ] **2	whole**	bay leaves
 - [ ] **30	grams**	cider vinegar *(2 tbsp)*
-- [ ] **475	grams**	water
+- [ ] **240	grams**	water
 - [ ] **14	grams**	chicken bouillon
 - [ ] **3	grams**	unflavored gelatin ***(Optional)***
 - [ ] **10	grams**	Asian fish sauce *(2 tsp)*
 
 ## 🔪 steps
 
-1. **From Scratch:** Season chicken generously with salt and pepper. Heat oil in a medium saucepan over high heat until shimmering. Add chicken skin side down and cook, without moving, until well browned, 6 to 8 minutes. (Lower heat if pot is smoking excessively or chicken starts to burn.) Flip chicken and cook on second side for 2 minutes. Transfer chicken to a large plate.
-2. Add tomatillos, tomatoes, and garlic to pot. Cook, flipping occasionally, until blistered and browned in spots, about 5 minutes. Add onion and cook, stirring, until softened, about 2 minutes. Add paprika, oregano, and bay leaves and cook, stirring, until aromatic, about 30 seconds. Add vinegar, water, bouillon, and gelatin (if using).
-3. Return chicken to pot, bring to a boil over high heat, then reduce to a bare simmer. Cover the pot and cook, turning chicken occasionally, until chicken registers 145°F when an instant-read thermometer is inserted into the center of the thickest part, 20 to 30 minutes. Transfer chicken to a bowl and set aside. Continue cooking the sauce at a hard simmer, stirring, until reduced to about half its original volume, about 5 minutes longer.
+1. **From Scratch:** Season chicken generously with salt and pepper. Heat oil in a small pressure cooker over medium-high heat until shimmering. Add chicken skin side down and cook, without moving, until well browned, 6 to 8 minutes. (Lower heat if pot is smoking excessively or chicken starts to burn.) Flip chicken and cook on second side for 2 minutes. Transfer chicken to a large plate.
+2. Add tomatillos, tomatoes, and garlic to pressure cooker. Cook, flipping occasionally, until blistered and browned in spots, about 5 minutes. Add onion and cook, stirring, until softened, about 2 minutes. Add paprika, oregano, and bay leaves and cook, stirring, until aromatic, about 30 seconds. Add vinegar, water, bouillon, and gelatin. Return chicken to pot.
+3. Bring to a boil over high heat, seal pressure cooker, reduce heat to low, and cook at high pressure for 15 minutes. Allow pressure to release normally.
+4. Transfer chicken to a bowl and set aside. Continue cooking the sauce at a hard simmer, stirring, until slightly reduced and thickened, about 5 minutes longer.
 
-1. **Shortcut:** Heat oil in a small pressure cooker until shimmering. Add tomatillos, tomatoes, and garlic and cook, flipping occasionally, until blistered and browned in spots, about 5 minutes. Add onion and cook, stirring, until softened, about 2 minutes. Add paprika, oregano, and bay leaves and cook, stirring, until aromatic, about 30 seconds. Add vinegar, **240 ml** water, bouillon, and gelatin *(if using)*.
+1. **Shortcut:** Heat oil in a small pressure cooker until shimmering. Add tomatillos, tomatoes, and garlic and cook, flipping occasionally, until blistered and browned in spots, about 5 minutes. Add onion and cook, stirring, until softened, about 2 minutes. Add paprika, oregano, and bay leaves and cook, stirring, until aromatic, about 30 seconds. Add vinegar, water, bouillon, and gelatin.
 2. Bring to a boil over high heat, seal pressure cooker, reduce heat to low, and cook at high pressure for 10 minutes. Allow pressure to release normally.
+3. Continue cooking the sauce at a hard simmer, stirring, until slightly reduced and thickened, about 5 minutes longer.
 
 ---
 
@@ -47,7 +49,7 @@
 2. Bring to a simmer and cook, stirring, until sauce thickens and coats chicken. It should be very moist but not soupy. Season to taste with salt and pepper (if necessary). Chicken tinga can be served in tacos; stuffed into enchiladas or burritos; on top of nachos, tostadas, and sopes; or on its own.
 
 ## ✏️ notes
-* Use only enough of the chicken stock to cover the chicken breast by 3/4.
+* 
 
 ## 🔗 sources
 https://seriouseats.com/chicken-tinga-spicy-mexican-shredded-chicken-recipe  
