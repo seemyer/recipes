@@ -36,19 +36,18 @@
 
 1. **From Scratch:** Season chicken generously with salt and pepper. Heat oil in a small pressure cooker over medium-high heat until shimmering. Add chicken skin side down and cook, without moving, until well browned, 6 to 8 minutes. (Lower heat if pot is smoking excessively or chicken starts to burn.) Flip chicken and cook on second side for 2 minutes. Transfer chicken to a large plate.
 2. Add tomatillos, tomatoes, and garlic to pressure cooker. Cook, flipping occasionally, until blistered and browned in spots, about 5 minutes. Add onion and cook, stirring, until softened, about 2 minutes. Add paprika, oregano, and bay leaves and cook, stirring, until aromatic, about 30 seconds. Add vinegar, water, bouillon, and gelatin. Return chicken to pot.
-3. Bring to a boil over high heat, seal pressure cooker, reduce heat to low, and cook at high pressure for 15 minutes. Allow pressure to release normally.
-4. Transfer chicken to a bowl and set aside. Continue cooking the sauce at a hard simmer, stirring, until slightly reduced and thickened, about 5 minutes longer.
+3. Bring to a boil over high heat, seal pressure cooker, reduce heat to low, and cook at high pressure for 15 minutes. Allow pressure to release normally. Transfer chicken to a bowl and set aside. 
 
 ---
 
 1. **Shortcut:** Heat oil in a small pressure cooker until shimmering. Add tomatillos, tomatoes, and garlic and cook, flipping occasionally, until blistered and browned in spots, about 5 minutes. Add onion and cook, stirring, until softened, about 2 minutes. Add paprika, oregano, and bay leaves and cook, stirring, until aromatic, about 30 seconds. Add vinegar, water, bouillon, and gelatin.
 2. Bring to a boil over high heat, seal pressure cooker, reduce heat to low, and cook at high pressure for 10 minutes. Allow pressure to release normally.
-3. Continue cooking the sauce at a hard simmer, stirring, until slightly reduced and thickened, about 5 minutes longer.
 
 ---
 
-1. Remove and discard bay leaves and blend the sauce using an immersion blender. Sauce should be relatively smooth, with a few small chunks. When chicken is cool enough to handle, discard the skin and bones and finely shred the meat. Return it to the sauce. Add fish sauce and stir to combine.
-2. Bring to a simmer and cook, stirring, until sauce thickens and coats chicken. It should be very moist but not soupy. Season to taste with salt and pepper (if necessary). Chicken tinga can be served in tacos; stuffed into enchiladas or burritos; on top of nachos, tostadas, and sopes; or on its own.
+1. **Finish Sauce:** Continue cooking the sauce at a hard simmer, stirring, until slightly reduced and thickened, about 5 minutes longer.
+2. Remove and discard bay leaves and blend the sauce using an immersion blender. Sauce should be relatively smooth, with a few small chunks. When chicken is cool enough to handle, discard the skin and bones and finely shred the meat. Return it to the sauce. Add fish sauce and stir to combine.
+3. Bring to a simmer and cook, stirring, until sauce thickens and coats chicken. It should be very moist but not soupy. Season to taste with salt and pepper (if necessary). Chicken tinga can be served in tacos; stuffed into enchiladas or burritos; on top of nachos, tostadas, and sopes; or on its own.
 
 ## ✏️ notes
 * 
