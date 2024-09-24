@@ -3,12 +3,12 @@
 
 ## ℹ️ info
 * About 45 minutes  
-* 5 tortillas  
+* <input id="inputTortillaQty" type="number" style="font-size: 0.8rem;width: 8%;background-color: lightgray;" placeholder="5" oninput="TortillaQtyCalc(this.value)" onchange="TortillaQtyCalc(this.value)"><label> tortillas</label>
 
 ## 📋 ingredients
-- [ ] **65	grams**	masa harina
-- [ ] **4	grams**	vegetable oil *(1 tsp)*
-- [ ] **81	grams**	boiling water, plus warm tap water as needed *(3 oz)*
+- [ ] **<span id="outputMasa">65</span>	grams**	masa harina
+- [ ] **<span id="outputOil">4</span>	grams**	vegetable oil
+- [ ] **<span id="outputWater">81</span>	grams**	boiling water, plus warm tap water as needed
 
 ## 🔪 steps
 1. Mix the masa, oil, and water together in a medium bowl with a rubber spatula to form a soft dough. Using your hands, knead the dough in the bowl, adding additional water as needed until the dough is very soft and has the texture of playdough. Cover with a wet towel or plastic wrap and set aside for 15 minutes.
@@ -26,3 +26,11 @@ https://youtube.com/watch?v=eyhsvenqo7M
 https://youtube.com/watch?v=N9AaqIQVJUM  
 https://rickbayless.com/recipe/corn-tortillas/  
 https://americastestkitchen.com/cooksillustrated/features/8643-you-wont-believe-how-easy-it-is-to-make-your-own-corn-tortillas  
+
+<script>
+function TortillaQtyCalc(valNum) {
+  document.getElementById("outputMasa").innerHTML=Math.ceil(valNum*13.0);
+  document.getElementById("outputOil").innerHTML=Math.ceil(valNum*0.8);
+  document.getElementById("outputWater").innerHTML=Math.ceil(valNum*16.2);
+}
+</script>

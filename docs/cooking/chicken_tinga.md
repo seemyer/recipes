@@ -39,6 +39,8 @@
 3. Bring to a boil over high heat, seal pressure cooker, reduce heat to low, and cook at high pressure for 15 minutes. Allow pressure to release normally.
 4. Transfer chicken to a bowl and set aside. Continue cooking the sauce at a hard simmer, stirring, until slightly reduced and thickened, about 5 minutes longer.
 
+---
+
 1. **Shortcut:** Heat oil in a small pressure cooker until shimmering. Add tomatillos, tomatoes, and garlic and cook, flipping occasionally, until blistered and browned in spots, about 5 minutes. Add onion and cook, stirring, until softened, about 2 minutes. Add paprika, oregano, and bay leaves and cook, stirring, until aromatic, about 30 seconds. Add vinegar, water, bouillon, and gelatin.
 2. Bring to a boil over high heat, seal pressure cooker, reduce heat to low, and cook at high pressure for 10 minutes. Allow pressure to release normally.
 3. Continue cooking the sauce at a hard simmer, stirring, until slightly reduced and thickened, about 5 minutes longer.
