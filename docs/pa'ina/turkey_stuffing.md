@@ -10,6 +10,7 @@
 - [ ] **250	grams**	soft Italian or French bread, cut into 3/4-inch dice *(9 oz)*
 - [ ] **250	grams**	cornbread, cut into 3/4-inch dice *(9 oz)*
 
+- [ ] **680	grams**	bulk pork sausage, broken into 1/2-inch pieces *(1-1/2 lbs)*
 - [ ] **115	grams**	unsalted butter *(8 tbsp)*
 
 - [ ] **1/4	cup**	minced fresh sage leaves
