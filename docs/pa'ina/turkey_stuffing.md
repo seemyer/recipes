@@ -23,7 +23,7 @@
 
 - [ ] Kosher salt and freshly ground black pepper
 
-- [ ] **350	grams**	low-sodium chicken or turkey stock, divided *(1.5 c)*
+- [ ] **350	grams**	low-sodium chicken or turkey stock, divided *(1-1/2 c)*
 - [ ] **480	grams**	milk *(2 c)*
 
 - [ ] **2	large**	eggs
