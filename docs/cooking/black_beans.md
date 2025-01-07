@@ -20,7 +20,7 @@
 
 ## 🔪 steps  
 1. In a pressure cooker, heat oil over medium-high heat until shimmering. Add onion and celery and cook, stirring, until lightly browned, about 6 minutes. Add sausage and continue to cook, stirring frequently, for 4 minutes.
-2. Add beans, garlic cloves, orange, bay leaves, chicken stock, and 1 teaspoons salt. Cover and cook at high pressure for 30 minutes.
+2. Add beans, garlic cloves, orange, bay leaves, chicken stock, and 1 teaspoons salt. Cover and cook at high pressure for 35 minutes.
 3. Allow pressure to release naturally. Remove lid and discard orange and bay leaves. Season to taste with salt and serve. Sprinkle with fresh cilantro at the table.
 
 ## ✏️ notes  

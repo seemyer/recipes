@@ -2,8 +2,8 @@
 <img src="https://assets-jpcust.jwpsrv.com/thumbnails/brjj8qo2-720.jpg" alt="sugar" width="320"/>  
 
 ## ℹ️ info
-* About 180 minutes *(30 minutes active )*  
-* 18 large cutouts and 48 small cutouts 
+* About 180 minutes *(30 minutes active)*  
+* varies 
 
 ## 📋 ingredients
 - [ ] **115	grams**	unsalted butter, pliable but cool, about 60°F *(8 tbsp)*
@@ -50,3 +50,5 @@
 ## 🔗 sources
 https://seriouseats.com/rolled-sugar-cookie-recipe  
 https://bonappetit.com/story/how-to-roll-out-cookie-dough  
+https://americastestkitchen.com/recipes/16592-raspberry-cinnamon-slice-and-bake-butter-cookies  
+https://americastestkitchen.com/recipes/16594-chocolate-striped-ginger-slice-and-bake-butter-cookies  
