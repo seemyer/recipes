@@ -1,12 +1,12 @@
-This is the virtual cookbook for the HiWa house.  
+This is the HiWa house's virtual cookbook. Unless a recipe is in the experimental section, it has been tweaked the original source and tested many times in our kitchen for deliciousness. Hopefully, in writing this down, it helps someone, somewhere make something delicious as well.  
 
 ## 🍳 The Regular Rotation
 Menu ideas for the week.
 
 {{ read_csv("menu.csv") }}
 
-## 💚 Meal Planning
-* 🍱 Ichiju Sansai *(soup, main, 2 sides, pickle, grain)*
+## 💚 Healthy Eating Reminders
+* 🍱 **Ichiju Sansai** *(soup, main, 2 sides, pickle, grain)*
 	- [ ] Main
 	- [ ] Soup
 		* miso
@@ -32,21 +32,19 @@ Menu ideas for the week.
 		* rice
 		* bread
 		* oats
-* Breakfast
-	* Have one
-	* High protein
-	* Fiber (oatmeal)
-* Mealtimes
-	* At the dining table
-	* Minimize TV or electronics
-	* Chew more slowly
-	* Put down the fork between bites
-	* Focus on textures and flavors
-* Pau Hana
-	* 3 drink/week
-	* hard boiled eggs
-	* almonds/nuts
-	* dried fruit
-	* canned fish
-	* pickles
-	* cheese
+* **Breakfast Ideas:** Sandwich, savory oatmeal, lentils, eggs
+* **Lunch:** Kefir, fiber, 2x fruit
+* **Snack:** Fruit, nuts, pickles, cheese
+* Nutrient Goals
+	* 65g protein/day
+	* 40g fiber/day
+	* 5g creatine/day
+* Whole Food Goals
+	* Dairy: Kefir, Cheese
+	* Fruit/Vegetables: 6 servings/day
+	* Nuts: 30 g/day
+	* Legumes: 3 servings/week
+	* Meat: <4 servings/week of red meat, >2 servings/week of fish
+	* Oils: 4 tbsp/day of EVOO, <4 tbsp/week of butter
+	* Alcohol: 2 days/week
+	* Ultra-processed Foods: <3 servings/week
