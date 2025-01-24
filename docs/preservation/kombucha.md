@@ -1,4 +1,4 @@
-# Jasmine Kombucha Recipe
+# Kombucha Recipe
 <img src="https://images.immediate.co.uk/production/volatile/sites/30/2017/10/Kombucha-2e25cf9.jpg" alt="kombucha" width="320"/>  
 
 ## ℹ️ info
